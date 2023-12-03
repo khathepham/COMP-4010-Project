@@ -40,6 +40,7 @@ class Category(Enum):
 class Pokemon:
     def __init__(self, name):
         self.name = name
+        self.pokeapiname = name
         self.stats = Stats()
         self.moves = {}
         self.abilities = {}
@@ -58,6 +59,9 @@ class Pokemon:
         ostr += f"Tier: {self.tier.name}\n"
         ostr += f"Usage: {self.usage_rate:.4%}\n"
 
+        ostr += f"Primary Type: {self.primary_type.name}\n"
+        ostr += f"Secondary Type: {self.secondary_type.name}\n"
+
         ostr += f"Abilities:\n"
 
         sorted_abilities = sorted(self.abilities.items(), key=lambda x: x[1]["usage"], reverse=True)
@@ -69,6 +73,9 @@ class Pokemon:
         sorted_moves = sorted(self.moves.items(), key=lambda x: x[1]["usage"], reverse=True)
         for m, v in sorted_moves:
             ostr += f"\t{m}: {v['usage']:.4%}\n"
+
+        ostr += "Stats:\n"
+        ostr += str(self.stats)
 
         return ostr
 
@@ -109,6 +116,14 @@ class Stats:
             "speed": self.speed,
             "hp": self.hp
         }
+
+    def __str__(self):
+        return f"\thp: {self.hp}\n" + \
+                f"\tattack: {self.attack}\n" + \
+                f"\tdefense: {self.defense}\n" + \
+                f"\tspatk: {self.spattack}\n" + \
+                f"\tspdef: {self.spdefense}\n" + \
+                f"\tspeed: {self.speed}\n"
 
 
 class Move:

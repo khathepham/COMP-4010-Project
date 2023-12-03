@@ -42,7 +42,8 @@ def get_all_pokemon() -> {}:
 
 
 def get_pokeapi(p: Pokemon):
-    pokemon_name = p.name
+    check_for_exception(p)
+    pokemon_name = p.pokeapiname
     pokemon_name = pokemon_name.replace(" ", "-")
     pokemon_name = pokemon_name.lower()
     r = requests.get(f"https://pokeapi.co/api/v2/pokemon/{pokemon_name}")
@@ -75,8 +76,28 @@ def get_pokeapi(p: Pokemon):
                     p.secondary_type = Type[t["type"]["name"].capitalize()]
     else:
         print(f"Unable to get PokeApi Data for {p.name}.")
-        print(f"Response Code: {r.status_code}\n{r.text}")
+        print(f"Response Code: {r.status_code} {r.text}\n")
 
+def check_for_exception(p: Pokemon):
+    name = p.name
+    if name in ("Tornadus", "Landorus", "Thundurus", "Enamorus"):
+        p.pokeapiname = name + "-therian"
+    elif "Tauros-Paldea" in name:
+        p.pokeapiname = name + "-breed"
+    elif name == "Toxtricity":
+        p.pokeapiname = name + "-amped"
+    elif name == "Indeedee":
+        p.pokeapiname = name + "-male"
+    elif name == "Indeedee-F":
+        p.pokeapiname = "Indeedee-female"
+    elif name == "Basculegion":
+        p.pokeapiname = name + "-male"
+    elif name == "Basculegion-F":
+        p.pokeapiname = "Basculegion-female"
+    elif name == "Mimikyu":
+        p.pokeapiname = name + "-disguised"
+    elif name == "Meloetta":
+        p.pokeapiname = name + "aria"
 
 if __name__ == '__main__':
     get_all_pokemon()
