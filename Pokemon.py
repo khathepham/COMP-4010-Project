@@ -1,7 +1,8 @@
 from enum import Enum
 
 
-class Tier(Enum):
+class Tier(Enum) :
+    NoTier = -1
     AboveOU = 0
     OU = 1
     BelowOU = 2
@@ -44,6 +45,8 @@ class Pokemon:
         self.abilities = {}
         self.primary_type = Type.NoType
         self.secondary_type = Type.NoType
+        self.usage_rate = 0
+        self.tier = Tier.NoTier
 
     def __eq__(self, other):
         if isinstance(other, Pokemon):
@@ -52,17 +55,20 @@ class Pokemon:
 
     def __str__(self):
         ostr = f"Name: {self.name}\n"
+        ostr += f"Tier: {self.tier.name}\n"
+        ostr += f"Usage: {self.usage_rate:.4%}\n"
+
         ostr += f"Abilities:\n"
 
         sorted_abilities = sorted(self.abilities.items(), key=lambda x: x[1]["usage"], reverse=True)
         for a, v in sorted_abilities:
-            ostr += f"\t{a}: {v['usage']:.2%}\n"
+            ostr += f"\t{a}: {v['usage']:.4%}\n"
 
         ostr += f"Moves:\n"
 
         sorted_moves = sorted(self.moves.items(), key=lambda x: x[1]["usage"], reverse=True)
         for m, v in sorted_moves:
-            ostr += f"\t{m}: {v['usage']:.2%}\n"
+            ostr += f"\t{m}: {v['usage']:.4%}\n"
 
         return ostr
 
