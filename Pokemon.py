@@ -54,17 +54,35 @@ class Pokemon:
         ostr = f"Name: {self.name}\n"
         ostr += f"Abilities:\n"
 
-        sorted_abilities = sorted(self.abilities.items(), key=lambda x:x[1]["usage"], reverse=True)
+        sorted_abilities = sorted(self.abilities.items(), key=lambda x: x[1]["usage"], reverse=True)
         for a, v in sorted_abilities:
             ostr += f"\t{a}: {v['usage']:.2%}\n"
 
         ostr += f"Moves:\n"
 
-        sorted_moves = sorted(self.moves.items(), key=lambda x:x[1]["usage"], reverse=True)
+        sorted_moves = sorted(self.moves.items(), key=lambda x: x[1]["usage"], reverse=True)
         for m, v in sorted_moves:
             ostr += f"\t{m}: {v['usage']:.2%}\n"
 
         return ostr
+
+    def toJSON(self):
+        obj = {"name": "name", "stats": self.stats.toDict()}
+        moves = {}
+        for movename, val in self.moves.items():
+            moves[movename] = val["usage"]
+        obj["moves"] = moves
+
+        abilities = {}
+        for abilityname, val in self.abilities.items():
+            abilities[abilityname] = val["usage"]
+
+        obj["primaryType"] = self.primary_type.name
+
+        if self.secondary_type != Type.NoType:
+            obj["secondaryType"] = self.primary_type.name
+
+        return obj
 
 
 class Stats:
@@ -75,6 +93,16 @@ class Stats:
         self.spdefense = 0
         self.speed = 0
         self.hp = 0
+
+    def toDict(self):
+        return {
+            "attack": self.attack,
+            "defense": self.defense,
+            "spattack": self.spattack,
+            "spdefence": self.spdefense,
+            "speed": self.speed,
+            "hp": self.hp
+        }
 
 
 class Move:
