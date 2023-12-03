@@ -97,7 +97,7 @@ def check_for_exception(p: Pokemon):
     elif name == "Mimikyu":
         p.pokeapiname = name + "-disguised"
     elif name == "Meloetta":
-        p.pokeapiname = name + "aria"
+        p.pokeapiname = name + "-aria"
 
 if __name__ == '__main__':
     get_all_pokemon()
