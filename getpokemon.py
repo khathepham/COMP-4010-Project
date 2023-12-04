@@ -1,45 +1,38 @@
 import json
 import requests
 from Pokemon import Pokemon, Type, Tier, Category, Ability, Stats, Move
-
-all_pokemon = []
+formats = ["AG", "Uber", "OU", "UUBL", "UU", "RUBL", "RU", "PUBL", "PU", "NUBL", "NU", "ZUBL", "ZU"]
 all_abilities = {}
-all_moves = {}
+all_moves = set()
 
 
-def get_all_pokemon() -> {}:
+def get_all_moves() -> {}:
     f = open("gen9ou-1825.json")
     all_gen_9_pokemon = json.load(f)
     # print(json.dumps(all_gen_9_pokemon["data"]["Iron Leaves"], indent=4))
     for k, v in all_gen_9_pokemon["data"].items():
-        p = Pokemon(k)
-        sum_abilities = 0
-        for a, val in v["Abilities"].items():
-            Ability(a)
-            sum_abilities += val
-
-        for a, val in v["Abilities"].items():
-            p.abilities[a] = {"usage": val / sum_abilities, "reference": Ability.get_ability(a)}
-
         for m, val in v["Moves"].items():
             if m is not None and m != "":
-                Move(m)
-                usage = val / sum_abilities
-                if usage > 0.03:
-                    p.moves[m] = {"usage": val / sum_abilities, "reference": Move.get_move(m)}
+                all_moves.add(m)
 
-        if v["usage"] >= 0.0454:
-            p.tier = Tier.OU
-        else:
-            p.tier = Tier.BelowOU
-        p.usage_rate = v["usage"]
+    with open("allmoves.json", "w") as f:
+        json.dump(sorted(all_moves), f, indent=4)
 
-        get_pokeapi(p)
 
-        all_pokemon.append(p)
+def get_pokemon():
 
-    print(all_pokemon[0])
-    print(f"Number of Pokemon: {len(all_pokemon)}")
+    with open("pokejson.json", "r") as f:
+        all_data = json.load(f)
+        all_pokemon = all_data["injectRpcs"][1][1]['pokemon']
+        valid_pokemon = []
+
+        for p in all_pokemon:
+            in_tier = len(set(formats) & set(p["formats"]))
+            if in_tier != 0:
+                valid_pokemon.append(p)
+        json.dump(valid_pokemon, open("allpokemon.json", "w"), indent=4)
+        print(json.dumps(valid_pokemon[0], indent=4))
+
 
 
 def get_pokeapi(p: Pokemon):
@@ -100,5 +93,8 @@ def check_for_exception(p: Pokemon):
     elif name == "Meloetta":
         p.pokeapiname = name + "-aria"
 
+def Intersection(lst1, lst2):
+    return set(lst1).intersection(lst2)
+
 if __name__ == '__main__':
-    get_all_pokemon()
+    get_pokemon()
