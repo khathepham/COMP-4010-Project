@@ -65,8 +65,8 @@ if __name__ == '__main__':
                 index_len += len(all_abilities)
 
                 for move in p.get("moves"):
-                    indexes.append(all_abilities.index(ability) + index_len)
-                index_len += len(all_abilities)
+                    indexes.append(all_moves.index(move) + index_len)
+                index_len += len(all_moves)
 
                 index_string = map(str, sorted(indexes))
                 w.write(f"{' '.join(index_string)}\n")
