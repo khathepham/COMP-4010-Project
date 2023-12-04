@@ -28,7 +28,7 @@ def get_pokemon():
 
         for p in all_pokemon:
             in_tier = len(set(formats) & set(p["formats"]))
-            if in_tier != 0:
+            if in_tier != 0 and p["oob"] is not None and len(p.get("alts", [])) == 0:
                 valid_pokemon.append(p)
         json.dump(valid_pokemon, open("allpokemon.json", "w"), indent=4)
         print(json.dumps(valid_pokemon[0], indent=4))
