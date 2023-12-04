@@ -39,6 +39,7 @@ def get_all_pokemon() -> {}:
         all_pokemon.append(p)
 
     print(all_pokemon[0])
+    print(f"Number of Pokemon: {len(all_pokemon)}")
 
 
 def get_pokeapi(p: Pokemon):
