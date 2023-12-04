@@ -15,42 +15,49 @@ if __name__ == '__main__':
     with open("allabilities.json", "r") as f:
         all_abilities = json.load(f)
     with open("allpokemon.json", "r") as f:
-        with open("pokeparse_ou.txt", "w") as w, open('pokeparse_belowou.txt', 'w') as bou, open('pokeparse_aboveou.txt', 'w') as aou:
+        with open("pokeparse_ou.txt", "w") as w, open('pokeparse_belowou.txt', 'w') as bou, open('pokeparse_aboveou.txt', 'w') as aou, open('pokeparse_all.txt', 'w') as all:
             w.write('@CONVERTED_FROM_TEXT\n')
             bou.write('@CONVERTED_FROM_TEXT\n')
             aou.write('@CONVERTED_FROM_TEXT\n')
+            all.write('@CONVERTED_FROM_TEXT\n')
             all_pokemon = json.load(f)
             counter = 1
             for x in types:
-                w.write(f"@ITEM={counter}={x}\n")
-                bou.write(f"@ITEM={counter}={x}\n")
-                aou.write(f"@ITEM={counter}={x}\n")
+                w.write(f"@ITEM={counter}=type:{x}\n")
+                bou.write(f"@ITEM={counter}=type:{x}\n")
+                aou.write(f"@ITEM={counter}=type:{x}\n")
+                all.write(f"@ITEM={counter}=type:{x}\n")
                 counter += 1
             for x in ou_cmp:
-                w.write(f"@ITEM={counter}={x}\n")
-                bou.write(f"@ITEM={counter}={x}\n")
-                aou.write(f"@ITEM={counter}={x}\n")
+                w.write(f"@ITEM={counter}=tier:{x}\n")
+                bou.write(f"@ITEM={counter}=tier:{x}\n")
+                aou.write(f"@ITEM={counter}=tier:{x}\n")
+                all.write(f"@ITEM={counter}=tier:{x}\n")
                 counter += 1
             for x in base_stat_tiers:
-                w.write(f"@ITEM={counter}={x}\n")
-                bou.write(f"@ITEM={counter}={x}\n")
-                aou.write(f"@ITEM={counter}={x}\n")
+                w.write(f"@ITEM={counter}=bst:{x}\n")
+                bou.write(f"@ITEM={counter}=bst:{x}\n")
+                aou.write(f"@ITEM={counter}=bst:{x}\n")
+                all.write(f"@ITEM={counter}=bst:{x}\n")
                 counter += 1
             for x in stats:
                 for y in stat_tiers:
-                    w.write(f"@ITEM={counter}={y}-{x}\n")
-                    bou.write(f"@ITEM={counter}={y}-{x}\n")
-                    aou.write(f"@ITEM={counter}={y}-{x}\n")
+                    w.write(f"@ITEM={counter}=stat:{y}-{x}\n")
+                    bou.write(f"@ITEM={counter}=stat:{y}-{x}\n")
+                    aou.write(f"@ITEM={counter}=stat:{y}-{x}\n")
+                    all.write(f"@ITEM={counter}=stat:{y}-{x}\n")
                     counter += 1
             for x in all_abilities:
-                w.write(f"@ITEM={counter}={x}\n")
-                bou.write(f"@ITEM={counter}={x}\n")
-                aou.write(f"@ITEM={counter}={x}\n")
+                w.write(f"@ITEM={counter}=ability:{x}\n")
+                bou.write(f"@ITEM={counter}=ability:{x}\n")
+                aou.write(f"@ITEM={counter}=ability:{x}\n")
+                all.write(f"@ITEM={counter}=ability:{x}\n")
                 counter += 1
             for x in all_moves:
-                w.write(f"@ITEM={counter}={x}\n")
-                bou.write(f"@ITEM={counter}={x}\n")
-                aou.write(f"@ITEM={counter}={x}\n")
+                w.write(f"@ITEM={counter}=move:{x}\n")
+                bou.write(f"@ITEM={counter}=move:{x}\n")
+                aou.write(f"@ITEM={counter}=move:{x}\n")
+                all.write(f"@ITEM={counter}=move:{x}\n")
                 counter += 1
 
             for p in all_pokemon:
@@ -89,10 +96,13 @@ if __name__ == '__main__':
                 # print(ou_cmp_val)
                 ou_cmp_string = p.get('ou-cmp')
                 # print(ou_cmp_string)
+                entry = f"{' '.join(index_string)}\n"
+                # print(f"{' '.join(index_string)}\n")
+                all.write(entry)
                 if(ou_cmp_string == 'OU'):
-                    w.write(f"{' '.join(index_string)}\n")
+                    w.write(entry)
                 elif(ou_cmp_string == 'BelowOU'):
-                    bou.write(f"{' '.join(index_string)}\n")
+                    bou.write(entry)
                 elif(ou_cmp_string == 'AboveOU'):
-                    aou.write(f"{' '.join(index_string)}\n")
+                    aou.write(entry)
                 
