@@ -1,3 +1,857 @@
+@CONVERTED_FROM_TEXT
+@ITEM=1=Normal
+@ITEM=2=Fire
+@ITEM=3=Water
+@ITEM=4=Grass
+@ITEM=5=Electric
+@ITEM=6=Ice
+@ITEM=7=Fighting
+@ITEM=8=Poison
+@ITEM=9=Ground
+@ITEM=10=Flying
+@ITEM=11=Psychic
+@ITEM=12=Bug
+@ITEM=13=Rock
+@ITEM=14=Ghost
+@ITEM=15=Dragon
+@ITEM=16=Dark
+@ITEM=17=Steel
+@ITEM=18=Fairy
+@ITEM=19=AboveOU
+@ITEM=20=OU
+@ITEM=21=BelowOU
+@ITEM=22=Legendary
+@ITEM=23=PseudoLegendary
+@ITEM=24=HighBST
+@ITEM=25=MidBST
+@ITEM=26=LowBST
+@ITEM=27=VeryLowBST
+@ITEM=28=LegendStat-hp
+@ITEM=29=HighStat-hp
+@ITEM=30=MidStat-hp
+@ITEM=31=LowStat-hp
+@ITEM=32=VeryLowStat-hp
+@ITEM=33=LegendStat-atk
+@ITEM=34=HighStat-atk
+@ITEM=35=MidStat-atk
+@ITEM=36=LowStat-atk
+@ITEM=37=VeryLowStat-atk
+@ITEM=38=LegendStat-def
+@ITEM=39=HighStat-def
+@ITEM=40=MidStat-def
+@ITEM=41=LowStat-def
+@ITEM=42=VeryLowStat-def
+@ITEM=43=LegendStat-spa
+@ITEM=44=HighStat-spa
+@ITEM=45=MidStat-spa
+@ITEM=46=LowStat-spa
+@ITEM=47=VeryLowStat-spa
+@ITEM=48=LegendStat-spd
+@ITEM=49=HighStat-spd
+@ITEM=50=MidStat-spd
+@ITEM=51=LowStat-spd
+@ITEM=52=VeryLowStat-spd
+@ITEM=53=LegendStat-spe
+@ITEM=54=HighStat-spe
+@ITEM=55=MidStat-spe
+@ITEM=56=LowStat-spe
+@ITEM=57=VeryLowStat-spe
+@ITEM=58=Adaptability
+@ITEM=59=Aftermath
+@ITEM=60=Air Lock
+@ITEM=61=Analytic
+@ITEM=62=Anger Point
+@ITEM=63=Anger Shell
+@ITEM=64=Anticipation
+@ITEM=65=Arena Trap
+@ITEM=66=Armor Tail
+@ITEM=67=Aroma Veil
+@ITEM=68=As One (Glastrier)
+@ITEM=69=As One (Spectrier)
+@ITEM=70=Bad Dreams
+@ITEM=71=Battle Armor
+@ITEM=72=Battle Bond
+@ITEM=73=Beads of Ruin
+@ITEM=74=Berserk
+@ITEM=75=Big Pecks
+@ITEM=76=Blaze
+@ITEM=77=Bulletproof
+@ITEM=78=Cheek Pouch
+@ITEM=79=Chilling Neigh
+@ITEM=80=Chlorophyll
+@ITEM=81=Clear Body
+@ITEM=82=Cloud Nine
+@ITEM=83=Comatose
+@ITEM=84=Commander
+@ITEM=85=Competitive
+@ITEM=86=Compound Eyes
+@ITEM=87=Contrary
+@ITEM=88=Corrosion
+@ITEM=89=Costar
+@ITEM=90=Cud Chew
+@ITEM=91=Curious Medicine
+@ITEM=92=Cursed Body
+@ITEM=93=Cute Charm
+@ITEM=94=Damp
+@ITEM=95=Dancer
+@ITEM=96=Dauntless Shield
+@ITEM=97=Dazzling
+@ITEM=98=Defiant
+@ITEM=99=Disguise
+@ITEM=100=Dragon's Maw
+@ITEM=101=Drizzle
+@ITEM=102=Drought
+@ITEM=103=Dry Skin
+@ITEM=104=Early Bird
+@ITEM=105=Earth Eater
+@ITEM=106=Effect Spore
+@ITEM=107=Electric Surge
+@ITEM=108=Electromorphosis
+@ITEM=109=Filter
+@ITEM=110=Flame Body
+@ITEM=111=Flare Boost
+@ITEM=112=Flash Fire
+@ITEM=113=Flower Veil
+@ITEM=114=Fluffy
+@ITEM=115=Forewarn
+@ITEM=116=Friend Guard
+@ITEM=117=Frisk
+@ITEM=118=Fur Coat
+@ITEM=119=Gale Wings
+@ITEM=120=Galvanize
+@ITEM=121=Gluttony
+@ITEM=122=Good as Gold
+@ITEM=123=Gooey
+@ITEM=124=Grass Pelt
+@ITEM=125=Grassy Surge
+@ITEM=126=Grim Neigh
+@ITEM=127=Guard Dog
+@ITEM=128=Gulp Missile
+@ITEM=129=Guts
+@ITEM=130=Hadron Engine
+@ITEM=131=Harvest
+@ITEM=132=Healer
+@ITEM=133=Heatproof
+@ITEM=134=Heavy Metal
+@ITEM=135=Honey Gather
+@ITEM=136=Hospitality
+@ITEM=137=Huge Power
+@ITEM=138=Hunger Switch
+@ITEM=139=Hustle
+@ITEM=140=Hydration
+@ITEM=141=Hyper Cutter
+@ITEM=142=Ice Body
+@ITEM=143=Ice Scales
+@ITEM=144=Illuminate
+@ITEM=145=Illusion
+@ITEM=146=Immunity
+@ITEM=147=Imposter
+@ITEM=148=Infiltrator
+@ITEM=149=Inner Focus
+@ITEM=150=Insomnia
+@ITEM=151=Intimidate
+@ITEM=152=Intrepid Sword
+@ITEM=153=Iron Fist
+@ITEM=154=Justified
+@ITEM=155=Keen Eye
+@ITEM=156=Leaf Guard
+@ITEM=157=Levitate
+@ITEM=158=Libero
+@ITEM=159=Light Metal
+@ITEM=160=Lightning Rod
+@ITEM=161=Limber
+@ITEM=162=Lingering Aroma
+@ITEM=163=Liquid Ooze
+@ITEM=164=Long Reach
+@ITEM=165=Magic Bounce
+@ITEM=166=Magic Guard
+@ITEM=167=Magician
+@ITEM=168=Magma Armor
+@ITEM=169=Magnet Pull
+@ITEM=170=Marvel Scale
+@ITEM=171=Mega Launcher
+@ITEM=172=Merciless
+@ITEM=173=Mind's Eye
+@ITEM=174=Minus
+@ITEM=175=Mirror Armor
+@ITEM=176=Misty Surge
+@ITEM=177=Mold Breaker
+@ITEM=178=Moody
+@ITEM=179=Moxie
+@ITEM=180=Multiscale
+@ITEM=181=Multitype
+@ITEM=182=Mycelium Might
+@ITEM=183=Natural Cure
+@ITEM=184=Neutralizing Gas
+@ITEM=185=No Guard
+@ITEM=186=Oblivious
+@ITEM=187=Opportunist
+@ITEM=188=Orichalcum Pulse
+@ITEM=189=Overcoat
+@ITEM=190=Overgrow
+@ITEM=191=Own Tempo
+@ITEM=192=Pickpocket
+@ITEM=193=Pickup
+@ITEM=194=Pixilate
+@ITEM=195=Plus
+@ITEM=196=Poison Heal
+@ITEM=197=Poison Point
+@ITEM=198=Poison Touch
+@ITEM=199=Power Spot
+@ITEM=200=Power of Alchemy
+@ITEM=201=Prankster
+@ITEM=202=Pressure
+@ITEM=203=Propeller Tail
+@ITEM=204=Protean
+@ITEM=205=Protosynthesis
+@ITEM=206=Psychic Surge
+@ITEM=207=Punk Rock
+@ITEM=208=Pure Power
+@ITEM=209=Purifying Salt
+@ITEM=210=Quark Drive
+@ITEM=211=Queenly Majesty
+@ITEM=212=Quick Draw
+@ITEM=213=Quick Feet
+@ITEM=214=Rain Dish
+@ITEM=215=Rattled
+@ITEM=216=Receiver
+@ITEM=217=Reckless
+@ITEM=218=Regenerator
+@ITEM=219=Ripen
+@ITEM=220=Rivalry
+@ITEM=221=Rock Head
+@ITEM=222=Rocky Payload
+@ITEM=223=Rough Skin
+@ITEM=224=Run Away
+@ITEM=225=Sand Force
+@ITEM=226=Sand Rush
+@ITEM=227=Sand Spit
+@ITEM=228=Sand Stream
+@ITEM=229=Sand Veil
+@ITEM=230=Sap Sipper
+@ITEM=231=Scrappy
+@ITEM=232=Seed Sower
+@ITEM=233=Serene Grace
+@ITEM=234=Shadow Tag
+@ITEM=235=Sharpness
+@ITEM=236=Shed Skin
+@ITEM=237=Sheer Force
+@ITEM=238=Shell Armor
+@ITEM=239=Shield Dust
+@ITEM=240=Skill Link
+@ITEM=241=Slush Rush
+@ITEM=242=Sniper
+@ITEM=243=Snow Cloak
+@ITEM=244=Snow Warning
+@ITEM=245=Solar Power
+@ITEM=246=Solid Rock
+@ITEM=247=Soul-Heart
+@ITEM=248=Soundproof
+@ITEM=249=Speed Boost
+@ITEM=250=Stakeout
+@ITEM=251=Stall
+@ITEM=252=Stamina
+@ITEM=253=Static
+@ITEM=254=Steadfast
+@ITEM=255=Steam Engine
+@ITEM=256=Steely Spirit
+@ITEM=257=Stench
+@ITEM=258=Sticky Hold
+@ITEM=259=Storm Drain
+@ITEM=260=Strong Jaw
+@ITEM=261=Sturdy
+@ITEM=262=Super Luck
+@ITEM=263=Supersweet Syrup
+@ITEM=264=Supreme Overlord
+@ITEM=265=Surge Surfer
+@ITEM=266=Swarm
+@ITEM=267=Sweet Veil
+@ITEM=268=Swift Swim
+@ITEM=269=Sword of Ruin
+@ITEM=270=Symbiosis
+@ITEM=271=Synchronize
+@ITEM=272=Tablets of Ruin
+@ITEM=273=Tangled Feet
+@ITEM=274=Tangling Hair
+@ITEM=275=Technician
+@ITEM=276=Telepathy
+@ITEM=277=Thermal Exchange
+@ITEM=278=Thick Fat
+@ITEM=279=Tinted Lens
+@ITEM=280=Torrent
+@ITEM=281=Tough Claws
+@ITEM=282=Toxic Boost
+@ITEM=283=Toxic Chain
+@ITEM=284=Toxic Debris
+@ITEM=285=Trace
+@ITEM=286=Transistor
+@ITEM=287=Truant
+@ITEM=288=Unaware
+@ITEM=289=Unburden
+@ITEM=290=Unnerve
+@ITEM=291=Unseen Fist
+@ITEM=292=Vessel of Ruin
+@ITEM=293=Vital Spirit
+@ITEM=294=Volt Absorb
+@ITEM=295=Water Absorb
+@ITEM=296=Water Compaction
+@ITEM=297=Water Veil
+@ITEM=298=Weak Armor
+@ITEM=299=Well-Baked Body
+@ITEM=300=White Smoke
+@ITEM=301=Wind Power
+@ITEM=302=Wind Rider
+@ITEM=303=Wonder Skin
+@ITEM=304=Zero to Hero
+@ITEM=305=absorb
+@ITEM=306=accelerock
+@ITEM=307=acid
+@ITEM=308=acidarmor
+@ITEM=309=acidspray
+@ITEM=310=acrobatics
+@ITEM=311=acupressure
+@ITEM=312=aerialace
+@ITEM=313=afteryou
+@ITEM=314=agility
+@ITEM=315=aircutter
+@ITEM=316=airslash
+@ITEM=317=allyswitch
+@ITEM=318=amnesia
+@ITEM=319=ancientpower
+@ITEM=320=aquacutter
+@ITEM=321=aquajet
+@ITEM=322=aquaring
+@ITEM=323=aquastep
+@ITEM=324=aquatail
+@ITEM=325=armorcannon
+@ITEM=326=armthrust
+@ITEM=327=aromaticmist
+@ITEM=328=assurance
+@ITEM=329=astonish
+@ITEM=330=attract
+@ITEM=331=aurasphere
+@ITEM=332=aurorabeam
+@ITEM=333=auroraveil
+@ITEM=334=avalanche
+@ITEM=335=axekick
+@ITEM=336=babydolleyes
+@ITEM=337=banefulbunker
+@ITEM=338=barbbarrage
+@ITEM=339=beatup
+@ITEM=340=belch
+@ITEM=341=bellydrum
+@ITEM=342=bind
+@ITEM=343=bite
+@ITEM=344=bitterblade
+@ITEM=345=bittermalice
+@ITEM=346=blastburn
+@ITEM=347=bleakwindstorm
+@ITEM=348=blizzard
+@ITEM=349=block
+@ITEM=350=bodypress
+@ITEM=351=bodyslam
+@ITEM=352=bonerush
+@ITEM=353=boomburst
+@ITEM=354=bounce
+@ITEM=355=branchpoke
+@ITEM=356=bravebird
+@ITEM=357=breakingswipe
+@ITEM=358=brickbreak
+@ITEM=359=brine
+@ITEM=360=brutalswing
+@ITEM=361=bubblebeam
+@ITEM=362=bugbite
+@ITEM=363=bugbuzz
+@ITEM=364=bulkup
+@ITEM=365=bulldoze
+@ITEM=366=bulletpunch
+@ITEM=367=bulletseed
+@ITEM=368=calmmind
+@ITEM=369=ceaselessedge
+@ITEM=370=celebrate
+@ITEM=371=charge
+@ITEM=372=chargebeam
+@ITEM=373=charm
+@ITEM=374=chillingwater
+@ITEM=375=chillyreception
+@ITEM=376=chloroblast
+@ITEM=377=circlethrow
+@ITEM=378=clearsmog
+@ITEM=379=closecombat
+@ITEM=380=coil
+@ITEM=381=comeuppance
+@ITEM=382=confuseray
+@ITEM=383=confusion
+@ITEM=384=copycat
+@ITEM=385=cottonguard
+@ITEM=386=counter
+@ITEM=387=courtchange
+@ITEM=388=covet
+@ITEM=389=crosschop
+@ITEM=390=crosspoison
+@ITEM=391=crunch
+@ITEM=392=crushclaw
+@ITEM=393=curse
+@ITEM=394=darkpulse
+@ITEM=395=dazzlinggleam
+@ITEM=396=defensecurl
+@ITEM=397=defog
+@ITEM=398=destinybond
+@ITEM=399=detect
+@ITEM=400=diamondstorm
+@ITEM=401=dig
+@ITEM=402=direclaw
+@ITEM=403=disable
+@ITEM=404=disarmingvoice
+@ITEM=405=discharge
+@ITEM=406=dive
+@ITEM=407=doodle
+@ITEM=408=doubleedge
+@ITEM=409=doublehit
+@ITEM=410=doublekick
+@ITEM=411=doubleshock
+@ITEM=412=dracometeor
+@ITEM=413=dragonbreath
+@ITEM=414=dragonclaw
+@ITEM=415=dragondance
+@ITEM=416=dragondarts
+@ITEM=417=dragonenergy
+@ITEM=418=dragonpulse
+@ITEM=419=dragonrush
+@ITEM=420=dragontail
+@ITEM=421=drainingkiss
+@ITEM=422=drainpunch
+@ITEM=423=dreameater
+@ITEM=424=drillpeck
+@ITEM=425=drillrun
+@ITEM=426=drumbeating
+@ITEM=427=dualwingbeat
+@ITEM=428=dynamicpunch
+@ITEM=429=earthpower
+@ITEM=430=earthquake
+@ITEM=431=echoedvoice
+@ITEM=432=eerieimpulse
+@ITEM=433=eeriespell
+@ITEM=434=electricterrain
+@ITEM=435=electroball
+@ITEM=436=electroweb
+@ITEM=437=ember
+@ITEM=438=encore
+@ITEM=439=endeavor
+@ITEM=440=endure
+@ITEM=441=energyball
+@ITEM=442=entrainment
+@ITEM=443=eruption
+@ITEM=444=esperwing
+@ITEM=445=expandingforce
+@ITEM=446=explosion
+@ITEM=447=extrasensory
+@ITEM=448=extremespeed
+@ITEM=449=facade
+@ITEM=450=fairylock
+@ITEM=451=fairywind
+@ITEM=452=fakeout
+@ITEM=453=faketears
+@ITEM=454=falsesurrender
+@ITEM=455=falseswipe
+@ITEM=456=featherdance
+@ITEM=457=feint
+@ITEM=458=fellstinger
+@ITEM=459=fierydance
+@ITEM=460=fierywrath
+@ITEM=461=finalgambit
+@ITEM=462=fireblast
+@ITEM=463=firefang
+@ITEM=464=firelash
+@ITEM=465=firepledge
+@ITEM=466=firepunch
+@ITEM=467=firespin
+@ITEM=468=firstimpression
+@ITEM=469=flail
+@ITEM=470=flamecharge
+@ITEM=471=flamethrower
+@ITEM=472=flamewheel
+@ITEM=473=flareblitz
+@ITEM=474=flashcannon
+@ITEM=475=flatter
+@ITEM=476=fling
+@ITEM=477=flowertrick
+@ITEM=478=fly
+@ITEM=479=flyingpress
+@ITEM=480=focusblast
+@ITEM=481=focusenergy
+@ITEM=482=focuspunch
+@ITEM=483=followme
+@ITEM=484=forcepalm
+@ITEM=485=foulplay
+@ITEM=486=freezedry
+@ITEM=487=freezingglare
+@ITEM=488=frenzyplant
+@ITEM=489=frostbreath
+@ITEM=490=furyattack
+@ITEM=491=furycutter
+@ITEM=492=furyswipes
+@ITEM=493=futuresight
+@ITEM=494=gastroacid
+@ITEM=495=gigadrain
+@ITEM=496=gigaimpact
+@ITEM=497=gigatonhammer
+@ITEM=498=glaiverush
+@ITEM=499=glare
+@ITEM=500=grassknot
+@ITEM=501=grasspledge
+@ITEM=502=grassyterrain
+@ITEM=503=gravapple
+@ITEM=504=gravity
+@ITEM=505=growl
+@ITEM=506=growth
+@ITEM=507=guardsplit
+@ITEM=508=guardswap
+@ITEM=509=gunkshot
+@ITEM=510=gust
+@ITEM=511=gyroball
+@ITEM=512=hammerarm
+@ITEM=513=happyhour
+@ITEM=514=harden
+@ITEM=515=haze
+@ITEM=516=headbutt
+@ITEM=517=headlongrush
+@ITEM=518=headsmash
+@ITEM=519=healbell
+@ITEM=520=healingwish
+@ITEM=521=healpulse
+@ITEM=522=heatwave
+@ITEM=523=heavyslam
+@ITEM=524=helpinghand
+@ITEM=525=hex
+@ITEM=526=highhorsepower
+@ITEM=527=highjumpkick
+@ITEM=528=honeclaws
+@ITEM=529=hornleech
+@ITEM=530=howl
+@ITEM=531=hurricane
+@ITEM=532=hydrocannon
+@ITEM=533=hydropump
+@ITEM=534=hydrosteam
+@ITEM=535=hyperbeam
+@ITEM=536=hyperdrill
+@ITEM=537=hyperspacefury
+@ITEM=538=hypervoice
+@ITEM=539=hypnosis
+@ITEM=540=icebeam
+@ITEM=541=icefang
+@ITEM=542=icehammer
+@ITEM=543=icepunch
+@ITEM=544=iceshard
+@ITEM=545=icespinner
+@ITEM=546=iciclecrash
+@ITEM=547=iciclespear
+@ITEM=548=icywind
+@ITEM=549=imprison
+@ITEM=550=incinerate
+@ITEM=551=infernalparade
+@ITEM=552=inferno
+@ITEM=553=infestation
+@ITEM=554=ingrain
+@ITEM=555=irondefense
+@ITEM=556=ironhead
+@ITEM=557=irontail
+@ITEM=558=jawlock
+@ITEM=559=junglehealing
+@ITEM=560=knockoff
+@ITEM=561=kowtowcleave
+@ITEM=562=lastresort
+@ITEM=563=lavaplume
+@ITEM=564=leafage
+@ITEM=565=leafblade
+@ITEM=566=leafstorm
+@ITEM=567=leechlife
+@ITEM=568=leechseed
+@ITEM=569=leer
+@ITEM=570=lick
+@ITEM=571=lifedew
+@ITEM=572=lightscreen
+@ITEM=573=liquidation
+@ITEM=574=lockon
+@ITEM=575=lowkick
+@ITEM=576=lowsweep
+@ITEM=577=lunarblessing
+@ITEM=578=lunardance
+@ITEM=579=lunge
+@ITEM=580=machpunch
+@ITEM=581=magicalleaf
+@ITEM=582=magicpowder
+@ITEM=583=magicroom
+@ITEM=584=magmastorm
+@ITEM=585=magneticflux
+@ITEM=586=magnetrise
+@ITEM=587=makeitrain
+@ITEM=588=meanlook
+@ITEM=589=megadrain
+@ITEM=590=megahorn
+@ITEM=591=megakick
+@ITEM=592=memento
+@ITEM=593=metalburst
+@ITEM=594=metalclaw
+@ITEM=595=metalsound
+@ITEM=596=meteormash
+@ITEM=597=metronome
+@ITEM=598=mimic
+@ITEM=599=mirrorcoat
+@ITEM=600=mist
+@ITEM=601=mistyterrain
+@ITEM=602=moonblast
+@ITEM=603=moonlight
+@ITEM=604=morningsun
+@ITEM=605=mortalspin
+@ITEM=606=mountaingale
+@ITEM=607=muddywater
+@ITEM=608=mudshot
+@ITEM=609=mudslap
+@ITEM=610=mysticalfire
+@ITEM=611=mysticalpower
+@ITEM=612=nastyplot
+@ITEM=613=nightshade
+@ITEM=614=nightslash
+@ITEM=615=nobleroar
+@ITEM=616=nuzzle
+@ITEM=617=orderup
+@ITEM=618=outrage
+@ITEM=619=overdrive
+@ITEM=620=overheat
+@ITEM=621=painsplit
+@ITEM=622=paraboliccharge
+@ITEM=623=partingshot
+@ITEM=624=payback
+@ITEM=625=peck
+@ITEM=626=perishsong
+@ITEM=627=petalblizzard
+@ITEM=628=petaldance
+@ITEM=629=phantomforce
+@ITEM=630=pinmissile
+@ITEM=631=playnice
+@ITEM=632=playrough
+@ITEM=633=pluck
+@ITEM=634=poisonfang
+@ITEM=635=poisongas
+@ITEM=636=poisonjab
+@ITEM=637=poisonpowder
+@ITEM=638=poisonsting
+@ITEM=639=poisontail
+@ITEM=640=pollenpuff
+@ITEM=641=populationbomb
+@ITEM=642=pounce
+@ITEM=643=pound
+@ITEM=644=powdersnow
+@ITEM=645=powergem
+@ITEM=646=powersplit
+@ITEM=647=powerswap
+@ITEM=648=powertrick
+@ITEM=649=powertrip
+@ITEM=650=powerwhip
+@ITEM=651=present
+@ITEM=652=protect
+@ITEM=653=psybeam
+@ITEM=654=psyblade
+@ITEM=655=psychic
+@ITEM=656=psychicfangs
+@ITEM=657=psychicterrain
+@ITEM=658=psychocut
+@ITEM=659=psychup
+@ITEM=660=psyshock
+@ITEM=661=pyroball
+@ITEM=662=quash
+@ITEM=663=quickattack
+@ITEM=664=quickguard
+@ITEM=665=quiverdance
+@ITEM=666=ragefist
+@ITEM=667=ragepowder
+@ITEM=668=ragingbull
+@ITEM=669=ragingfury
+@ITEM=670=raindance
+@ITEM=671=rapidspin
+@ITEM=672=razorleaf
+@ITEM=673=razorshell
+@ITEM=674=recover
+@ITEM=675=recycle
+@ITEM=676=reflect
+@ITEM=677=reflecttype
+@ITEM=678=relicsong
+@ITEM=679=rest
+@ITEM=680=retaliate
+@ITEM=681=revelationdance
+@ITEM=682=reversal
+@ITEM=683=revivalblessing
+@ITEM=684=roar
+@ITEM=685=rockblast
+@ITEM=686=rockpolish
+@ITEM=687=rockslide
+@ITEM=688=rocksmash
+@ITEM=689=rockthrow
+@ITEM=690=rocktomb
+@ITEM=691=roleplay
+@ITEM=692=rollout
+@ITEM=693=roost
+@ITEM=694=ruination
+@ITEM=695=sacredsword
+@ITEM=696=safeguard
+@ITEM=697=saltcure
+@ITEM=698=sandattack
+@ITEM=699=sandsearstorm
+@ITEM=700=sandstorm
+@ITEM=701=sandtomb
+@ITEM=702=scald
+@ITEM=703=scaleshot
+@ITEM=704=scaryface
+@ITEM=705=scratch
+@ITEM=706=screech
+@ITEM=707=seedbomb
+@ITEM=708=seismictoss
+@ITEM=709=selfdestruct
+@ITEM=710=shadowball
+@ITEM=711=shadowclaw
+@ITEM=712=shadowpunch
+@ITEM=713=shadowsneak
+@ITEM=714=shellsidearm
+@ITEM=715=shellsmash
+@ITEM=716=shelter
+@ITEM=717=shiftgear
+@ITEM=718=shockwave
+@ITEM=719=silktrap
+@ITEM=720=simplebeam
+@ITEM=721=sing
+@ITEM=722=skillswap
+@ITEM=723=skittersmack
+@ITEM=724=skyattack
+@ITEM=725=slackoff
+@ITEM=726=slam
+@ITEM=727=slash
+@ITEM=728=sleeppowder
+@ITEM=729=sleeptalk
+@ITEM=730=sludge
+@ITEM=731=sludgebomb
+@ITEM=732=sludgewave
+@ITEM=733=smackdown
+@ITEM=734=smartstrike
+@ITEM=735=smog
+@ITEM=736=smokescreen
+@ITEM=737=snarl
+@ITEM=738=snipeshot
+@ITEM=739=snore
+@ITEM=740=snowscape
+@ITEM=741=soak
+@ITEM=742=softboiled
+@ITEM=743=solarbeam
+@ITEM=744=solarblade
+@ITEM=745=spark
+@ITEM=746=spicyextract
+@ITEM=747=spikes
+@ITEM=748=spikyshield
+@ITEM=749=spiritbreak
+@ITEM=750=spite
+@ITEM=751=spitup
+@ITEM=752=splash
+@ITEM=753=spore
+@ITEM=754=springtidestorm
+@ITEM=755=stealthrock
+@ITEM=756=steameruption
+@ITEM=757=steelbeam
+@ITEM=758=steelroller
+@ITEM=759=steelwing
+@ITEM=760=stickyweb
+@ITEM=761=stockpile
+@ITEM=762=stomp
+@ITEM=763=stompingtantrum
+@ITEM=764=stoneaxe
+@ITEM=765=stoneedge
+@ITEM=766=storedpower
+@ITEM=767=strengthsap
+@ITEM=768=stringshot
+@ITEM=769=strugglebug
+@ITEM=770=stunspore
+@ITEM=771=substitute
+@ITEM=772=suckerpunch
+@ITEM=773=sunnyday
+@ITEM=774=superfang
+@ITEM=775=superpower
+@ITEM=776=supersonic
+@ITEM=777=surf
+@ITEM=778=swagger
+@ITEM=779=swallow
+@ITEM=780=sweetkiss
+@ITEM=781=sweetscent
+@ITEM=782=swift
+@ITEM=783=switcheroo
+@ITEM=784=swordsdance
+@ITEM=785=synthesis
+@ITEM=786=tackle
+@ITEM=787=tailwhip
+@ITEM=788=tailwind
+@ITEM=789=takedown
+@ITEM=790=taunt
+@ITEM=791=tearfullook
+@ITEM=792=teatime
+@ITEM=793=teeterdance
+@ITEM=794=teleport
+@ITEM=795=terablast
+@ITEM=796=terrainpulse
+@ITEM=797=thief
+@ITEM=798=thrash
+@ITEM=799=throatchop
+@ITEM=800=thunder
+@ITEM=801=thunderbolt
+@ITEM=802=thunderfang
+@ITEM=803=thunderouskick
+@ITEM=804=thunderpunch
+@ITEM=805=thundershock
+@ITEM=806=thunderwave
+@ITEM=807=tickle
+@ITEM=808=tidyup
+@ITEM=809=torchsong
+@ITEM=810=torment
+@ITEM=811=toxic
+@ITEM=812=toxicspikes
+@ITEM=813=trailblaze
+@ITEM=814=transform
+@ITEM=815=triattack
+@ITEM=816=trick
+@ITEM=817=trickroom
+@ITEM=818=triplearrows
+@ITEM=819=twinbeam
+@ITEM=820=twister
+@ITEM=821=uproar
+@ITEM=822=uturn
+@ITEM=823=vacuumwave
+@ITEM=824=venoshock
+@ITEM=825=victorydance
+@ITEM=826=vinewhip
+@ITEM=827=voltswitch
+@ITEM=828=waterfall
+@ITEM=829=watergun
+@ITEM=830=waterpledge
+@ITEM=831=waterpulse
+@ITEM=832=watershuriken
+@ITEM=833=wavecrash
+@ITEM=834=weatherball
+@ITEM=835=whirlpool
+@ITEM=836=whirlwind
+@ITEM=837=wideguard
+@ITEM=838=wildboltstorm
+@ITEM=839=wildcharge
+@ITEM=840=willowisp
+@ITEM=841=wingattack
+@ITEM=842=wish
+@ITEM=843=withdraw
+@ITEM=844=wonderroom
+@ITEM=845=woodhammer
+@ITEM=846=workup
+@ITEM=847=worryseed
+@ITEM=848=wrap
+@ITEM=849=xscissor
+@ITEM=850=yawn
+@ITEM=851=zapcannon
+@ITEM=852=zenheadbutt
+@ITEM=853=zingzap
 14 17 20 24 31 37 41 44 51 57 122 329 372 382 395 435 440 474 476 480 482 496 523 525 535 556 572 575 576 587 592 595 612 613 645 652 655 660 674 676 679 700 710 729 757 771 786 789 795 797 800 801 804 806 816
 4 16 21 24 31 36 40 46 49 57 272 305 350 351 367 394 440 441 449 485 495 496 500 502 506 525 535 554 560 566 568 572 581 588 589 608 609 624 637 640 650 652 670 676 679 694 704 707 729 737 743 744 750 770 771 773 789 790 795 807 813 852
 6 16 19 24 32 35 42 46 52 54 269 310 312 334 348 358 391 394 440 449 455 496 515 525 535 541 544 545 546 548 588 600 614 624 644 652 656 670 674 679 694 695 704 729 737 740 750 771 772 784 789 790 795 799
