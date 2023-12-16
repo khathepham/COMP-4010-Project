@@ -16,7 +16,7 @@ import ca.pfv.spmf.patterns.itemset_array_integers_with_count.Itemsets;
 public class MainTestAllAssociationRules_FPGrowth_inverse_saveToFile {
 
 	public static void main(String[] arg) throws IOException {
-		String input = fileToPath("pokeparse.txt");
+		String input = fileToPath(arg[0]);
 		String output = ".//output_inverse_rules.txt";
 
 		// By changing the following lines to some other values
@@ -31,8 +31,8 @@ public class MainTestAllAssociationRules_FPGrowth_inverse_saveToFile {
 		// to an output file in this example.
 
 		// the thresholds that we will use:
-		double minsup = Double.parseDouble(arg[0]);// 0.001;
-		double maxsup = Double.parseDouble(arg[1]);// 0.61;
+		double minsup = Double.parseDouble(arg[1]);// 0.001;
+		double maxsup = Double.parseDouble(arg[2]);// 0.61;
 
 		// Applying the APRIORI-Inverse algorithm to find sporadic itemsets
 		AlgoAprioriInverse apriori2 = new AlgoAprioriInverse();
@@ -43,7 +43,7 @@ public class MainTestAllAssociationRules_FPGrowth_inverse_saveToFile {
 
 		// STEP 2: Generating all rules from the set of frequent itemsets (based on
 		// Agrawal & Srikant, 94)
-		double minconf = Double.parseDouble(arg[2]);// 0.6
+		double minconf = Double.parseDouble(arg[3]);// 0.6
 		AlgoAgrawalFaster94 algoAgrawal = new AlgoAgrawalFaster94();
 		algoAgrawal.setMaxConsequentLength(maxConsequentLength);
 		algoAgrawal.setMaxAntecedentLength(maxAntecedentLength);

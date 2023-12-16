@@ -1,0 +1,890 @@
+@CONVERTED_FROM_TEXT
+@ITEM=1=type:Normal
+@ITEM=2=type:Fire
+@ITEM=3=type:Water
+@ITEM=4=type:Grass
+@ITEM=5=type:Electric
+@ITEM=6=type:Ice
+@ITEM=7=type:Fighting
+@ITEM=8=type:Poison
+@ITEM=9=type:Ground
+@ITEM=10=type:Flying
+@ITEM=11=type:Psychic
+@ITEM=12=type:Bug
+@ITEM=13=type:Rock
+@ITEM=14=type:Ghost
+@ITEM=15=type:Dragon
+@ITEM=16=type:Dark
+@ITEM=17=type:Steel
+@ITEM=18=type:Fairy
+@ITEM=19=tier:AboveOU
+@ITEM=20=tier:OU
+@ITEM=21=tier:BelowOU
+@ITEM=22=bst:Legendary
+@ITEM=23=bst:PseudoLegendary
+@ITEM=24=bst:HighBST
+@ITEM=25=bst:MidBST
+@ITEM=26=bst:LowBST
+@ITEM=27=bst:VeryLowBST
+@ITEM=28=stat:LegendStat-hp
+@ITEM=29=stat:HighStat-hp
+@ITEM=30=stat:MidStat-hp
+@ITEM=31=stat:LowStat-hp
+@ITEM=32=stat:VeryLowStat-hp
+@ITEM=33=stat:LegendStat-atk
+@ITEM=34=stat:HighStat-atk
+@ITEM=35=stat:MidStat-atk
+@ITEM=36=stat:LowStat-atk
+@ITEM=37=stat:VeryLowStat-atk
+@ITEM=38=stat:LegendStat-def
+@ITEM=39=stat:HighStat-def
+@ITEM=40=stat:MidStat-def
+@ITEM=41=stat:LowStat-def
+@ITEM=42=stat:VeryLowStat-def
+@ITEM=43=stat:LegendStat-spa
+@ITEM=44=stat:HighStat-spa
+@ITEM=45=stat:MidStat-spa
+@ITEM=46=stat:LowStat-spa
+@ITEM=47=stat:VeryLowStat-spa
+@ITEM=48=stat:LegendStat-spd
+@ITEM=49=stat:HighStat-spd
+@ITEM=50=stat:MidStat-spd
+@ITEM=51=stat:LowStat-spd
+@ITEM=52=stat:VeryLowStat-spd
+@ITEM=53=stat:LegendStat-spe
+@ITEM=54=stat:HighStat-spe
+@ITEM=55=stat:MidStat-spe
+@ITEM=56=stat:LowStat-spe
+@ITEM=57=stat:VeryLowStat-spe
+@ITEM=58=ability:Adaptability
+@ITEM=59=ability:Aftermath
+@ITEM=60=ability:Air Lock
+@ITEM=61=ability:Analytic
+@ITEM=62=ability:Anger Point
+@ITEM=63=ability:Anger Shell
+@ITEM=64=ability:Anticipation
+@ITEM=65=ability:Arena Trap
+@ITEM=66=ability:Armor Tail
+@ITEM=67=ability:Aroma Veil
+@ITEM=68=ability:As One (Glastrier)
+@ITEM=69=ability:As One (Spectrier)
+@ITEM=70=ability:Bad Dreams
+@ITEM=71=ability:Battle Armor
+@ITEM=72=ability:Battle Bond
+@ITEM=73=ability:Beads of Ruin
+@ITEM=74=ability:Berserk
+@ITEM=75=ability:Big Pecks
+@ITEM=76=ability:Blaze
+@ITEM=77=ability:Bulletproof
+@ITEM=78=ability:Cheek Pouch
+@ITEM=79=ability:Chilling Neigh
+@ITEM=80=ability:Chlorophyll
+@ITEM=81=ability:Clear Body
+@ITEM=82=ability:Cloud Nine
+@ITEM=83=ability:Comatose
+@ITEM=84=ability:Commander
+@ITEM=85=ability:Competitive
+@ITEM=86=ability:Compound Eyes
+@ITEM=87=ability:Contrary
+@ITEM=88=ability:Corrosion
+@ITEM=89=ability:Costar
+@ITEM=90=ability:Cud Chew
+@ITEM=91=ability:Curious Medicine
+@ITEM=92=ability:Cursed Body
+@ITEM=93=ability:Cute Charm
+@ITEM=94=ability:Damp
+@ITEM=95=ability:Dancer
+@ITEM=96=ability:Dauntless Shield
+@ITEM=97=ability:Dazzling
+@ITEM=98=ability:Defiant
+@ITEM=99=ability:Disguise
+@ITEM=100=ability:Dragon's Maw
+@ITEM=101=ability:Drizzle
+@ITEM=102=ability:Drought
+@ITEM=103=ability:Dry Skin
+@ITEM=104=ability:Early Bird
+@ITEM=105=ability:Earth Eater
+@ITEM=106=ability:Effect Spore
+@ITEM=107=ability:Electric Surge
+@ITEM=108=ability:Electromorphosis
+@ITEM=109=ability:Filter
+@ITEM=110=ability:Flame Body
+@ITEM=111=ability:Flare Boost
+@ITEM=112=ability:Flash Fire
+@ITEM=113=ability:Flower Veil
+@ITEM=114=ability:Fluffy
+@ITEM=115=ability:Forewarn
+@ITEM=116=ability:Friend Guard
+@ITEM=117=ability:Frisk
+@ITEM=118=ability:Fur Coat
+@ITEM=119=ability:Gale Wings
+@ITEM=120=ability:Galvanize
+@ITEM=121=ability:Gluttony
+@ITEM=122=ability:Good as Gold
+@ITEM=123=ability:Gooey
+@ITEM=124=ability:Grass Pelt
+@ITEM=125=ability:Grassy Surge
+@ITEM=126=ability:Grim Neigh
+@ITEM=127=ability:Guard Dog
+@ITEM=128=ability:Gulp Missile
+@ITEM=129=ability:Guts
+@ITEM=130=ability:Hadron Engine
+@ITEM=131=ability:Harvest
+@ITEM=132=ability:Healer
+@ITEM=133=ability:Heatproof
+@ITEM=134=ability:Heavy Metal
+@ITEM=135=ability:Honey Gather
+@ITEM=136=ability:Hospitality
+@ITEM=137=ability:Huge Power
+@ITEM=138=ability:Hunger Switch
+@ITEM=139=ability:Hustle
+@ITEM=140=ability:Hydration
+@ITEM=141=ability:Hyper Cutter
+@ITEM=142=ability:Ice Body
+@ITEM=143=ability:Ice Scales
+@ITEM=144=ability:Illuminate
+@ITEM=145=ability:Illusion
+@ITEM=146=ability:Immunity
+@ITEM=147=ability:Imposter
+@ITEM=148=ability:Infiltrator
+@ITEM=149=ability:Inner Focus
+@ITEM=150=ability:Insomnia
+@ITEM=151=ability:Intimidate
+@ITEM=152=ability:Intrepid Sword
+@ITEM=153=ability:Iron Fist
+@ITEM=154=ability:Justified
+@ITEM=155=ability:Keen Eye
+@ITEM=156=ability:Leaf Guard
+@ITEM=157=ability:Levitate
+@ITEM=158=ability:Libero
+@ITEM=159=ability:Light Metal
+@ITEM=160=ability:Lightning Rod
+@ITEM=161=ability:Limber
+@ITEM=162=ability:Lingering Aroma
+@ITEM=163=ability:Liquid Ooze
+@ITEM=164=ability:Long Reach
+@ITEM=165=ability:Magic Bounce
+@ITEM=166=ability:Magic Guard
+@ITEM=167=ability:Magician
+@ITEM=168=ability:Magma Armor
+@ITEM=169=ability:Magnet Pull
+@ITEM=170=ability:Marvel Scale
+@ITEM=171=ability:Mega Launcher
+@ITEM=172=ability:Merciless
+@ITEM=173=ability:Mind's Eye
+@ITEM=174=ability:Minus
+@ITEM=175=ability:Mirror Armor
+@ITEM=176=ability:Misty Surge
+@ITEM=177=ability:Mold Breaker
+@ITEM=178=ability:Moody
+@ITEM=179=ability:Moxie
+@ITEM=180=ability:Multiscale
+@ITEM=181=ability:Multitype
+@ITEM=182=ability:Mycelium Might
+@ITEM=183=ability:Natural Cure
+@ITEM=184=ability:Neutralizing Gas
+@ITEM=185=ability:No Guard
+@ITEM=186=ability:Oblivious
+@ITEM=187=ability:Opportunist
+@ITEM=188=ability:Orichalcum Pulse
+@ITEM=189=ability:Overcoat
+@ITEM=190=ability:Overgrow
+@ITEM=191=ability:Own Tempo
+@ITEM=192=ability:Pickpocket
+@ITEM=193=ability:Pickup
+@ITEM=194=ability:Pixilate
+@ITEM=195=ability:Plus
+@ITEM=196=ability:Poison Heal
+@ITEM=197=ability:Poison Point
+@ITEM=198=ability:Poison Touch
+@ITEM=199=ability:Power Spot
+@ITEM=200=ability:Power of Alchemy
+@ITEM=201=ability:Prankster
+@ITEM=202=ability:Pressure
+@ITEM=203=ability:Propeller Tail
+@ITEM=204=ability:Protean
+@ITEM=205=ability:Protosynthesis
+@ITEM=206=ability:Psychic Surge
+@ITEM=207=ability:Punk Rock
+@ITEM=208=ability:Pure Power
+@ITEM=209=ability:Purifying Salt
+@ITEM=210=ability:Quark Drive
+@ITEM=211=ability:Queenly Majesty
+@ITEM=212=ability:Quick Draw
+@ITEM=213=ability:Quick Feet
+@ITEM=214=ability:Rain Dish
+@ITEM=215=ability:Rattled
+@ITEM=216=ability:Receiver
+@ITEM=217=ability:Reckless
+@ITEM=218=ability:Regenerator
+@ITEM=219=ability:Ripen
+@ITEM=220=ability:Rivalry
+@ITEM=221=ability:Rock Head
+@ITEM=222=ability:Rocky Payload
+@ITEM=223=ability:Rough Skin
+@ITEM=224=ability:Run Away
+@ITEM=225=ability:Sand Force
+@ITEM=226=ability:Sand Rush
+@ITEM=227=ability:Sand Spit
+@ITEM=228=ability:Sand Stream
+@ITEM=229=ability:Sand Veil
+@ITEM=230=ability:Sap Sipper
+@ITEM=231=ability:Scrappy
+@ITEM=232=ability:Seed Sower
+@ITEM=233=ability:Serene Grace
+@ITEM=234=ability:Shadow Tag
+@ITEM=235=ability:Sharpness
+@ITEM=236=ability:Shed Skin
+@ITEM=237=ability:Sheer Force
+@ITEM=238=ability:Shell Armor
+@ITEM=239=ability:Shield Dust
+@ITEM=240=ability:Skill Link
+@ITEM=241=ability:Slush Rush
+@ITEM=242=ability:Sniper
+@ITEM=243=ability:Snow Cloak
+@ITEM=244=ability:Snow Warning
+@ITEM=245=ability:Solar Power
+@ITEM=246=ability:Solid Rock
+@ITEM=247=ability:Soul-Heart
+@ITEM=248=ability:Soundproof
+@ITEM=249=ability:Speed Boost
+@ITEM=250=ability:Stakeout
+@ITEM=251=ability:Stall
+@ITEM=252=ability:Stamina
+@ITEM=253=ability:Static
+@ITEM=254=ability:Steadfast
+@ITEM=255=ability:Steam Engine
+@ITEM=256=ability:Steely Spirit
+@ITEM=257=ability:Stench
+@ITEM=258=ability:Sticky Hold
+@ITEM=259=ability:Storm Drain
+@ITEM=260=ability:Strong Jaw
+@ITEM=261=ability:Sturdy
+@ITEM=262=ability:Super Luck
+@ITEM=263=ability:Supersweet Syrup
+@ITEM=264=ability:Supreme Overlord
+@ITEM=265=ability:Surge Surfer
+@ITEM=266=ability:Swarm
+@ITEM=267=ability:Sweet Veil
+@ITEM=268=ability:Swift Swim
+@ITEM=269=ability:Sword of Ruin
+@ITEM=270=ability:Symbiosis
+@ITEM=271=ability:Synchronize
+@ITEM=272=ability:Tablets of Ruin
+@ITEM=273=ability:Tangled Feet
+@ITEM=274=ability:Tangling Hair
+@ITEM=275=ability:Technician
+@ITEM=276=ability:Telepathy
+@ITEM=277=ability:Thermal Exchange
+@ITEM=278=ability:Thick Fat
+@ITEM=279=ability:Tinted Lens
+@ITEM=280=ability:Torrent
+@ITEM=281=ability:Tough Claws
+@ITEM=282=ability:Toxic Boost
+@ITEM=283=ability:Toxic Chain
+@ITEM=284=ability:Toxic Debris
+@ITEM=285=ability:Trace
+@ITEM=286=ability:Transistor
+@ITEM=287=ability:Truant
+@ITEM=288=ability:Unaware
+@ITEM=289=ability:Unburden
+@ITEM=290=ability:Unnerve
+@ITEM=291=ability:Unseen Fist
+@ITEM=292=ability:Vessel of Ruin
+@ITEM=293=ability:Vital Spirit
+@ITEM=294=ability:Volt Absorb
+@ITEM=295=ability:Water Absorb
+@ITEM=296=ability:Water Compaction
+@ITEM=297=ability:Water Veil
+@ITEM=298=ability:Weak Armor
+@ITEM=299=ability:Well-Baked Body
+@ITEM=300=ability:White Smoke
+@ITEM=301=ability:Wind Power
+@ITEM=302=ability:Wind Rider
+@ITEM=303=ability:Wonder Skin
+@ITEM=304=ability:Zero to Hero
+@ITEM=305=move:absorb
+@ITEM=306=move:accelerock
+@ITEM=307=move:acid
+@ITEM=308=move:acidarmor
+@ITEM=309=move:acidspray
+@ITEM=310=move:acrobatics
+@ITEM=311=move:acupressure
+@ITEM=312=move:aerialace
+@ITEM=313=move:afteryou
+@ITEM=314=move:agility
+@ITEM=315=move:aircutter
+@ITEM=316=move:airslash
+@ITEM=317=move:allyswitch
+@ITEM=318=move:amnesia
+@ITEM=319=move:ancientpower
+@ITEM=320=move:aquacutter
+@ITEM=321=move:aquajet
+@ITEM=322=move:aquaring
+@ITEM=323=move:aquastep
+@ITEM=324=move:aquatail
+@ITEM=325=move:armorcannon
+@ITEM=326=move:armthrust
+@ITEM=327=move:aromaticmist
+@ITEM=328=move:assurance
+@ITEM=329=move:astonish
+@ITEM=330=move:attract
+@ITEM=331=move:aurasphere
+@ITEM=332=move:aurorabeam
+@ITEM=333=move:auroraveil
+@ITEM=334=move:avalanche
+@ITEM=335=move:axekick
+@ITEM=336=move:babydolleyes
+@ITEM=337=move:banefulbunker
+@ITEM=338=move:barbbarrage
+@ITEM=339=move:beatup
+@ITEM=340=move:belch
+@ITEM=341=move:bellydrum
+@ITEM=342=move:bind
+@ITEM=343=move:bite
+@ITEM=344=move:bitterblade
+@ITEM=345=move:bittermalice
+@ITEM=346=move:blastburn
+@ITEM=347=move:bleakwindstorm
+@ITEM=348=move:blizzard
+@ITEM=349=move:block
+@ITEM=350=move:bodypress
+@ITEM=351=move:bodyslam
+@ITEM=352=move:bonerush
+@ITEM=353=move:boomburst
+@ITEM=354=move:bounce
+@ITEM=355=move:branchpoke
+@ITEM=356=move:bravebird
+@ITEM=357=move:breakingswipe
+@ITEM=358=move:brickbreak
+@ITEM=359=move:brine
+@ITEM=360=move:brutalswing
+@ITEM=361=move:bubblebeam
+@ITEM=362=move:bugbite
+@ITEM=363=move:bugbuzz
+@ITEM=364=move:bulkup
+@ITEM=365=move:bulldoze
+@ITEM=366=move:bulletpunch
+@ITEM=367=move:bulletseed
+@ITEM=368=move:calmmind
+@ITEM=369=move:ceaselessedge
+@ITEM=370=move:celebrate
+@ITEM=371=move:charge
+@ITEM=372=move:chargebeam
+@ITEM=373=move:charm
+@ITEM=374=move:chillingwater
+@ITEM=375=move:chillyreception
+@ITEM=376=move:chloroblast
+@ITEM=377=move:circlethrow
+@ITEM=378=move:clearsmog
+@ITEM=379=move:closecombat
+@ITEM=380=move:coil
+@ITEM=381=move:comeuppance
+@ITEM=382=move:confuseray
+@ITEM=383=move:confusion
+@ITEM=384=move:copycat
+@ITEM=385=move:cottonguard
+@ITEM=386=move:counter
+@ITEM=387=move:courtchange
+@ITEM=388=move:covet
+@ITEM=389=move:crosschop
+@ITEM=390=move:crosspoison
+@ITEM=391=move:crunch
+@ITEM=392=move:crushclaw
+@ITEM=393=move:curse
+@ITEM=394=move:darkpulse
+@ITEM=395=move:dazzlinggleam
+@ITEM=396=move:defensecurl
+@ITEM=397=move:defog
+@ITEM=398=move:destinybond
+@ITEM=399=move:detect
+@ITEM=400=move:diamondstorm
+@ITEM=401=move:dig
+@ITEM=402=move:direclaw
+@ITEM=403=move:disable
+@ITEM=404=move:disarmingvoice
+@ITEM=405=move:discharge
+@ITEM=406=move:dive
+@ITEM=407=move:doodle
+@ITEM=408=move:doubleedge
+@ITEM=409=move:doublehit
+@ITEM=410=move:doublekick
+@ITEM=411=move:doubleshock
+@ITEM=412=move:dracometeor
+@ITEM=413=move:dragonbreath
+@ITEM=414=move:dragonclaw
+@ITEM=415=move:dragondance
+@ITEM=416=move:dragondarts
+@ITEM=417=move:dragonenergy
+@ITEM=418=move:dragonpulse
+@ITEM=419=move:dragonrush
+@ITEM=420=move:dragontail
+@ITEM=421=move:drainingkiss
+@ITEM=422=move:drainpunch
+@ITEM=423=move:dreameater
+@ITEM=424=move:drillpeck
+@ITEM=425=move:drillrun
+@ITEM=426=move:drumbeating
+@ITEM=427=move:dualwingbeat
+@ITEM=428=move:dynamicpunch
+@ITEM=429=move:earthpower
+@ITEM=430=move:earthquake
+@ITEM=431=move:echoedvoice
+@ITEM=432=move:eerieimpulse
+@ITEM=433=move:eeriespell
+@ITEM=434=move:electricterrain
+@ITEM=435=move:electroball
+@ITEM=436=move:electroweb
+@ITEM=437=move:ember
+@ITEM=438=move:encore
+@ITEM=439=move:endeavor
+@ITEM=440=move:endure
+@ITEM=441=move:energyball
+@ITEM=442=move:entrainment
+@ITEM=443=move:eruption
+@ITEM=444=move:esperwing
+@ITEM=445=move:expandingforce
+@ITEM=446=move:explosion
+@ITEM=447=move:extrasensory
+@ITEM=448=move:extremespeed
+@ITEM=449=move:facade
+@ITEM=450=move:fairylock
+@ITEM=451=move:fairywind
+@ITEM=452=move:fakeout
+@ITEM=453=move:faketears
+@ITEM=454=move:falsesurrender
+@ITEM=455=move:falseswipe
+@ITEM=456=move:featherdance
+@ITEM=457=move:feint
+@ITEM=458=move:fellstinger
+@ITEM=459=move:fierydance
+@ITEM=460=move:fierywrath
+@ITEM=461=move:finalgambit
+@ITEM=462=move:fireblast
+@ITEM=463=move:firefang
+@ITEM=464=move:firelash
+@ITEM=465=move:firepledge
+@ITEM=466=move:firepunch
+@ITEM=467=move:firespin
+@ITEM=468=move:firstimpression
+@ITEM=469=move:flail
+@ITEM=470=move:flamecharge
+@ITEM=471=move:flamethrower
+@ITEM=472=move:flamewheel
+@ITEM=473=move:flareblitz
+@ITEM=474=move:flashcannon
+@ITEM=475=move:flatter
+@ITEM=476=move:fling
+@ITEM=477=move:flowertrick
+@ITEM=478=move:fly
+@ITEM=479=move:flyingpress
+@ITEM=480=move:focusblast
+@ITEM=481=move:focusenergy
+@ITEM=482=move:focuspunch
+@ITEM=483=move:followme
+@ITEM=484=move:forcepalm
+@ITEM=485=move:foulplay
+@ITEM=486=move:freezedry
+@ITEM=487=move:freezingglare
+@ITEM=488=move:frenzyplant
+@ITEM=489=move:frostbreath
+@ITEM=490=move:furyattack
+@ITEM=491=move:furycutter
+@ITEM=492=move:furyswipes
+@ITEM=493=move:futuresight
+@ITEM=494=move:gastroacid
+@ITEM=495=move:gigadrain
+@ITEM=496=move:gigaimpact
+@ITEM=497=move:gigatonhammer
+@ITEM=498=move:glaiverush
+@ITEM=499=move:glare
+@ITEM=500=move:grassknot
+@ITEM=501=move:grasspledge
+@ITEM=502=move:grassyterrain
+@ITEM=503=move:gravapple
+@ITEM=504=move:gravity
+@ITEM=505=move:growl
+@ITEM=506=move:growth
+@ITEM=507=move:guardsplit
+@ITEM=508=move:guardswap
+@ITEM=509=move:gunkshot
+@ITEM=510=move:gust
+@ITEM=511=move:gyroball
+@ITEM=512=move:hammerarm
+@ITEM=513=move:happyhour
+@ITEM=514=move:harden
+@ITEM=515=move:haze
+@ITEM=516=move:headbutt
+@ITEM=517=move:headlongrush
+@ITEM=518=move:headsmash
+@ITEM=519=move:healbell
+@ITEM=520=move:healingwish
+@ITEM=521=move:healpulse
+@ITEM=522=move:heatwave
+@ITEM=523=move:heavyslam
+@ITEM=524=move:helpinghand
+@ITEM=525=move:hex
+@ITEM=526=move:highhorsepower
+@ITEM=527=move:highjumpkick
+@ITEM=528=move:honeclaws
+@ITEM=529=move:hornleech
+@ITEM=530=move:howl
+@ITEM=531=move:hurricane
+@ITEM=532=move:hydrocannon
+@ITEM=533=move:hydropump
+@ITEM=534=move:hydrosteam
+@ITEM=535=move:hyperbeam
+@ITEM=536=move:hyperdrill
+@ITEM=537=move:hyperspacefury
+@ITEM=538=move:hypervoice
+@ITEM=539=move:hypnosis
+@ITEM=540=move:icebeam
+@ITEM=541=move:icefang
+@ITEM=542=move:icehammer
+@ITEM=543=move:icepunch
+@ITEM=544=move:iceshard
+@ITEM=545=move:icespinner
+@ITEM=546=move:iciclecrash
+@ITEM=547=move:iciclespear
+@ITEM=548=move:icywind
+@ITEM=549=move:imprison
+@ITEM=550=move:incinerate
+@ITEM=551=move:infernalparade
+@ITEM=552=move:inferno
+@ITEM=553=move:infestation
+@ITEM=554=move:ingrain
+@ITEM=555=move:irondefense
+@ITEM=556=move:ironhead
+@ITEM=557=move:irontail
+@ITEM=558=move:jawlock
+@ITEM=559=move:junglehealing
+@ITEM=560=move:knockoff
+@ITEM=561=move:kowtowcleave
+@ITEM=562=move:lastresort
+@ITEM=563=move:lavaplume
+@ITEM=564=move:leafage
+@ITEM=565=move:leafblade
+@ITEM=566=move:leafstorm
+@ITEM=567=move:leechlife
+@ITEM=568=move:leechseed
+@ITEM=569=move:leer
+@ITEM=570=move:lick
+@ITEM=571=move:lifedew
+@ITEM=572=move:lightscreen
+@ITEM=573=move:liquidation
+@ITEM=574=move:lockon
+@ITEM=575=move:lowkick
+@ITEM=576=move:lowsweep
+@ITEM=577=move:lunarblessing
+@ITEM=578=move:lunardance
+@ITEM=579=move:lunge
+@ITEM=580=move:machpunch
+@ITEM=581=move:magicalleaf
+@ITEM=582=move:magicpowder
+@ITEM=583=move:magicroom
+@ITEM=584=move:magmastorm
+@ITEM=585=move:magneticflux
+@ITEM=586=move:magnetrise
+@ITEM=587=move:makeitrain
+@ITEM=588=move:meanlook
+@ITEM=589=move:megadrain
+@ITEM=590=move:megahorn
+@ITEM=591=move:megakick
+@ITEM=592=move:memento
+@ITEM=593=move:metalburst
+@ITEM=594=move:metalclaw
+@ITEM=595=move:metalsound
+@ITEM=596=move:meteormash
+@ITEM=597=move:metronome
+@ITEM=598=move:mimic
+@ITEM=599=move:mirrorcoat
+@ITEM=600=move:mist
+@ITEM=601=move:mistyterrain
+@ITEM=602=move:moonblast
+@ITEM=603=move:moonlight
+@ITEM=604=move:morningsun
+@ITEM=605=move:mortalspin
+@ITEM=606=move:mountaingale
+@ITEM=607=move:muddywater
+@ITEM=608=move:mudshot
+@ITEM=609=move:mudslap
+@ITEM=610=move:mysticalfire
+@ITEM=611=move:mysticalpower
+@ITEM=612=move:nastyplot
+@ITEM=613=move:nightshade
+@ITEM=614=move:nightslash
+@ITEM=615=move:nobleroar
+@ITEM=616=move:nuzzle
+@ITEM=617=move:orderup
+@ITEM=618=move:outrage
+@ITEM=619=move:overdrive
+@ITEM=620=move:overheat
+@ITEM=621=move:painsplit
+@ITEM=622=move:paraboliccharge
+@ITEM=623=move:partingshot
+@ITEM=624=move:payback
+@ITEM=625=move:peck
+@ITEM=626=move:perishsong
+@ITEM=627=move:petalblizzard
+@ITEM=628=move:petaldance
+@ITEM=629=move:phantomforce
+@ITEM=630=move:pinmissile
+@ITEM=631=move:playnice
+@ITEM=632=move:playrough
+@ITEM=633=move:pluck
+@ITEM=634=move:poisonfang
+@ITEM=635=move:poisongas
+@ITEM=636=move:poisonjab
+@ITEM=637=move:poisonpowder
+@ITEM=638=move:poisonsting
+@ITEM=639=move:poisontail
+@ITEM=640=move:pollenpuff
+@ITEM=641=move:populationbomb
+@ITEM=642=move:pounce
+@ITEM=643=move:pound
+@ITEM=644=move:powdersnow
+@ITEM=645=move:powergem
+@ITEM=646=move:powersplit
+@ITEM=647=move:powerswap
+@ITEM=648=move:powertrick
+@ITEM=649=move:powertrip
+@ITEM=650=move:powerwhip
+@ITEM=651=move:present
+@ITEM=652=move:protect
+@ITEM=653=move:psybeam
+@ITEM=654=move:psyblade
+@ITEM=655=move:psychic
+@ITEM=656=move:psychicfangs
+@ITEM=657=move:psychicterrain
+@ITEM=658=move:psychocut
+@ITEM=659=move:psychup
+@ITEM=660=move:psyshock
+@ITEM=661=move:pyroball
+@ITEM=662=move:quash
+@ITEM=663=move:quickattack
+@ITEM=664=move:quickguard
+@ITEM=665=move:quiverdance
+@ITEM=666=move:ragefist
+@ITEM=667=move:ragepowder
+@ITEM=668=move:ragingbull
+@ITEM=669=move:ragingfury
+@ITEM=670=move:raindance
+@ITEM=671=move:rapidspin
+@ITEM=672=move:razorleaf
+@ITEM=673=move:razorshell
+@ITEM=674=move:recover
+@ITEM=675=move:recycle
+@ITEM=676=move:reflect
+@ITEM=677=move:reflecttype
+@ITEM=678=move:relicsong
+@ITEM=679=move:rest
+@ITEM=680=move:retaliate
+@ITEM=681=move:revelationdance
+@ITEM=682=move:reversal
+@ITEM=683=move:revivalblessing
+@ITEM=684=move:roar
+@ITEM=685=move:rockblast
+@ITEM=686=move:rockpolish
+@ITEM=687=move:rockslide
+@ITEM=688=move:rocksmash
+@ITEM=689=move:rockthrow
+@ITEM=690=move:rocktomb
+@ITEM=691=move:roleplay
+@ITEM=692=move:rollout
+@ITEM=693=move:roost
+@ITEM=694=move:ruination
+@ITEM=695=move:sacredsword
+@ITEM=696=move:safeguard
+@ITEM=697=move:saltcure
+@ITEM=698=move:sandattack
+@ITEM=699=move:sandsearstorm
+@ITEM=700=move:sandstorm
+@ITEM=701=move:sandtomb
+@ITEM=702=move:scald
+@ITEM=703=move:scaleshot
+@ITEM=704=move:scaryface
+@ITEM=705=move:scratch
+@ITEM=706=move:screech
+@ITEM=707=move:seedbomb
+@ITEM=708=move:seismictoss
+@ITEM=709=move:selfdestruct
+@ITEM=710=move:shadowball
+@ITEM=711=move:shadowclaw
+@ITEM=712=move:shadowpunch
+@ITEM=713=move:shadowsneak
+@ITEM=714=move:shellsidearm
+@ITEM=715=move:shellsmash
+@ITEM=716=move:shelter
+@ITEM=717=move:shiftgear
+@ITEM=718=move:shockwave
+@ITEM=719=move:silktrap
+@ITEM=720=move:simplebeam
+@ITEM=721=move:sing
+@ITEM=722=move:skillswap
+@ITEM=723=move:skittersmack
+@ITEM=724=move:skyattack
+@ITEM=725=move:slackoff
+@ITEM=726=move:slam
+@ITEM=727=move:slash
+@ITEM=728=move:sleeppowder
+@ITEM=729=move:sleeptalk
+@ITEM=730=move:sludge
+@ITEM=731=move:sludgebomb
+@ITEM=732=move:sludgewave
+@ITEM=733=move:smackdown
+@ITEM=734=move:smartstrike
+@ITEM=735=move:smog
+@ITEM=736=move:smokescreen
+@ITEM=737=move:snarl
+@ITEM=738=move:snipeshot
+@ITEM=739=move:snore
+@ITEM=740=move:snowscape
+@ITEM=741=move:soak
+@ITEM=742=move:softboiled
+@ITEM=743=move:solarbeam
+@ITEM=744=move:solarblade
+@ITEM=745=move:spark
+@ITEM=746=move:spicyextract
+@ITEM=747=move:spikes
+@ITEM=748=move:spikyshield
+@ITEM=749=move:spiritbreak
+@ITEM=750=move:spite
+@ITEM=751=move:spitup
+@ITEM=752=move:splash
+@ITEM=753=move:spore
+@ITEM=754=move:springtidestorm
+@ITEM=755=move:stealthrock
+@ITEM=756=move:steameruption
+@ITEM=757=move:steelbeam
+@ITEM=758=move:steelroller
+@ITEM=759=move:steelwing
+@ITEM=760=move:stickyweb
+@ITEM=761=move:stockpile
+@ITEM=762=move:stomp
+@ITEM=763=move:stompingtantrum
+@ITEM=764=move:stoneaxe
+@ITEM=765=move:stoneedge
+@ITEM=766=move:storedpower
+@ITEM=767=move:strengthsap
+@ITEM=768=move:stringshot
+@ITEM=769=move:strugglebug
+@ITEM=770=move:stunspore
+@ITEM=771=move:substitute
+@ITEM=772=move:suckerpunch
+@ITEM=773=move:sunnyday
+@ITEM=774=move:superfang
+@ITEM=775=move:superpower
+@ITEM=776=move:supersonic
+@ITEM=777=move:surf
+@ITEM=778=move:swagger
+@ITEM=779=move:swallow
+@ITEM=780=move:sweetkiss
+@ITEM=781=move:sweetscent
+@ITEM=782=move:swift
+@ITEM=783=move:switcheroo
+@ITEM=784=move:swordsdance
+@ITEM=785=move:synthesis
+@ITEM=786=move:tackle
+@ITEM=787=move:tailwhip
+@ITEM=788=move:tailwind
+@ITEM=789=move:takedown
+@ITEM=790=move:taunt
+@ITEM=791=move:tearfullook
+@ITEM=792=move:teatime
+@ITEM=793=move:teeterdance
+@ITEM=794=move:teleport
+@ITEM=795=move:terablast
+@ITEM=796=move:terrainpulse
+@ITEM=797=move:thief
+@ITEM=798=move:thrash
+@ITEM=799=move:throatchop
+@ITEM=800=move:thunder
+@ITEM=801=move:thunderbolt
+@ITEM=802=move:thunderfang
+@ITEM=803=move:thunderouskick
+@ITEM=804=move:thunderpunch
+@ITEM=805=move:thundershock
+@ITEM=806=move:thunderwave
+@ITEM=807=move:tickle
+@ITEM=808=move:tidyup
+@ITEM=809=move:torchsong
+@ITEM=810=move:torment
+@ITEM=811=move:toxic
+@ITEM=812=move:toxicspikes
+@ITEM=813=move:trailblaze
+@ITEM=814=move:transform
+@ITEM=815=move:triattack
+@ITEM=816=move:trick
+@ITEM=817=move:trickroom
+@ITEM=818=move:triplearrows
+@ITEM=819=move:twinbeam
+@ITEM=820=move:twister
+@ITEM=821=move:uproar
+@ITEM=822=move:uturn
+@ITEM=823=move:vacuumwave
+@ITEM=824=move:venoshock
+@ITEM=825=move:victorydance
+@ITEM=826=move:vinewhip
+@ITEM=827=move:voltswitch
+@ITEM=828=move:waterfall
+@ITEM=829=move:watergun
+@ITEM=830=move:waterpledge
+@ITEM=831=move:waterpulse
+@ITEM=832=move:watershuriken
+@ITEM=833=move:wavecrash
+@ITEM=834=move:weatherball
+@ITEM=835=move:whirlpool
+@ITEM=836=move:whirlwind
+@ITEM=837=move:wideguard
+@ITEM=838=move:wildboltstorm
+@ITEM=839=move:wildcharge
+@ITEM=840=move:willowisp
+@ITEM=841=move:wingattack
+@ITEM=842=move:wish
+@ITEM=843=move:withdraw
+@ITEM=844=move:wonderroom
+@ITEM=845=move:woodhammer
+@ITEM=846=move:workup
+@ITEM=847=move:worryseed
+@ITEM=848=move:wrap
+@ITEM=849=move:xscissor
+@ITEM=850=move:yawn
+@ITEM=851=move:zapcannon
+@ITEM=852=move:zenheadbutt
+@ITEM=853=move:zingzap
+14 17 20 24 31 37 41 44 51 57 122 329 372 382 395 435 440 474 476 480 482 496 523 525 535 556 572 575 576 587 592 595 612 613 645 652 655 660 674 676 679 700 710 729 757 771 786 789 795 797 800 801 804 806 816
+9 16 20 24 28 35 39 47 52 57 292 350 351 365 394 401 429 430 440 449 496 523 525 535 588 592 608 609 624 652 679 687 690 694 700 701 704 729 737 747 750 755 762 763 765 771 773 789 790 795 798 799 836 852
+7 18 20 24 32 34 41 45 52 55 210 312 314 331 358 368 372 379 382 395 398 403 422 434 438 440 441 455 457 466 476 480 491 493 496 500 524 525 535 538 539 543 548 549 560 565 572 573 575 581 597 601 602 614 636 652 653 655 657 658 660 664 676 679 682 710 711 713 722 729 749 766 771 782 784 790 795 801 804 806 816 817 823 837 849 852
+3 15 20 24 31 37 41 44 52 55 205 314 321 343 351 357 374 391 412 413 414 415 418 419 440 449 463 471 496 528 531 533 534 535 560 569 573 575 608 615 618 652 670 679 684 702 704 729 737 771 773 777 782 789 795 820 828 831 834
+4 13 20 24 32 35 42 47 51 55 261 358 367 373 386 410 438 440 441 449 455 476 481 483 495 496 500 502 506 524 529 560 566 568 575 576 581 632 650 652 663 670 679 680 682 690 700 704 707 726 729 743 744 747 748 763 771 773 775 784 785 789 790 795 799 813 822 826 845 852
+3 4 20 24 32 35 42 47 51 55 295 358 367 373 386 410 438 440 441 449 455 476 481 483 495 496 500 502 506 524 529 560 566 568 575 576 581 632 650 652 663 670 679 680 682 690 700 704 707 726 729 743 744 747 748 763 771 773 775 784 785 789 790 795 799 813 822 826 845 852
+5 10 20 24 31 36 41 44 51 55 202 253 310 312 314 315 319 356 371 372 393 397 399 405 408 424 427 432 434 435 440 449 478 496 516 522 524 531 535 569 572 585 598 609 625 633 652 670 676 679 684 688 693 700 718 724 729 739 759 771 773 778 782 788 789 795 800 801 805 806 811 820 822 827 834 836 839 851
+10 15 20 23 31 34 41 45 50 57 149 180 312 314 315 316 321 324 330 342 348 350 351 357 358 360 361 365 374 393 397 399 406 408 412 413 414 415 418 419 420 427 428 430 438 440 448 449 462 466 467 471 476 478 480 482 491 496 515 516 522 524 528 531 533 535 540 543 545 548 550 556 557 569 572 575 591 597 598 600 609 618 652 670 676 679 684 687 688 690 693 696 700 703 704 718 726 729 739 740 759 763 765 771 773 775 777 778 782 788 789 795 800 801 804 806 811 820 828 829 831 834 835 841 848 851
+8 11 20 26 31 37 42 45 50 57 91 191 218 307 309 318 330 334 348 351 358 359 365 368 374 375 383 393 401 403 406 422 430 433 440 445 449 462 466 471 476 480 485 493 496 500 505 509 516 521 525 533 535 540 543 548 549 555 557 572 573 576 591 597 607 608 612 636 645 652 653 655 657 659 660 670 673 679 696 702 704 710 722 725 729 731 732 737 739 763 766 771 773 777 778 782 786 789 790 795 804 806 811 812 815 816 817 824 828 831 834 835 844 850 852
+1 20 25 28 37 42 47 49 57 132 183 233 317 330 334 348 349 351 358 365 368 372 373 374 384 386 388 393 395 396 404 408 422 423 428 430 431 434 439 440 449 462 466 471 476 480 482 496 500 504 505 516 519 520 521 524 535 538 540 543 548 550 557 562 571 572 591 597 598 609 643 652 655 659 670 675 679 680 687 688 690 692 696 700 708 710 718 721 722 729 739 740 742 743 755 763 766 771 773 778 780 782 787 789 795 797 800 801 804 806 811 813 815 816 821 831 839 846 851 852
+18 20 26 31 37 42 46 51 57 93 166 288 313 317 318 330 348 351 354 358 361 368 372 373 374 384 386 388 393 395 396 399 401 404 408 421 422 423 427 428 431 438 439 440 449 453 462 466 471 476 480 482 483 496 500 504 505 516 519 520 521 524 535 538 540 543 548 549 550 557 560 562 571 572 581 591 596 597 598 601 602 603 609 610 613 632 643 651 652 653 655 659 660 670 675 676 679 680 688 691 692 696 708 710 718 721 722 729 739 742 743 752 755 766 771 773 778 780 782 789 794 795 797 800 801 804 806 807 811 815 816 821 829 831 842 844 846 851 852
+9 15 20 23 30 34 41 47 51 55 223 229 312 324 330 343 351 357 358 360 365 391 401 412 413 414 418 419 420 429 430 440 449 455 462 463 471 476 491 496 516 524 528 535 550 556 557 573 594 608 609 618 636 645 652 670 679 684 687 688 690 698 700 701 703 704 711 727 729 739 747 755 763 765 771 773 777 778 782 784 786 789 795 802 811 820 835
+2 17 20 23 31 36 40 44 50 57 110 112 319 330 350 351 362 365 391 394 401 418 429 430 440 446 449 462 463 467 470 471 473 474 496 516 522 523 535 550 555 556 563 569 579 584 594 595 609 620 624 642 645 652 679 684 685 687 688 690 700 704 709 729 739 743 755 757 758 763 765 771 773 778 789 790 795 810 811 821 840
+3 20 23 30 35 40 45 50 55 140 308 319 322 348 354 359 361 368 373 388 395 406 440 441 449 476 496 500 515 519 524 535 540 548 560 562 572 573 609 652 655 659 670 676 679 696 702 710 722 729 739 771 776 777 778 782 811 821 822 828 829 831 834 835
+3 16 20 25 31 35 42 45 52 56 235 280 312 316 321 324 334 348 351 358 365 369 374 394 401 425 438 440 449 455 476 481 491 496 500 524 532 533 535 540 548 560 573 590 652 670 673 679 680 704 727 729 734 737 740 771 772 777 782 784 786 787 789 790 795 797 823 828 829 830 831 849
+4 8 20 26 30 36 42 46 52 57 106 218 305 313 329 330 351 367 378 440 441 449 485 494 495 496 500 502 506 525 535 554 566 581 589 624 640 652 667 670 679 704 707 729 731 739 743 753 763 770 771 773 778 781 785 795 811 824 847
+3 20 26 28 37 42 47 52 57 132 140 218 310 321 322 330 348 351 354 359 368 374 406 440 449 496 520 521 524 533 535 540 548 560 572 573 599 600 601 621 631 632 643 652 655 659 670 679 696 702 703 710 722 729 739 740 741 771 777 778 789 795 807 811 828 831 835 837 842 852
+9 10 20 23 31 34 41 45 52 56 151 330 349 351 358 360 364 365 368 391 397 401 429 430 440 446 447 449 476 478 480 496 500 504 512 535 549 557 560 569 608 609 612 618 624 652 655 670 679 686 687 688 689 690 691 699 700 701 704 709 729 731 732 733 739 755 763 765 771 773 775 778 784 789 790 795 811 822 834
+3 16 20 25 32 36 42 45 52 55 72 204 280 310 312 330 348 354 358 360 374 394 401 406 431 440 447 449 455 476 496 500 505 509 515 524 532 533 535 540 543 548 570 573 575 576 608 609 614 643 652 663 670 679 687 688 690 691 702 713 729 733 736 739 740 747 750 771 777 778 782 784 789 790 795 797 811 812 813 822 828 829 830 831 832 834 846
+12 18 20 26 32 37 42 46 52 55 135 239 267 305 310 312 313 314 317 327 330 362 363 368 373 388 395 397 421 423 427 440 441 449 451 453 496 500 524 535 549 553 562 567 572 579 581 583 602 632 640 642 652 655 659 665 676 679 693 696 722 729 739 743 760 766 769 770 771 773 778 781 782 783 788 789 795 797 811 813 816 822 844
+3 8 20 26 32 37 38 47 49 57 161 172 218 309 313 330 337 343 348 349 351 359 374 388 390 440 449 489 494 496 509 515 525 533 535 540 545 548 553 555 560 572 573 579 607 608 621 624 625 630 636 638 642 652 670 674 679 696 702 704 729 731 732 733 739 750 771 777 778 795 811 812 824 831 837
+4 20 25 30 34 41 47 52 56 125 190 310 328 330 350 351 353 355 358 360 364 365 367 409 422 426 429 430 439 440 441 449 455 476 480 481 482 488 495 496 500 501 502 505 526 535 538 560 566 575 576 581 591 608 615 652 672 679 704 705 706 707 726 729 737 739 743 744 763 771 773 775 782 784 789 790 795 797 813 821 822 845 846
+2 20 25 32 35 42 47 52 55 76 158 310 314 317 328 330 346 354 364 386 387 408 410 435 437 440 449 457 462 463 465 466 467 470 471 473 476 480 481 496 505 509 516 522 524 535 556 575 576 591 608 609 620 652 661 663 679 682 710 729 733 737 739 771 773 774 782 784 786 789 790 795 813 822 834 840 846 852
+10 17 20 26 31 36 40 47 51 57 175 202 290 312 314 315 316 328 330 350 351 356 364 424 427 440 449 453 474 478 481 490 496 523 528 531 535 555 556 569 572 594 595 612 624 625 633 649 652 670 676 679 680 682 704 706 729 739 750 757 759 771 773 778 782 788 789 790 795 797 822 846
+11 18 20 25 32 36 41 44 50 57 64 132 165 314 327 330 360 368 373 383 394 395 404 421 440 445 449 493 495 496 504 508 520 521 524 535 549 571 572 581 582 583 597 601 610 631 632 647 650 652 653 655 657 658 660 676 679 696 710 711 722 729 739 766 771 782 784 795 806 816 817 844
+14 15 20 23 31 35 42 45 52 54 81 92 148 310 314 317 328 329 330 339 343 351 357 359 406 408 409 412 413 414 415 416 418 419 420 440 449 462 471 478 496 524 525 533 535 553 562 572 574 613 618 629 642 652 656 663 676 679 702 710 729 739 743 759 771 772 773 777 782 789 795 797 800 801 806 815 822 840
+7 20 22 31 35 40 47 50 54 96 314 343 350 351 358 379 391 395 401 440 449 463 474 480 481 496 508 523 524 530 535 538 541 549 555 556 557 572 593 594 602 624 632 647 652 656 663 670 676 679 680 682 684 696 700 704 727 729 737 739 743 757 765 771 773 782 789 795 802 813 837 839 846
+10 18 20 24 32 35 42 44 52 55 87 93 314 329 351 368 395 404 421 429 440 447 449 451 475 478 480 496 500 502 520 535 549 555 556 601 602 610 618 632 652 655 670 679 704 729 731 754 771 773 775 788 789 790 795 810 820 821 834 852
+2 14 20 25 30 37 40 45 52 57 76 288 343 346 351 391 401 404 429 430 437 438 440 449 462 463 465 467 470 471 473 496 522 524 525 535 538 549 550 569 570 609 613 618 620 652 679 684 704 707 710 711 721 729 737 743 763 771 773 786 789 795 802 809 840 852
+13 20 25 30 35 39 47 51 57 81 209 261 334 349 350 351 358 365 401 429 430 440 446 449 466 474 476 482 496 504 512 514 516 523 524 535 543 555 556 608 645 652 670 674 679 685 686 687 689 690 697 700 729 733 755 763 765 771 773 786 789 795 804 837 852
+2 14 20 25 32 34 42 47 50 56 112 298 317 329 344 358 364 378 379 382 414 437 440 449 455 462 467 470 471 473 476 522 524 525 550 555 556 563 569 572 613 614 620 629 636 652 658 664 676 679 710 711 713 729 744 750 766 771 773 784 789 790 795 823 840 849
+8 13 20 25 32 37 41 44 52 56 88 284 308 309 319 382 395 429 440 441 449 474 496 509 514 535 555 572 605 608 645 652 670 676 679 685 686 687 689 690 700 701 709 729 731 732 733 743 747 748 755 765 771 773 795 811 812 824
+3 20 25 28 35 40 47 52 57 186 288 297 324 334 350 351 365 374 391 393 406 408 430 440 449 469 496 523 533 535 541 573 615 617 618 652 670 679 687 704 729 741 763 771 776 777 786 789 795 798 807 828 829 831 833 850 852
+16 17 20 24 30 34 40 47 51 57 98 202 264 312 316 328 358 394 401 440 449 455 474 476 480 485 491 496 500 535 555 556 561 569 575 576 593 594 595 614 636 652 670 679 680 682 690 700 704 705 711 727 729 737 750 755 757 765 771 784 789 790 795 797 806 810 849 852
+7 9 20 24 30 34 39 47 52 56 205 350 351 358 364 365 379 396 401 429 430 439 440 449 463 474 496 517 518 523 526 535 541 545 556 560 590 608 609 632 652 660 671 679 682 684 687 690 692 700 704 729 733 734 755 763 765 771 773 789 790 795 802 852
+2 8 20 24 32 37 42 44 50 55 210 309 310 314 316 363 372 382 395 405 434 437 440 441 449 459 462 467 470 471 473 474 496 510 522 524 531 535 572 579 595 604 620 642 652 655 679 706 729 732 743 769 771 773 782 789 795 811 812 822 824 836
