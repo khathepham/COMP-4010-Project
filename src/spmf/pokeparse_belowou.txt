@@ -1,0 +1,1186 @@
+@CONVERTED_FROM_TEXT
+@ITEM=1=type:Normal
+@ITEM=2=type:Fire
+@ITEM=3=type:Water
+@ITEM=4=type:Grass
+@ITEM=5=type:Electric
+@ITEM=6=type:Ice
+@ITEM=7=type:Fighting
+@ITEM=8=type:Poison
+@ITEM=9=type:Ground
+@ITEM=10=type:Flying
+@ITEM=11=type:Psychic
+@ITEM=12=type:Bug
+@ITEM=13=type:Rock
+@ITEM=14=type:Ghost
+@ITEM=15=type:Dragon
+@ITEM=16=type:Dark
+@ITEM=17=type:Steel
+@ITEM=18=type:Fairy
+@ITEM=19=tier:AboveOU
+@ITEM=20=tier:OU
+@ITEM=21=tier:BelowOU
+@ITEM=22=bst:Legendary
+@ITEM=23=bst:PseudoLegendary
+@ITEM=24=bst:HighBST
+@ITEM=25=bst:MidBST
+@ITEM=26=bst:LowBST
+@ITEM=27=bst:VeryLowBST
+@ITEM=28=stat:LegendStat-hp
+@ITEM=29=stat:HighStat-hp
+@ITEM=30=stat:MidStat-hp
+@ITEM=31=stat:LowStat-hp
+@ITEM=32=stat:VeryLowStat-hp
+@ITEM=33=stat:LegendStat-atk
+@ITEM=34=stat:HighStat-atk
+@ITEM=35=stat:MidStat-atk
+@ITEM=36=stat:LowStat-atk
+@ITEM=37=stat:VeryLowStat-atk
+@ITEM=38=stat:LegendStat-def
+@ITEM=39=stat:HighStat-def
+@ITEM=40=stat:MidStat-def
+@ITEM=41=stat:LowStat-def
+@ITEM=42=stat:VeryLowStat-def
+@ITEM=43=stat:LegendStat-spa
+@ITEM=44=stat:HighStat-spa
+@ITEM=45=stat:MidStat-spa
+@ITEM=46=stat:LowStat-spa
+@ITEM=47=stat:VeryLowStat-spa
+@ITEM=48=stat:LegendStat-spd
+@ITEM=49=stat:HighStat-spd
+@ITEM=50=stat:MidStat-spd
+@ITEM=51=stat:LowStat-spd
+@ITEM=52=stat:VeryLowStat-spd
+@ITEM=53=stat:LegendStat-spe
+@ITEM=54=stat:HighStat-spe
+@ITEM=55=stat:MidStat-spe
+@ITEM=56=stat:LowStat-spe
+@ITEM=57=stat:VeryLowStat-spe
+@ITEM=58=ability:Adaptability
+@ITEM=59=ability:Aftermath
+@ITEM=60=ability:Air Lock
+@ITEM=61=ability:Analytic
+@ITEM=62=ability:Anger Point
+@ITEM=63=ability:Anger Shell
+@ITEM=64=ability:Anticipation
+@ITEM=65=ability:Arena Trap
+@ITEM=66=ability:Armor Tail
+@ITEM=67=ability:Aroma Veil
+@ITEM=68=ability:As One (Glastrier)
+@ITEM=69=ability:As One (Spectrier)
+@ITEM=70=ability:Bad Dreams
+@ITEM=71=ability:Battle Armor
+@ITEM=72=ability:Battle Bond
+@ITEM=73=ability:Beads of Ruin
+@ITEM=74=ability:Berserk
+@ITEM=75=ability:Big Pecks
+@ITEM=76=ability:Blaze
+@ITEM=77=ability:Bulletproof
+@ITEM=78=ability:Cheek Pouch
+@ITEM=79=ability:Chilling Neigh
+@ITEM=80=ability:Chlorophyll
+@ITEM=81=ability:Clear Body
+@ITEM=82=ability:Cloud Nine
+@ITEM=83=ability:Comatose
+@ITEM=84=ability:Commander
+@ITEM=85=ability:Competitive
+@ITEM=86=ability:Compound Eyes
+@ITEM=87=ability:Contrary
+@ITEM=88=ability:Corrosion
+@ITEM=89=ability:Costar
+@ITEM=90=ability:Cud Chew
+@ITEM=91=ability:Curious Medicine
+@ITEM=92=ability:Cursed Body
+@ITEM=93=ability:Cute Charm
+@ITEM=94=ability:Damp
+@ITEM=95=ability:Dancer
+@ITEM=96=ability:Dauntless Shield
+@ITEM=97=ability:Dazzling
+@ITEM=98=ability:Defiant
+@ITEM=99=ability:Disguise
+@ITEM=100=ability:Dragon's Maw
+@ITEM=101=ability:Drizzle
+@ITEM=102=ability:Drought
+@ITEM=103=ability:Dry Skin
+@ITEM=104=ability:Early Bird
+@ITEM=105=ability:Earth Eater
+@ITEM=106=ability:Effect Spore
+@ITEM=107=ability:Electric Surge
+@ITEM=108=ability:Electromorphosis
+@ITEM=109=ability:Filter
+@ITEM=110=ability:Flame Body
+@ITEM=111=ability:Flare Boost
+@ITEM=112=ability:Flash Fire
+@ITEM=113=ability:Flower Veil
+@ITEM=114=ability:Fluffy
+@ITEM=115=ability:Forewarn
+@ITEM=116=ability:Friend Guard
+@ITEM=117=ability:Frisk
+@ITEM=118=ability:Fur Coat
+@ITEM=119=ability:Gale Wings
+@ITEM=120=ability:Galvanize
+@ITEM=121=ability:Gluttony
+@ITEM=122=ability:Good as Gold
+@ITEM=123=ability:Gooey
+@ITEM=124=ability:Grass Pelt
+@ITEM=125=ability:Grassy Surge
+@ITEM=126=ability:Grim Neigh
+@ITEM=127=ability:Guard Dog
+@ITEM=128=ability:Gulp Missile
+@ITEM=129=ability:Guts
+@ITEM=130=ability:Hadron Engine
+@ITEM=131=ability:Harvest
+@ITEM=132=ability:Healer
+@ITEM=133=ability:Heatproof
+@ITEM=134=ability:Heavy Metal
+@ITEM=135=ability:Honey Gather
+@ITEM=136=ability:Hospitality
+@ITEM=137=ability:Huge Power
+@ITEM=138=ability:Hunger Switch
+@ITEM=139=ability:Hustle
+@ITEM=140=ability:Hydration
+@ITEM=141=ability:Hyper Cutter
+@ITEM=142=ability:Ice Body
+@ITEM=143=ability:Ice Scales
+@ITEM=144=ability:Illuminate
+@ITEM=145=ability:Illusion
+@ITEM=146=ability:Immunity
+@ITEM=147=ability:Imposter
+@ITEM=148=ability:Infiltrator
+@ITEM=149=ability:Inner Focus
+@ITEM=150=ability:Insomnia
+@ITEM=151=ability:Intimidate
+@ITEM=152=ability:Intrepid Sword
+@ITEM=153=ability:Iron Fist
+@ITEM=154=ability:Justified
+@ITEM=155=ability:Keen Eye
+@ITEM=156=ability:Leaf Guard
+@ITEM=157=ability:Levitate
+@ITEM=158=ability:Libero
+@ITEM=159=ability:Light Metal
+@ITEM=160=ability:Lightning Rod
+@ITEM=161=ability:Limber
+@ITEM=162=ability:Lingering Aroma
+@ITEM=163=ability:Liquid Ooze
+@ITEM=164=ability:Long Reach
+@ITEM=165=ability:Magic Bounce
+@ITEM=166=ability:Magic Guard
+@ITEM=167=ability:Magician
+@ITEM=168=ability:Magma Armor
+@ITEM=169=ability:Magnet Pull
+@ITEM=170=ability:Marvel Scale
+@ITEM=171=ability:Mega Launcher
+@ITEM=172=ability:Merciless
+@ITEM=173=ability:Mind's Eye
+@ITEM=174=ability:Minus
+@ITEM=175=ability:Mirror Armor
+@ITEM=176=ability:Misty Surge
+@ITEM=177=ability:Mold Breaker
+@ITEM=178=ability:Moody
+@ITEM=179=ability:Moxie
+@ITEM=180=ability:Multiscale
+@ITEM=181=ability:Multitype
+@ITEM=182=ability:Mycelium Might
+@ITEM=183=ability:Natural Cure
+@ITEM=184=ability:Neutralizing Gas
+@ITEM=185=ability:No Guard
+@ITEM=186=ability:Oblivious
+@ITEM=187=ability:Opportunist
+@ITEM=188=ability:Orichalcum Pulse
+@ITEM=189=ability:Overcoat
+@ITEM=190=ability:Overgrow
+@ITEM=191=ability:Own Tempo
+@ITEM=192=ability:Pickpocket
+@ITEM=193=ability:Pickup
+@ITEM=194=ability:Pixilate
+@ITEM=195=ability:Plus
+@ITEM=196=ability:Poison Heal
+@ITEM=197=ability:Poison Point
+@ITEM=198=ability:Poison Touch
+@ITEM=199=ability:Power Spot
+@ITEM=200=ability:Power of Alchemy
+@ITEM=201=ability:Prankster
+@ITEM=202=ability:Pressure
+@ITEM=203=ability:Propeller Tail
+@ITEM=204=ability:Protean
+@ITEM=205=ability:Protosynthesis
+@ITEM=206=ability:Psychic Surge
+@ITEM=207=ability:Punk Rock
+@ITEM=208=ability:Pure Power
+@ITEM=209=ability:Purifying Salt
+@ITEM=210=ability:Quark Drive
+@ITEM=211=ability:Queenly Majesty
+@ITEM=212=ability:Quick Draw
+@ITEM=213=ability:Quick Feet
+@ITEM=214=ability:Rain Dish
+@ITEM=215=ability:Rattled
+@ITEM=216=ability:Receiver
+@ITEM=217=ability:Reckless
+@ITEM=218=ability:Regenerator
+@ITEM=219=ability:Ripen
+@ITEM=220=ability:Rivalry
+@ITEM=221=ability:Rock Head
+@ITEM=222=ability:Rocky Payload
+@ITEM=223=ability:Rough Skin
+@ITEM=224=ability:Run Away
+@ITEM=225=ability:Sand Force
+@ITEM=226=ability:Sand Rush
+@ITEM=227=ability:Sand Spit
+@ITEM=228=ability:Sand Stream
+@ITEM=229=ability:Sand Veil
+@ITEM=230=ability:Sap Sipper
+@ITEM=231=ability:Scrappy
+@ITEM=232=ability:Seed Sower
+@ITEM=233=ability:Serene Grace
+@ITEM=234=ability:Shadow Tag
+@ITEM=235=ability:Sharpness
+@ITEM=236=ability:Shed Skin
+@ITEM=237=ability:Sheer Force
+@ITEM=238=ability:Shell Armor
+@ITEM=239=ability:Shield Dust
+@ITEM=240=ability:Skill Link
+@ITEM=241=ability:Slush Rush
+@ITEM=242=ability:Sniper
+@ITEM=243=ability:Snow Cloak
+@ITEM=244=ability:Snow Warning
+@ITEM=245=ability:Solar Power
+@ITEM=246=ability:Solid Rock
+@ITEM=247=ability:Soul-Heart
+@ITEM=248=ability:Soundproof
+@ITEM=249=ability:Speed Boost
+@ITEM=250=ability:Stakeout
+@ITEM=251=ability:Stall
+@ITEM=252=ability:Stamina
+@ITEM=253=ability:Static
+@ITEM=254=ability:Steadfast
+@ITEM=255=ability:Steam Engine
+@ITEM=256=ability:Steely Spirit
+@ITEM=257=ability:Stench
+@ITEM=258=ability:Sticky Hold
+@ITEM=259=ability:Storm Drain
+@ITEM=260=ability:Strong Jaw
+@ITEM=261=ability:Sturdy
+@ITEM=262=ability:Super Luck
+@ITEM=263=ability:Supersweet Syrup
+@ITEM=264=ability:Supreme Overlord
+@ITEM=265=ability:Surge Surfer
+@ITEM=266=ability:Swarm
+@ITEM=267=ability:Sweet Veil
+@ITEM=268=ability:Swift Swim
+@ITEM=269=ability:Sword of Ruin
+@ITEM=270=ability:Symbiosis
+@ITEM=271=ability:Synchronize
+@ITEM=272=ability:Tablets of Ruin
+@ITEM=273=ability:Tangled Feet
+@ITEM=274=ability:Tangling Hair
+@ITEM=275=ability:Technician
+@ITEM=276=ability:Telepathy
+@ITEM=277=ability:Thermal Exchange
+@ITEM=278=ability:Thick Fat
+@ITEM=279=ability:Tinted Lens
+@ITEM=280=ability:Torrent
+@ITEM=281=ability:Tough Claws
+@ITEM=282=ability:Toxic Boost
+@ITEM=283=ability:Toxic Chain
+@ITEM=284=ability:Toxic Debris
+@ITEM=285=ability:Trace
+@ITEM=286=ability:Transistor
+@ITEM=287=ability:Truant
+@ITEM=288=ability:Unaware
+@ITEM=289=ability:Unburden
+@ITEM=290=ability:Unnerve
+@ITEM=291=ability:Unseen Fist
+@ITEM=292=ability:Vessel of Ruin
+@ITEM=293=ability:Vital Spirit
+@ITEM=294=ability:Volt Absorb
+@ITEM=295=ability:Water Absorb
+@ITEM=296=ability:Water Compaction
+@ITEM=297=ability:Water Veil
+@ITEM=298=ability:Weak Armor
+@ITEM=299=ability:Well-Baked Body
+@ITEM=300=ability:White Smoke
+@ITEM=301=ability:Wind Power
+@ITEM=302=ability:Wind Rider
+@ITEM=303=ability:Wonder Skin
+@ITEM=304=ability:Zero to Hero
+@ITEM=305=move:absorb
+@ITEM=306=move:accelerock
+@ITEM=307=move:acid
+@ITEM=308=move:acidarmor
+@ITEM=309=move:acidspray
+@ITEM=310=move:acrobatics
+@ITEM=311=move:acupressure
+@ITEM=312=move:aerialace
+@ITEM=313=move:afteryou
+@ITEM=314=move:agility
+@ITEM=315=move:aircutter
+@ITEM=316=move:airslash
+@ITEM=317=move:allyswitch
+@ITEM=318=move:amnesia
+@ITEM=319=move:ancientpower
+@ITEM=320=move:aquacutter
+@ITEM=321=move:aquajet
+@ITEM=322=move:aquaring
+@ITEM=323=move:aquastep
+@ITEM=324=move:aquatail
+@ITEM=325=move:armorcannon
+@ITEM=326=move:armthrust
+@ITEM=327=move:aromaticmist
+@ITEM=328=move:assurance
+@ITEM=329=move:astonish
+@ITEM=330=move:attract
+@ITEM=331=move:aurasphere
+@ITEM=332=move:aurorabeam
+@ITEM=333=move:auroraveil
+@ITEM=334=move:avalanche
+@ITEM=335=move:axekick
+@ITEM=336=move:babydolleyes
+@ITEM=337=move:banefulbunker
+@ITEM=338=move:barbbarrage
+@ITEM=339=move:beatup
+@ITEM=340=move:belch
+@ITEM=341=move:bellydrum
+@ITEM=342=move:bind
+@ITEM=343=move:bite
+@ITEM=344=move:bitterblade
+@ITEM=345=move:bittermalice
+@ITEM=346=move:blastburn
+@ITEM=347=move:bleakwindstorm
+@ITEM=348=move:blizzard
+@ITEM=349=move:block
+@ITEM=350=move:bodypress
+@ITEM=351=move:bodyslam
+@ITEM=352=move:bonerush
+@ITEM=353=move:boomburst
+@ITEM=354=move:bounce
+@ITEM=355=move:branchpoke
+@ITEM=356=move:bravebird
+@ITEM=357=move:breakingswipe
+@ITEM=358=move:brickbreak
+@ITEM=359=move:brine
+@ITEM=360=move:brutalswing
+@ITEM=361=move:bubblebeam
+@ITEM=362=move:bugbite
+@ITEM=363=move:bugbuzz
+@ITEM=364=move:bulkup
+@ITEM=365=move:bulldoze
+@ITEM=366=move:bulletpunch
+@ITEM=367=move:bulletseed
+@ITEM=368=move:calmmind
+@ITEM=369=move:ceaselessedge
+@ITEM=370=move:celebrate
+@ITEM=371=move:charge
+@ITEM=372=move:chargebeam
+@ITEM=373=move:charm
+@ITEM=374=move:chillingwater
+@ITEM=375=move:chillyreception
+@ITEM=376=move:chloroblast
+@ITEM=377=move:circlethrow
+@ITEM=378=move:clearsmog
+@ITEM=379=move:closecombat
+@ITEM=380=move:coil
+@ITEM=381=move:comeuppance
+@ITEM=382=move:confuseray
+@ITEM=383=move:confusion
+@ITEM=384=move:copycat
+@ITEM=385=move:cottonguard
+@ITEM=386=move:counter
+@ITEM=387=move:courtchange
+@ITEM=388=move:covet
+@ITEM=389=move:crosschop
+@ITEM=390=move:crosspoison
+@ITEM=391=move:crunch
+@ITEM=392=move:crushclaw
+@ITEM=393=move:curse
+@ITEM=394=move:darkpulse
+@ITEM=395=move:dazzlinggleam
+@ITEM=396=move:defensecurl
+@ITEM=397=move:defog
+@ITEM=398=move:destinybond
+@ITEM=399=move:detect
+@ITEM=400=move:diamondstorm
+@ITEM=401=move:dig
+@ITEM=402=move:direclaw
+@ITEM=403=move:disable
+@ITEM=404=move:disarmingvoice
+@ITEM=405=move:discharge
+@ITEM=406=move:dive
+@ITEM=407=move:doodle
+@ITEM=408=move:doubleedge
+@ITEM=409=move:doublehit
+@ITEM=410=move:doublekick
+@ITEM=411=move:doubleshock
+@ITEM=412=move:dracometeor
+@ITEM=413=move:dragonbreath
+@ITEM=414=move:dragonclaw
+@ITEM=415=move:dragondance
+@ITEM=416=move:dragondarts
+@ITEM=417=move:dragonenergy
+@ITEM=418=move:dragonpulse
+@ITEM=419=move:dragonrush
+@ITEM=420=move:dragontail
+@ITEM=421=move:drainingkiss
+@ITEM=422=move:drainpunch
+@ITEM=423=move:dreameater
+@ITEM=424=move:drillpeck
+@ITEM=425=move:drillrun
+@ITEM=426=move:drumbeating
+@ITEM=427=move:dualwingbeat
+@ITEM=428=move:dynamicpunch
+@ITEM=429=move:earthpower
+@ITEM=430=move:earthquake
+@ITEM=431=move:echoedvoice
+@ITEM=432=move:eerieimpulse
+@ITEM=433=move:eeriespell
+@ITEM=434=move:electricterrain
+@ITEM=435=move:electroball
+@ITEM=436=move:electroweb
+@ITEM=437=move:ember
+@ITEM=438=move:encore
+@ITEM=439=move:endeavor
+@ITEM=440=move:endure
+@ITEM=441=move:energyball
+@ITEM=442=move:entrainment
+@ITEM=443=move:eruption
+@ITEM=444=move:esperwing
+@ITEM=445=move:expandingforce
+@ITEM=446=move:explosion
+@ITEM=447=move:extrasensory
+@ITEM=448=move:extremespeed
+@ITEM=449=move:facade
+@ITEM=450=move:fairylock
+@ITEM=451=move:fairywind
+@ITEM=452=move:fakeout
+@ITEM=453=move:faketears
+@ITEM=454=move:falsesurrender
+@ITEM=455=move:falseswipe
+@ITEM=456=move:featherdance
+@ITEM=457=move:feint
+@ITEM=458=move:fellstinger
+@ITEM=459=move:fierydance
+@ITEM=460=move:fierywrath
+@ITEM=461=move:finalgambit
+@ITEM=462=move:fireblast
+@ITEM=463=move:firefang
+@ITEM=464=move:firelash
+@ITEM=465=move:firepledge
+@ITEM=466=move:firepunch
+@ITEM=467=move:firespin
+@ITEM=468=move:firstimpression
+@ITEM=469=move:flail
+@ITEM=470=move:flamecharge
+@ITEM=471=move:flamethrower
+@ITEM=472=move:flamewheel
+@ITEM=473=move:flareblitz
+@ITEM=474=move:flashcannon
+@ITEM=475=move:flatter
+@ITEM=476=move:fling
+@ITEM=477=move:flowertrick
+@ITEM=478=move:fly
+@ITEM=479=move:flyingpress
+@ITEM=480=move:focusblast
+@ITEM=481=move:focusenergy
+@ITEM=482=move:focuspunch
+@ITEM=483=move:followme
+@ITEM=484=move:forcepalm
+@ITEM=485=move:foulplay
+@ITEM=486=move:freezedry
+@ITEM=487=move:freezingglare
+@ITEM=488=move:frenzyplant
+@ITEM=489=move:frostbreath
+@ITEM=490=move:furyattack
+@ITEM=491=move:furycutter
+@ITEM=492=move:furyswipes
+@ITEM=493=move:futuresight
+@ITEM=494=move:gastroacid
+@ITEM=495=move:gigadrain
+@ITEM=496=move:gigaimpact
+@ITEM=497=move:gigatonhammer
+@ITEM=498=move:glaiverush
+@ITEM=499=move:glare
+@ITEM=500=move:grassknot
+@ITEM=501=move:grasspledge
+@ITEM=502=move:grassyterrain
+@ITEM=503=move:gravapple
+@ITEM=504=move:gravity
+@ITEM=505=move:growl
+@ITEM=506=move:growth
+@ITEM=507=move:guardsplit
+@ITEM=508=move:guardswap
+@ITEM=509=move:gunkshot
+@ITEM=510=move:gust
+@ITEM=511=move:gyroball
+@ITEM=512=move:hammerarm
+@ITEM=513=move:happyhour
+@ITEM=514=move:harden
+@ITEM=515=move:haze
+@ITEM=516=move:headbutt
+@ITEM=517=move:headlongrush
+@ITEM=518=move:headsmash
+@ITEM=519=move:healbell
+@ITEM=520=move:healingwish
+@ITEM=521=move:healpulse
+@ITEM=522=move:heatwave
+@ITEM=523=move:heavyslam
+@ITEM=524=move:helpinghand
+@ITEM=525=move:hex
+@ITEM=526=move:highhorsepower
+@ITEM=527=move:highjumpkick
+@ITEM=528=move:honeclaws
+@ITEM=529=move:hornleech
+@ITEM=530=move:howl
+@ITEM=531=move:hurricane
+@ITEM=532=move:hydrocannon
+@ITEM=533=move:hydropump
+@ITEM=534=move:hydrosteam
+@ITEM=535=move:hyperbeam
+@ITEM=536=move:hyperdrill
+@ITEM=537=move:hyperspacefury
+@ITEM=538=move:hypervoice
+@ITEM=539=move:hypnosis
+@ITEM=540=move:icebeam
+@ITEM=541=move:icefang
+@ITEM=542=move:icehammer
+@ITEM=543=move:icepunch
+@ITEM=544=move:iceshard
+@ITEM=545=move:icespinner
+@ITEM=546=move:iciclecrash
+@ITEM=547=move:iciclespear
+@ITEM=548=move:icywind
+@ITEM=549=move:imprison
+@ITEM=550=move:incinerate
+@ITEM=551=move:infernalparade
+@ITEM=552=move:inferno
+@ITEM=553=move:infestation
+@ITEM=554=move:ingrain
+@ITEM=555=move:irondefense
+@ITEM=556=move:ironhead
+@ITEM=557=move:irontail
+@ITEM=558=move:jawlock
+@ITEM=559=move:junglehealing
+@ITEM=560=move:knockoff
+@ITEM=561=move:kowtowcleave
+@ITEM=562=move:lastresort
+@ITEM=563=move:lavaplume
+@ITEM=564=move:leafage
+@ITEM=565=move:leafblade
+@ITEM=566=move:leafstorm
+@ITEM=567=move:leechlife
+@ITEM=568=move:leechseed
+@ITEM=569=move:leer
+@ITEM=570=move:lick
+@ITEM=571=move:lifedew
+@ITEM=572=move:lightscreen
+@ITEM=573=move:liquidation
+@ITEM=574=move:lockon
+@ITEM=575=move:lowkick
+@ITEM=576=move:lowsweep
+@ITEM=577=move:lunarblessing
+@ITEM=578=move:lunardance
+@ITEM=579=move:lunge
+@ITEM=580=move:machpunch
+@ITEM=581=move:magicalleaf
+@ITEM=582=move:magicpowder
+@ITEM=583=move:magicroom
+@ITEM=584=move:magmastorm
+@ITEM=585=move:magneticflux
+@ITEM=586=move:magnetrise
+@ITEM=587=move:makeitrain
+@ITEM=588=move:meanlook
+@ITEM=589=move:megadrain
+@ITEM=590=move:megahorn
+@ITEM=591=move:megakick
+@ITEM=592=move:memento
+@ITEM=593=move:metalburst
+@ITEM=594=move:metalclaw
+@ITEM=595=move:metalsound
+@ITEM=596=move:meteormash
+@ITEM=597=move:metronome
+@ITEM=598=move:mimic
+@ITEM=599=move:mirrorcoat
+@ITEM=600=move:mist
+@ITEM=601=move:mistyterrain
+@ITEM=602=move:moonblast
+@ITEM=603=move:moonlight
+@ITEM=604=move:morningsun
+@ITEM=605=move:mortalspin
+@ITEM=606=move:mountaingale
+@ITEM=607=move:muddywater
+@ITEM=608=move:mudshot
+@ITEM=609=move:mudslap
+@ITEM=610=move:mysticalfire
+@ITEM=611=move:mysticalpower
+@ITEM=612=move:nastyplot
+@ITEM=613=move:nightshade
+@ITEM=614=move:nightslash
+@ITEM=615=move:nobleroar
+@ITEM=616=move:nuzzle
+@ITEM=617=move:orderup
+@ITEM=618=move:outrage
+@ITEM=619=move:overdrive
+@ITEM=620=move:overheat
+@ITEM=621=move:painsplit
+@ITEM=622=move:paraboliccharge
+@ITEM=623=move:partingshot
+@ITEM=624=move:payback
+@ITEM=625=move:peck
+@ITEM=626=move:perishsong
+@ITEM=627=move:petalblizzard
+@ITEM=628=move:petaldance
+@ITEM=629=move:phantomforce
+@ITEM=630=move:pinmissile
+@ITEM=631=move:playnice
+@ITEM=632=move:playrough
+@ITEM=633=move:pluck
+@ITEM=634=move:poisonfang
+@ITEM=635=move:poisongas
+@ITEM=636=move:poisonjab
+@ITEM=637=move:poisonpowder
+@ITEM=638=move:poisonsting
+@ITEM=639=move:poisontail
+@ITEM=640=move:pollenpuff
+@ITEM=641=move:populationbomb
+@ITEM=642=move:pounce
+@ITEM=643=move:pound
+@ITEM=644=move:powdersnow
+@ITEM=645=move:powergem
+@ITEM=646=move:powersplit
+@ITEM=647=move:powerswap
+@ITEM=648=move:powertrick
+@ITEM=649=move:powertrip
+@ITEM=650=move:powerwhip
+@ITEM=651=move:present
+@ITEM=652=move:protect
+@ITEM=653=move:psybeam
+@ITEM=654=move:psyblade
+@ITEM=655=move:psychic
+@ITEM=656=move:psychicfangs
+@ITEM=657=move:psychicterrain
+@ITEM=658=move:psychocut
+@ITEM=659=move:psychup
+@ITEM=660=move:psyshock
+@ITEM=661=move:pyroball
+@ITEM=662=move:quash
+@ITEM=663=move:quickattack
+@ITEM=664=move:quickguard
+@ITEM=665=move:quiverdance
+@ITEM=666=move:ragefist
+@ITEM=667=move:ragepowder
+@ITEM=668=move:ragingbull
+@ITEM=669=move:ragingfury
+@ITEM=670=move:raindance
+@ITEM=671=move:rapidspin
+@ITEM=672=move:razorleaf
+@ITEM=673=move:razorshell
+@ITEM=674=move:recover
+@ITEM=675=move:recycle
+@ITEM=676=move:reflect
+@ITEM=677=move:reflecttype
+@ITEM=678=move:relicsong
+@ITEM=679=move:rest
+@ITEM=680=move:retaliate
+@ITEM=681=move:revelationdance
+@ITEM=682=move:reversal
+@ITEM=683=move:revivalblessing
+@ITEM=684=move:roar
+@ITEM=685=move:rockblast
+@ITEM=686=move:rockpolish
+@ITEM=687=move:rockslide
+@ITEM=688=move:rocksmash
+@ITEM=689=move:rockthrow
+@ITEM=690=move:rocktomb
+@ITEM=691=move:roleplay
+@ITEM=692=move:rollout
+@ITEM=693=move:roost
+@ITEM=694=move:ruination
+@ITEM=695=move:sacredsword
+@ITEM=696=move:safeguard
+@ITEM=697=move:saltcure
+@ITEM=698=move:sandattack
+@ITEM=699=move:sandsearstorm
+@ITEM=700=move:sandstorm
+@ITEM=701=move:sandtomb
+@ITEM=702=move:scald
+@ITEM=703=move:scaleshot
+@ITEM=704=move:scaryface
+@ITEM=705=move:scratch
+@ITEM=706=move:screech
+@ITEM=707=move:seedbomb
+@ITEM=708=move:seismictoss
+@ITEM=709=move:selfdestruct
+@ITEM=710=move:shadowball
+@ITEM=711=move:shadowclaw
+@ITEM=712=move:shadowpunch
+@ITEM=713=move:shadowsneak
+@ITEM=714=move:shellsidearm
+@ITEM=715=move:shellsmash
+@ITEM=716=move:shelter
+@ITEM=717=move:shiftgear
+@ITEM=718=move:shockwave
+@ITEM=719=move:silktrap
+@ITEM=720=move:simplebeam
+@ITEM=721=move:sing
+@ITEM=722=move:skillswap
+@ITEM=723=move:skittersmack
+@ITEM=724=move:skyattack
+@ITEM=725=move:slackoff
+@ITEM=726=move:slam
+@ITEM=727=move:slash
+@ITEM=728=move:sleeppowder
+@ITEM=729=move:sleeptalk
+@ITEM=730=move:sludge
+@ITEM=731=move:sludgebomb
+@ITEM=732=move:sludgewave
+@ITEM=733=move:smackdown
+@ITEM=734=move:smartstrike
+@ITEM=735=move:smog
+@ITEM=736=move:smokescreen
+@ITEM=737=move:snarl
+@ITEM=738=move:snipeshot
+@ITEM=739=move:snore
+@ITEM=740=move:snowscape
+@ITEM=741=move:soak
+@ITEM=742=move:softboiled
+@ITEM=743=move:solarbeam
+@ITEM=744=move:solarblade
+@ITEM=745=move:spark
+@ITEM=746=move:spicyextract
+@ITEM=747=move:spikes
+@ITEM=748=move:spikyshield
+@ITEM=749=move:spiritbreak
+@ITEM=750=move:spite
+@ITEM=751=move:spitup
+@ITEM=752=move:splash
+@ITEM=753=move:spore
+@ITEM=754=move:springtidestorm
+@ITEM=755=move:stealthrock
+@ITEM=756=move:steameruption
+@ITEM=757=move:steelbeam
+@ITEM=758=move:steelroller
+@ITEM=759=move:steelwing
+@ITEM=760=move:stickyweb
+@ITEM=761=move:stockpile
+@ITEM=762=move:stomp
+@ITEM=763=move:stompingtantrum
+@ITEM=764=move:stoneaxe
+@ITEM=765=move:stoneedge
+@ITEM=766=move:storedpower
+@ITEM=767=move:strengthsap
+@ITEM=768=move:stringshot
+@ITEM=769=move:strugglebug
+@ITEM=770=move:stunspore
+@ITEM=771=move:substitute
+@ITEM=772=move:suckerpunch
+@ITEM=773=move:sunnyday
+@ITEM=774=move:superfang
+@ITEM=775=move:superpower
+@ITEM=776=move:supersonic
+@ITEM=777=move:surf
+@ITEM=778=move:swagger
+@ITEM=779=move:swallow
+@ITEM=780=move:sweetkiss
+@ITEM=781=move:sweetscent
+@ITEM=782=move:swift
+@ITEM=783=move:switcheroo
+@ITEM=784=move:swordsdance
+@ITEM=785=move:synthesis
+@ITEM=786=move:tackle
+@ITEM=787=move:tailwhip
+@ITEM=788=move:tailwind
+@ITEM=789=move:takedown
+@ITEM=790=move:taunt
+@ITEM=791=move:tearfullook
+@ITEM=792=move:teatime
+@ITEM=793=move:teeterdance
+@ITEM=794=move:teleport
+@ITEM=795=move:terablast
+@ITEM=796=move:terrainpulse
+@ITEM=797=move:thief
+@ITEM=798=move:thrash
+@ITEM=799=move:throatchop
+@ITEM=800=move:thunder
+@ITEM=801=move:thunderbolt
+@ITEM=802=move:thunderfang
+@ITEM=803=move:thunderouskick
+@ITEM=804=move:thunderpunch
+@ITEM=805=move:thundershock
+@ITEM=806=move:thunderwave
+@ITEM=807=move:tickle
+@ITEM=808=move:tidyup
+@ITEM=809=move:torchsong
+@ITEM=810=move:torment
+@ITEM=811=move:toxic
+@ITEM=812=move:toxicspikes
+@ITEM=813=move:trailblaze
+@ITEM=814=move:transform
+@ITEM=815=move:triattack
+@ITEM=816=move:trick
+@ITEM=817=move:trickroom
+@ITEM=818=move:triplearrows
+@ITEM=819=move:twinbeam
+@ITEM=820=move:twister
+@ITEM=821=move:uproar
+@ITEM=822=move:uturn
+@ITEM=823=move:vacuumwave
+@ITEM=824=move:venoshock
+@ITEM=825=move:victorydance
+@ITEM=826=move:vinewhip
+@ITEM=827=move:voltswitch
+@ITEM=828=move:waterfall
+@ITEM=829=move:watergun
+@ITEM=830=move:waterpledge
+@ITEM=831=move:waterpulse
+@ITEM=832=move:watershuriken
+@ITEM=833=move:wavecrash
+@ITEM=834=move:weatherball
+@ITEM=835=move:whirlpool
+@ITEM=836=move:whirlwind
+@ITEM=837=move:wideguard
+@ITEM=838=move:wildboltstorm
+@ITEM=839=move:wildcharge
+@ITEM=840=move:willowisp
+@ITEM=841=move:wingattack
+@ITEM=842=move:wish
+@ITEM=843=move:withdraw
+@ITEM=844=move:wonderroom
+@ITEM=845=move:woodhammer
+@ITEM=846=move:workup
+@ITEM=847=move:worryseed
+@ITEM=848=move:wrap
+@ITEM=849=move:xscissor
+@ITEM=850=move:yawn
+@ITEM=851=move:zapcannon
+@ITEM=852=move:zenheadbutt
+@ITEM=853=move:zingzap
+4 16 21 24 31 36 40 46 49 57 272 305 350 351 367 394 440 441 449 485 495 496 500 502 506 525 535 554 560 566 568 572 581 588 589 608 609 624 637 640 650 652 670 676 679 694 704 707 729 737 743 744 750 770 771 773 789 790 795 807 813 852
+5 21 26 32 37 42 47 52 53 59 248 253 314 371 372 393 405 432 434 435 440 446 449 485 496 511 516 524 535 572 585 586 598 599 652 670 676 679 692 704 706 709 718 729 739 745 771 772 778 782 786 789 790 794 795 797 800 801 805 806 810 811 827 839 851
+4 5 21 26 32 37 42 47 52 53 59 248 253 314 367 371 372 376 405 434 435 440 441 446 449 485 495 496 500 502 511 535 566 652 670 676 679 692 704 706 707 709 729 743 770 771 782 786 789 790 795 797 800 801 805 806 827 839
+4 11 21 24 31 34 41 47 50 55 210 312 314 316 317 358 368 379 434 440 441 449 455 480 495 496 500 502 504 524 535 549 555 565 566 569 581 590 614 652 654 657 662 663 664 679 680 682 695 704 729 734 743 744 771 782 784 789 790 795 813 839 846 849
+4 15 21 26 32 37 40 46 52 57 121 258 263 329 351 362 367 396 409 412 413 418 420 440 441 449 495 496 500 502 506 511 535 553 566 618 640 642 652 674 675 676 679 692 707 729 743 771 772 773 781 789 795 843
+4 14 21 25 32 37 40 45 52 57 133 136 305 329 368 440 441 485 495 502 525 535 549 555 566 571 581 589 592 612 613 629 652 667 676 679 702 710 729 743 750 767 770 771 795 817 821 843
+7 8 21 24 31 34 40 47 51 57 127 283 343 350 351 358 360 364 379 386 391 401 422 440 449 463 466 476 480 482 484 496 509 526 530 535 541 543 556 560 575 576 594 618 634 636 639 652 656 679 682 684 690 704 711 729 731 737 750 763 771 775 789 790 795 797 802 804 811 821
+8 11 21 24 31 37 42 44 51 55 117 283 309 368 378 382 383 440 449 452 475 476 480 493 496 500 509 524 525 535 549 572 597 609 612 613 623 636 652 653 655 657 660 679 705 710 711 729 731 732 750 766 771 782 790 795 797 811 813 816 821 822 824
+8 18 21 24 31 36 42 47 49 56 275 283 309 310 312 314 315 316 330 339 356 368 373 390 394 395 404 410 427 440 449 475 478 496 509 522 525 531 535 548 572 602 612 625 632 635 636 639 652 663 679 693 710 711 729 731 750 771 778 782 784 788 789 790 795 797 811 821 822 824 841
+4 21 24 32 35 42 47 51 55 98 358 367 373 386 410 438 440 441 449 455 476 481 483 495 496 500 502 506 524 529 560 566 568 575 576 581 632 650 652 663 670 679 680 682 690 700 704 707 726 729 743 744 747 748 763 771 773 775 784 785 789 790 795 799 813 822 826 845 852
+8 21 26 32 36 40 46 52 57 157 184 257 309 328 330 340 351 378 393 394 398 409 440 446 449 462 471 496 509 511 515 516 522 535 550 553 592 598 621 624 635 652 653 670 679 692 704 706 709 710 718 729 730 731 732 735 736 739 750 771 773 778 786 789 790 795 797 800 801 810 811 812 821 824 840 851
+8 18 21 26 32 36 40 46 52 57 157 176 184 309 327 328 330 340 351 360 378 394 395 397 398 409 440 446 449 451 462 471 496 509 511 515 522 535 592 601 620 624 632 635 652 653 670 679 704 706 709 710 729 730 731 732 735 736 739 750 771 773 786 789 790 795 797 800 801 811 812 821 824 840 844
+1 21 26 28 37 42 47 50 57 132 183 233 317 330 348 351 358 361 365 368 372 373 374 384 386 388 393 395 396 404 408 422 423 428 430 431 434 439 440 449 462 466 471 476 480 482 496 500 504 505 516 519 520 521 524 535 538 540 543 548 550 557 562 571 572 591 597 598 609 643 651 652 655 659 670 675 676 679 680 687 688 690 692 696 700 708 710 718 721 722 729 739 740 742 743 755 763 766 771 773 778 780 782 787 789 794 795 797 800 801 804 806 811 813 815 821 829 831 839 846 851 852
+10 12 21 25 32 35 42 47 52 55 254 266 275 310 312 314 315 316 328 330 358 360 362 363 379 386 390 393 397 399 408 409 427 440 449 455 457 481 491 496 516 524 535 560 569 572 579 598 614 642 652 658 663 664 670 679 682 688 693 696 704 727 729 739 759 769 771 773 778 782 784 788 789 795 797 811 813 822 823 841 849
+1 21 26 32 35 41 47 52 55 62 151 237 328 330 348 351 365 379 393 401 408 430 439 440 449 462 471 481 496 516 524 526 535 540 548 550 556 557 569 590 598 618 624 652 668 670 679 680 682 687 688 690 691 700 704 710 718 729 734 739 743 750 762 763 765 771 773 777 778 786 787 789 795 797 798 799 800 801 811 813 821 831 835 839 846 851 852
+3 7 21 26 32 35 40 47 52 55 62 90 151 321 350 351 364 365 374 379 393 401 410 425 430 439 440 449 496 516 526 533 535 556 573 618 652 668 670 679 682 687 690 700 704 729 734 763 765 771 777 778 786 787 789 795 797 798 813 831 833 839 846 852
+2 7 21 26 32 35 40 47 52 55 62 90 151 350 351 364 365 379 393 401 410 425 430 439 440 449 462 467 470 471 473 496 516 526 535 556 618 620 652 668 670 679 682 687 690 700 704 729 734 763 765 771 773 778 786 787 789 795 797 798 813 839 840 846 852
+7 21 26 32 35 40 47 52 55 62 90 151 328 350 351 364 365 379 393 401 408 410 425 430 439 440 449 496 516 526 535 556 618 652 668 670 679 682 687 690 700 704 729 734 763 765 771 773 777 778 786 787 789 795 797 798 813 839 846 852
+3 10 21 25 31 34 42 47 50 57 151 179 324 330 334 342 343 348 351 354 359 360 361 365 374 391 393 394 406 408 413 415 418 420 430 440 449 462 469 471 496 516 524 531 533 535 540 541 548 550 556 557 569 598 607 618 624 650 652 670 676 679 684 688 700 702 703 704 729 739 750 752 765 771 773 777 778 786 789 790 795 798 800 801 806 810 811 820 821 828 829 831 835 851
+1 21 27 32 37 42 47 52 57 147 161 814
+3 21 25 29 37 42 45 51 57 140 295 308 322 324 330 332 336 343 348 351 359 361 368 373 374 384 388 393 399 401 406 408 410 431 440 449 453 481 496 505 515 516 519 524 533 535 538 540 548 557 562 573 598 600 607 609 652 663 670 676 679 680 684 688 698 702 710 729 739 766 771 773 777 778 782 786 787 789 795 811 813 828 829 831 834 835 846 850
+5 21 25 32 37 42 45 51 54 213 294 314 330 336 343 351 368 371 372 373 384 388 393 399 401 405 408 410 431 432 434 435 440 449 453 455 481 496 505 516 519 524 535 538 557 562 572 586 598 609 630 652 663 670 676 679 680 684 688 698 710 718 729 739 766 771 773 778 782 786 787 789 795 800 801 802 805 806 811 813 827 834 839 846 850 851
+2 21 25 32 34 42 46 50 57 112 129 330 336 343 351 368 373 384 388 393 399 401 408 410 431 437 440 449 453 462 463 467 470 471 473 481 496 505 516 519 522 524 535 538 550 557 562 563 569 598 609 610 620 652 663 670 676 679 680 684 688 698 704 710 729 735 739 766 771 773 775 778 782 786 787 789 795 811 813 834 840 846 850 851
+1 21 25 28 35 42 47 50 57 121 146 278 313 318 330 340 341 343 348 349 350 351 358 361 365 373 374 386 388 391 393 396 401 408 428 430 438 440 449 462 466 469 471 476 480 482 494 496 509 512 514 516 523 524 526 533 535 538 540 543 548 550 556 562 570 591 597 598 609 618 652 655 659 670 675 676 679 680 687 688 690 692 700 706 707 708 709 710 718 729 733 739 743 758 761 763 771 773 775 777 778 779 786 789 795 796 800 801 804 811 813 821 829 831 835 836 839 846 850 851 852
+6 10 21 24 31 36 40 46 49 56 202 243 312 314 315 316 319 333 334 348 356 361 393 397 399 408 427 440 449 478 486 489 496 510 515 516 524 531 535 540 544 545 547 548 569 572 598 599 600 609 625 633 644 652 670 676 679 684 688 693 700 724 729 739 740 759 771 773 778 782 788 789 795 811 820 822 829 831 834 836
+10 11 21 24 31 36 41 44 50 56 85 314 315 316 317 319 356 368 383 423 427 440 445 449 478 487 493 496 508 510 524 531 535 538 539 549 572 647 652 653 655 658 660 670 674 676 679 704 710 722 729 739 740 759 766 771 773 782 788 789 795 816 817 822
+7 10 21 24 31 34 41 46 51 55 98 310 312 314 319 328 354 356 358 364 379 386 399 424 427 440 449 478 481 496 524 531 535 560 572 575 576 591 624 625 633 652 664 670 679 680 682 688 700 704 706 729 739 759 763 771 773 775 782 788 789 790 795 799 803 813 822
+2 10 21 24 31 35 41 44 51 56 110 202 310 312 314 315 316 319 356 393 397 399 408 427 437 440 449 462 467 470 471 473 478 496 510 516 522 524 531 535 550 569 598 609 610 620 625 633 652 670 676 679 684 688 693 696 700 724 729 739 743 759 771 773 778 782 788 789 795 811 820 822 834 836 840 841
+10 16 21 24 31 36 41 45 49 56 74 310 312 313 314 316 319 328 356 394 427 440 449 460 478 485 496 510 524 525 531 535 538 549 569 592 612 624 652 670 679 696 700 704 710 724 729 737 739 750 759 771 772 773 782 788 789 790 795 797 822 841
+11 21 23 30 35 40 45 50 55 271 309 310 312 313 314 315 316 317 318 319 324 328 330 331 333 334 339 342 346 348 349 350 351 354 356 357 358 359 360 361 362 363 364 365 367 368 371 372 373 374 379 382 383 386 388 390 391 393 394 395 396 397 399 401 404 406 408 412 413 414 415 418 420 421 422 423 425 427 428 429 430 431 432 434 435 436 438 439 440 441 445 446 449 452 453 455 462 463 465 466 467 470 471 473 474 476 478 480 481 482 485 488 489 491 493 494 495 496 500 501 502 504 508 509 511 515 516 519 522 523 524 525 526 528 531 532 533 535 538 539 540 541 543 545 547 548 549 550 553 555 556 557 560 562 565 566 567 571 572 573 575 576 579 581 583 586 589 590 591 594 597 598 601 607 608 609 610 612 613 618 620 621 624 629 630 632 633 636 639 640 642 643 645 647 650 652 653 655 656 657 658 659 660 662 670 673 675 676 677 679 680 682 684 685 686 687 688 690 691 692 693 696 700 701 702 703 704 706 707 708 709 710 711 718 722 723 724 729 731 732 733 734 737 739 740 742 743 744 747 750 755 757 758 759 763 765 766 768 769 771 772 773 774 775 777 778 781 782 784 785 788 789 790 794 795 796 797 799 800 801 802 804 806 810 811 812 813 814 815 816 817 820 821 822 823 824 827 828 829 830 831 834 835 836 839 840 844 846 847 849 851 852
+2 21 25 32 37 42 45 51 55 76 112 312 330 346 351 358 365 386 388 393 396 399 401 408 428 430 437 440 443 449 462 463 465 466 467 470 471 472 473 476 480 482 491 496 511 516 522 524 535 550 552 556 557 563 569 575 591 598 609 620 632 652 663 679 682 684 687 688 690 692 708 710 711 729 736 739 743 763 771 773 778 782 786 789 795 799 804 811 839 840 846 852
+2 14 21 25 32 37 42 45 51 56 76 117 312 346 351 358 365 368 382 396 401 408 430 437 440 443 449 462 463 465 466 467 470 471 472 473 480 482 496 511 522 525 535 551 552 556 563 569 575 613 620 632 652 663 679 682 684 687 692 710 711 729 736 743 750 763 771 773 782 786 789 795 804 839 840 852
+1 21 27 31 37 42 47 52 56 117 155 224 314 318 324 330 336 348 351 358 360 372 373 374 380 388 393 396 399 401 408 428 431 440 449 466 471 476 480 481 482 483 491 492 496 500 505 516 524 528 535 538 540 543 557 560 562 598 609 632 652 663 670 679 680 682 688 692 705 707 710 711 718 726 727 729 739 743 771 772 773 774 777 778 782 789 795 797 800 801 804 808 811 813 816 821 822 831 835 846 852
+1 10 21 26 30 37 42 46 51 57 150 155 279 310 312 314 315 316 318 330 351 356 368 382 383 393 397 399 408 423 427 431 440 447 449 456 478 493 496 505 515 522 531 535 538 539 549 598 602 609 612 613 625 633 652 653 655 659 670 675 676 679 693 704 706 710 722 724 729 739 750 759 766 771 773 776 778 782 786 788 789 795 797 811 820 821 836 841 846 852
+8 12 21 27 32 36 42 47 52 57 150 242 266 305 309 314 330 351 354 362 363 390 393 401 403 408 436 440 449 458 481 485 492 495 496 525 528 535 553 560 567 579 590 598 613 614 630 636 638 642 652 655 667 679 704 706 713 729 731 734 739 743 750 760 763 768 769 771 772 773 778 784 795 797 799 811 812 813 824 849
+5 21 25 31 37 41 45 51 57 195 253 313 314 330 351 358 360 365 371 372 382 385 386 393 395 396 401 405 408 418 420 428 431 432 434 435 436 440 449 466 476 480 482 496 505 516 519 524 535 543 557 572 575 585 586 591 598 618 645 652 670 676 679 684 688 696 708 718 729 739 763 771 773 778 782 786 789 795 800 801 804 805 806 811 813 827 839 851
+3 18 21 27 30 37 42 47 52 57 137 230 278 318 322 324 330 348 351 354 358 360 361 365 373 374 388 393 396 401 404 406 408 421 428 438 440 449 453 476 480 482 493 496 500 516 524 533 535 538 540 543 545 548 557 560 572 573 591 597 598 601 607 608 609 632 652 670 679 688 692 702 708 726 729 739 740 752 758 771 775 777 778 782 786 787 789 795 811 813 821 828 829 831 835 846
+13 21 27 32 35 40 47 52 57 215 221 261 313 330 349 350 351 358 365 368 384 386 388 393 396 401 408 422 428 429 430 440 446 449 453 466 469 476 482 485 496 500 512 514 516 518 524 526 535 543 555 575 576 591 598 608 609 645 652 659 679 685 686 687 688 689 690 691 692 700 701 708 709 726 729 733 739 747 755 763 765 771 772 773 778 789 790 791 795 797 804 810 811 813 821 845
+3 21 25 31 37 42 46 50 57 94 101 295 318 330 341 348 351 354 358 361 365 374 386 393 396 399 401 406 408 428 429 430 431 438 439 440 449 476 480 482 496 515 516 524 533 535 538 539 540 543 548 573 575 576 591 597 598 600 607 608 609 624 626 643 652 655 670 679 688 702 706 708 729 739 752 771 777 778 782 789 795 797 811 821 828 829 831 834 835
+4 10 21 26 32 37 42 47 51 55 80 148 156 305 310 312 330 354 367 373 393 395 396 408 438 440 441 449 451 476 495 496 500 502 516 524 535 553 566 568 572 579 581 589 592 598 637 640 652 659 667 670 676 679 707 728 729 739 743 752 770 771 773 778 781 784 785 786 787 788 789 795 797 811 813 822 847
+4 21 27 32 37 42 45 51 57 80 104 245 305 313 330 367 393 395 408 429 438 439 440 441 449 495 496 500 502 506 524 535 554 566 568 572 581 589 598 627 628 643 652 670 672 679 696 707 729 731 739 743 771 773 778 781 784 785 786 789 795 811 813 821 834 847
+3 9 21 27 31 36 41 47 52 57 94 288 295 309 313 318 319 324 330 334 348 350 351 358 365 374 386 393 396 401 406 408 422 428 429 430 432 438 440 449 476 480 482 496 508 515 516 524 526 533 535 540 543 548 553 557 573 591 598 600 607 608 609 652 670 679 687 688 690 692 696 700 702 708 726 729 731 732 739 740 747 755 763 765 771 777 778 787 789 795 797 811 812 813 828 829 831 835 850
+11 21 25 32 37 42 44 51 55 165 271 317 330 336 343 351 368 373 382 383 384 388 393 395 399 401 408 421 423 431 440 445 449 453 481 493 496 500 504 505 516 519 524 535 538 549 557 562 572 581 583 598 604 609 645 647 652 653 655 656 657 659 660 663 670 676 679 680 684 698 710 722 729 739 766 771 773 778 782 786 787 789 795 806 811 813 816 817 834 846 851 852
+16 21 25 31 37 40 47 49 57 149 271 328 330 336 343 351 368 373 382 384 388 391 393 394 399 401 408 423 431 440 449 453 481 485 496 505 508 516 519 524 535 538 557 562 572 588 598 603 609 624 652 655 659 663 670 676 679 680 684 698 704 706 710 722 729 737 739 750 766 771 772 773 778 782 786 787 789 790 795 797 799 806 810 811 813 834 844 846 851
+3 11 21 26 31 37 42 45 50 57 186 191 218 313 317 318 324 330 334 348 349 351 358 359 365 368 374 375 383 386 393 401 403 406 408 420 422 423 428 430 431 440 445 449 462 466 471 476 480 482 485 491 493 496 500 505 516 521 533 535 540 543 548 549 550 555 557 572 573 591 597 598 607 608 609 612 645 652 653 655 657 659 660 662 670 673 675 676 679 687 688 690 696 702 708 710 722 725 729 739 740 766 771 773 777 778 782 786 789 795 804 806 811 815 816 817 828 829 831 834 835 844 850 851 852
+14 21 27 32 37 42 46 51 56 157 312 317 329 330 368 372 373 382 383 393 394 395 396 398 408 421 423 431 440 441 449 453 485 496 500 505 516 519 524 525 535 538 548 549 581 583 588 592 598 612 613 621 624 626 629 645 652 653 655 659 660 670 679 704 706 710 713 718 722 729 739 740 750 766 771 772 773 778 782 790 795 797 800 801 806 810 811 816 817 821 840 844 851
+12 17 21 26 32 36 39 47 52 57 189 261 317 330 349 350 351 362 363 365 386 393 396 401 408 425 429 430 440 446 449 474 495 496 504 511 516 523 524 535 545 555 556 572 579 586 598 621 624 636 642 652 670 671 676 679 682 685 686 687 688 690 692 700 701 707 709 729 734 739 743 747 755 757 765 768 769 771 773 778 781 782 786 789 795 806 811 812 824 827 851
+9 10 21 27 32 37 40 47 52 56 141 146 229 310 312 314 324 330 358 362 365 386 390 391 393 394 397 399 401 408 423 427 429 430 440 449 455 457 463 476 491 509 514 516 526 528 541 557 560 579 594 598 608 609 614 624 636 638 639 648 652 656 663 670 679 686 687 688 690 693 698 700 701 703 704 706 727 729 731 739 747 755 759 765 769 771 773 778 782 784 788 789 790 795 797 799 802 810 811 812 822 824 841 849
+3 8 21 27 32 36 41 47 52 56 151 197 268 309 311 314 321 324 328 329 330 338 348 354 359 361 374 391 393 396 398 406 408 440 446 449 458 469 496 509 511 514 515 516 525 533 540 548 573 598 608 621 624 630 636 638 639 652 670 679 682 692 702 703 704 709 710 718 729 731 732 739 747 750 751 758 761 771 776 777 778 782 784 786 789 790 795 799 806 811 812 824 828 829 831 835
+8 16 21 27 32 36 41 47 52 56 151 197 268 309 311 314 321 324 329 338 343 348 359 361 374 391 394 398 440 449 458 469 496 509 511 514 515 525 533 540 548 573 608 630 636 638 639 652 670 679 682 703 704 709 710 729 731 747 750 751 761 771 776 777 782 784 786 789 790 795 811 812 824 828 831
+12 17 21 25 32 34 40 47 52 57 159 266 275 310 312 314 315 316 328 330 358 360 362 363 366 379 386 390 393 397 399 408 409 427 440 449 455 457 474 476 481 491 496 516 524 535 555 556 560 569 572 579 594 598 614 642 652 658 663 670 679 682 688 693 696 700 701 704 727 729 739 757 759 769 771 773 775 778 782 784 788 789 795 797 811 813 822 823 824 841 849
+7 12 21 25 32 34 42 47 51 56 129 179 266 312 326 328 330 351 358 360 362 363 364 365 367 379 386 393 399 401 408 430 440 449 455 457 469 476 480 482 490 491 496 514 516 524 526 535 555 560 569 575 579 590 598 614 630 642 652 670 679 680 682 685 687 688 690 708 711 729 733 734 739 747 765 769 771 773 778 784 786 789 795 797 798 799 811 813 823 824 846
+6 16 21 27 32 36 42 47 52 55 149 155 192 312 314 330 334 339 343 348 358 368 386 392 393 394 396 399 401 408 409 423 428 440 449 452 453 455 457 476 482 485 491 492 496 516 524 528 540 543 544 546 547 548 557 560 569 575 576 591 594 598 609 612 624 636 652 658 659 663 670 676 679 680 682 688 704 705 706 710 711 727 729 737 739 740 750 771 773 777 778 782 784 789 790 795 797 799 810 811 813 831 835 849
+7 8 21 27 32 36 42 47 52 55 149 155 192 309 312 314 358 364 368 379 386 401 409 440 449 452 455 457 476 480 482 496 500 509 528 569 575 576 594 612 614 636 639 652 663 664 670 679 682 688 705 706 710 711 727 729 731 750 771 773 782 783 784 789 790 795 797 811 812 813 823 824 849
+1 21 25 31 34 42 47 52 57 129 213 290 312 330 334 336 351 358 364 365 373 379 386 388 391 393 396 401 408 428 430 440 449 453 466 476 480 482 491 492 496 509 512 516 524 526 528 535 538 543 562 569 570 575 591 594 597 598 609 624 631 632 652 670 679 680 684 687 688 690 692 704 705 707 708 711 727 729 733 739 763 765 771 773 775 778 781 782 784 789 790 795 797 798 799 804 810 811 813 821 846 851
+2 13 21 27 32 37 40 46 52 57 110 168 298 308 313 318 319 330 351 365 378 393 396 408 429 430 437 440 446 449 462 467 470 471 473 496 508 511 514 522 535 550 552 553 555 563 572 592 598 608 609 620 621 645 652 674 676 679 685 686 687 688 689 690 692 700 701 709 715 729 733 735 736 739 743 755 761 763 765 771 773 778 789 795 811 840 850
+6 9 21 26 30 35 42 47 52 57 186 243 278 318 319 330 334 343 348 351 365 373 393 396 399 401 408 429 430 439 440 449 469 486 490 496 515 516 526 535 540 541 544 546 547 548 572 598 600 608 609 625 644 652 670 676 679 682 684 687 688 690 700 701 704 729 733 739 740 755 763 765 771 775 778 786 789 795 798 811 813
+6 10 21 27 32 37 42 47 52 57 139 150 293 310 312 314 315 316 328 330 332 333 334 348 351 354 356 358 360 374 386 393 397 398 399 408 424 425 427 440 449 452 476 478 482 485 486 489 493 496 509 515 516 524 535 540 543 544 545 547 548 591 592 598 609 633 651 652 663 670 671 675 679 682 692 707 708 724 729 739 740 747 752 759 771 778 782 788 789 795 797 811 813 831 834
+2 16 21 25 32 36 42 45 52 56 104 112 290 330 339 343 351 381 386 391 393 394 399 408 423 437 440 449 462 463 467 470 471 473 485 496 516 522 524 530 535 538 550 552 557 569 598 608 609 612 620 624 652 656 670 679 680 682 684 688 691 704 710 729 731 735 737 739 743 750 771 772 773 774 778 782 789 790 795 797 799 802 810 811 813 821 840
+9 21 25 31 35 40 47 52 57 229 261 319 328 330 349 350 351 354 360 365 373 386 393 396 401 408 429 430 431 438 439 440 449 463 469 490 496 505 509 511 516 523 524 526 535 538 541 545 555 556 557 560 562 598 608 609 632 636 652 670 671 679 684 686 687 688 690 692 700 701 704 707 726 729 733 734 739 755 763 765 771 773 775 778 786 789 795 797 802 811 813
+8 21 27 32 36 42 47 52 57 151 236 290 307 309 324 330 340 342 343 351 360 365 380 391 393 394 401 408 420 430 440 449 463 494 495 496 499 509 515 516 535 541 553 557 560 567 569 589 598 608 609 624 634 636 638 639 652 656 670 679 687 690 703 704 706 707 726 729 731 732 737 739 750 751 761 763 771 772 773 778 779 783 789 795 797 799 802 810 811 812 813 824 848
+13 16 21 23 30 34 40 46 50 57 228 290 312 319 324 328 330 334 343 348 349 350 351 357 358 360 365 386 391 393 394 399 401 408 413 414 415 418 420 428 429 430 440 449 462 463 466 471 476 480 481 482 485 491 496 516 523 524 526 528 533 535 540 541 543 548 550 555 556 557 560 569 575 591 598 607 608 609 618 624 645 652 670 679 680 684 685 686 687 688 689 690 700 701 704 706 708 711 718 729 733 737 739 750 755 763 765 771 773 775 777 778 786 789 790 795 798 800 801 802 804 806 810 811 821 831 835
+5 21 27 32 37 42 47 52 56 160 253 314 330 351 358 368 371 372 373 386 388 393 396 399 401 404 405 408 410 421 428 431 432 434 435 436 438 440 449 453 457 476 482 500 505 516 524 557 560 572 586 591 598 609 612 616 631 632 652 663 670 676 679 682 688 692 708 718 726 729 739 745 771 777 778 780 782 787 789 795 797 800 801 804 805 806 811 813 821 827 839 851
+5 21 26 32 36 42 46 52 55 160 253 314 330 351 358 360 368 371 372 373 386 388 393 396 399 401 404 405 408 421 428 431 432 434 435 436 438 440 449 452 457 476 480 482 496 500 505 516 524 535 557 560 572 586 591 598 609 612 616 631 632 652 663 670 676 679 682 688 692 696 708 718 726 729 739 745 771 777 778 780 782 787 789 795 797 800 801 804 805 806 811 813 821 827 839 851
+5 11 21 26 32 36 42 46 51 55 265 314 317 330 351 358 368 371 372 373 388 401 405 421 431 432 434 435 436 438 440 445 449 452 457 476 480 482 493 496 500 505 516 524 535 557 560 572 583 586 591 612 616 631 632 652 655 657 660 663 670 675 676 679 682 696 708 718 722 726 729 739 745 766 771 777 778 780 782 787 789 794 795 797 800 801 804 805 806 811 813 821 827 839
+16 21 27 32 36 42 47 52 57 151 179 213 328 329 330 343 351 373 386 388 391 394 401 408 440 449 463 485 496 516 524 530 535 538 541 550 557 569 598 609 612 624 632 634 652 656 659 670 679 680 684 688 698 704 710 729 737 739 750 771 772 773 774 778 786 789 790 795 797 799 802 810 811 813 821 850
+3 4 21 26 32 37 42 46 50 57 191 214 268 305 318 329 330 348 351 358 361 367 374 386 404 406 408 422 428 431 438 440 441 449 452 466 469 476 480 482 492 495 496 500 502 505 516 528 533 535 538 540 543 545 548 560 566 581 589 591 597 598 600 607 608 609 652 670 672 679 688 702 707 708 729 739 743 771 773 777 778 781 782 784 785 789 793 795 797 804 807 811 813 821 828 829 831 834 835 852
+4 16 21 26 31 35 42 46 52 57 80 192 302 305 312 315 316 318 328 329 330 339 351 354 358 360 367 374 382 394 396 397 401 408 440 441 446 447 449 452 455 476 480 485 491 495 496 500 502 506 514 516 522 525 531 535 548 549 560 565 566 568 575 576 581 589 591 598 609 612 614 624 643 647 652 659 663 670 672 679 680 682 687 688 690 692 704 706 707 709 710 729 737 739 743 744 750 771 772 773 778 782 784 785 786 788 789 790 795 797 799 810 811 812 813 820 821 823 834 836 840 847 849
+3 10 21 27 32 37 40 46 52 57 101 155 214 310 312 314 315 316 330 348 351 356 359 374 397 408 427 431 440 449 476 478 496 505 509 524 531 533 535 540 548 560 573 598 600 609 624 633 652 663 670 679 693 702 707 718 724 729 739 740 741 751 759 761 771 776 777 778 779 782 788 789 795 797 811 820 821 822 828 829 831 834 835 841
+9 21 26 32 35 40 47 52 57 226 229 312 314 318 330 351 358 365 386 388 392 393 396 399 401 408 425 428 429 430 440 449 455 469 476 480 482 491 492 496 509 511 516 526 528 535 557 560 567 575 594 598 608 609 614 630 636 638 652 671 679 687 688 690 692 696 698 700 701 705 708 711 727 729 733 739 747 755 758 763 765 771 773 774 778 782 784 789 795 797 799 811 846 849
+6 17 21 26 32 35 40 47 52 57 241 243 312 314 318 324 330 333 334 348 351 358 365 386 388 392 393 396 401 425 430 440 449 455 469 474 476 480 482 489 491 492 496 511 516 528 535 540 543 544 545 546 547 548 555 556 557 560 567 575 593 594 599 600 614 630 636 644 652 671 679 687 690 692 696 705 708 711 727 729 739 740 747 755 757 758 771 773 774 778 782 784 789 795 797 799 811 846 849
+11 18 21 25 32 37 42 44 50 57 271 276 285 317 330 331 351 368 372 373 382 383 395 396 404 408 421 423 431 438 440 441 445 449 466 476 480 493 496 500 504 505 508 516 519 520 521 524 535 538 539 543 548 549 560 571 572 581 583 591 597 598 601 602 609 610 613 621 647 652 653 655 657 659 660 670 675 676 679 696 710 718 722 729 739 766 771 773 778 782 790 794 795 797 801 804 806 810 811 816 817 823 840 842 844 852
+10 12 21 26 32 37 42 45 52 57 151 290 310 312 314 315 316 321 330 348 361 362 363 374 397 408 427 440 441 449 485 495 496 510 515 524 531 533 535 540 548 553 567 573 579 598 600 608 609 642 652 653 659 663 665 670 679 693 702 704 710 729 739 741 743 760 768 769 770 771 773 776 777 778 781 782 788 789 795 797 811 820 822 828 829 831 834 836
+4 7 21 26 32 34 42 47 52 57 106 196 275 305 312 330 351 358 364 365 367 373 379 386 401 408 422 428 440 441 449 453 455 457 476 480 482 484 491 495 496 500 502 506 509 516 524 535 557 566 568 575 576 580 581 589 591 598 608 609 636 637 642 652 670 679 680 682 687 688 690 696 707 708 729 731 739 743 753 765 770 771 773 775 778 782 784 785 786 789 795 804 811 823 824 846 847 852
+1 21 22 28 33 40 46 52 55 287 312 313 318 330 348 349 350 351 358 364 365 374 386 388 401 408 422 428 430 438 440 449 455 462 466 469 471 476 480 481 482 491 492 496 509 512 516 523 524 526 528 535 538 540 543 548 550 560 575 576 591 594 597 598 608 609 618 632 636 642 652 662 670 679 680 682 684 687 688 690 704 705 707 708 710 711 718 725 727 729 733 739 743 763 771 772 773 778 789 790 795 797 799 800 801 804 806 811 813 821 831 839 846 849 850 852
+7 21 26 29 35 42 47 52 57 129 237 278 326 330 341 350 351 358 359 364 365 374 379 386 399 401 408 422 428 430 440 449 452 466 476 480 481 482 484 496 516 517 523 524 535 543 556 560 575 576 591 597 598 608 609 624 636 652 670 679 680 682 687 688 690 691 698 704 708 729 733 739 763 765 771 773 775 777 778 782 786 789 790 795 797 799 804 811 823 835 836 846 852
+14 16 21 27 32 37 42 47 52 57 155 201 251 312 317 329 330 351 358 364 368 382 386 394 395 399 401 403 408 422 423 428 438 440 441 449 452 457 466 475 476 482 485 491 492 495 496 504 511 516 524 525 528 535 543 548 549 550 560 569 572 575 576 588 591 593 594 597 598 603 608 609 612 613 621 624 629 636 645 652 653 655 659 662 670 674 676 679 680 688 690 691 705 708 710 711 713 718 722 729 737 739 750 771 772 773 778 789 790 795 797 804 806 810 811 816 831 840 844 849 852
+7 11 21 27 32 37 42 47 52 57 208 276 311 312 330 331 335 351 358 364 368 379 383 386 399 408 422 423 428 440 441 449 457 466 476 480 482 484 496 500 504 516 524 527 535 543 549 572 575 576 591 597 598 609 613 621 636 643 648 652 653 655 657 659 660 670 674 675 676 679 680 682 687 688 690 691 708 710 722 729 739 766 771 773 778 782 789 790 795 797 804 811 813 816 817 823 846 852
+12 21 27 32 37 42 47 51 56 144 201 266 310 312 315 316 330 351 358 362 363 372 374 382 386 395 397 408 428 438 440 449 476 482 495 524 543 553 572 579 591 597 598 603 609 631 632 642 652 659 663 670 679 693 708 710 718 729 739 743 768 769 771 773 778 782 786 788 789 790 795 797 800 801 804 806 811 813 816 822 831 852
+12 21 27 32 37 42 47 51 56 186 201 279 310 312 315 316 330 351 358 362 363 372 373 382 386 388 395 397 404 408 421 428 438 440 449 453 475 476 482 495 506 524 543 553 572 591 597 598 603 609 631 632 642 652 659 663 670 679 693 708 710 718 729 739 743 768 769 771 773 778 781 782 786 788 789 795 797 800 801 804 806 811 813 816 822 831 842 852
+8 21 26 30 37 42 47 52 57 121 163 258 309 318 330 340 349 350 351 358 365 367 386 396 408 423 428 430 438 440 446 449 466 476 494 495 496 509 516 524 535 540 543 553 560 597 598 608 609 621 635 636 643 652 670 679 688 692 707 709 710 718 729 730 731 732 739 743 751 761 771 773 778 779 784 789 795 797 804 806 811 812 824 831 850 852
+2 9 21 26 32 35 42 45 52 57 62 168 246 313 318 330 350 351 365 373 393 396 401 408 429 430 431 437 440 443 446 449 462 467 470 471 472 473 474 481 496 505 516 522 523 524 526 535 550 556 563 598 608 609 620 652 670 679 684 686 687 688 690 692 700 704 709 729 733 739 743 755 763 765 771 773 778 786 789 795 811 813 840 850 852
+2 21 26 32 36 39 46 52 57 102 238 300 313 318 319 330 350 351 365 378 393 408 429 430 437 440 443 446 449 462 467 469 470 471 472 473 496 511 516 522 523 524 535 550 552 555 557 563 598 609 620 652 671 679 687 688 690 692 700 709 715 729 731 735 736 739 743 755 763 765 771 773 775 778 789 795 811 834 840 843 850 852
+11 21 26 32 37 42 46 50 57 121 191 278 317 318 330 340 350 351 354 358 365 368 372 374 382 383 386 388 395 401 408 422 423 428 429 438 440 441 449 466 474 476 480 482 496 500 505 516 519 524 535 538 543 548 549 557 572 575 576 579 591 597 598 608 609 612 613 624 645 652 653 655 657 659 660 670 675 676 679 691 707 708 710 718 722 729 737 739 740 752 763 766 771 773 778 782 789 790 793 795 797 804 806 810 811 813 816 817 821 852
+4 16 21 26 32 35 42 45 52 57 229 295 305 328 330 349 351 358 365 367 386 394 398 401 408 422 428 438 440 441 449 476 480 482 485 491 495 496 500 502 506 516 524 535 554 560 566 568 569 575 579 581 591 598 609 612 624 630 636 638 649 652 670 679 680 691 698 700 704 707 708 710 729 739 743 747 748 750 763 771 772 773 775 778 782 784 785 789 790 795 797 804 811 812 813 824 847 852
+10 15 21 26 32 37 41 47 50 57 82 183 310 312 314 315 329 330 351 356 357 365 385 395 397 404 408 412 413 414 415 418 423 427 430 431 440 449 455 462 467 471 478 490 496 505 515 519 522 524 528 531 535 538 540 550 557 598 600 602 609 618 625 626 632 633 647 652 659 670 679 684 688 693 696 721 724 729 739 740 743 759 771 773 778 782 788 789 795 797 811 813 820 821 834 840 844
+1 21 26 32 35 42 47 52 56 146 282 312 314 330 331 341 348 351 358 379 386 392 393 396 399 401 403 408 409 410 428 439 440 449 455 457 461 462 466 469 471 476 480 482 491 492 495 496 500 509 516 524 528 535 540 543 548 550 557 560 562 569 575 576 591 594 598 609 614 624 636 649 652 663 664 670 679 680 682 684 687 688 690 692 705 707 708 710 711 718 727 729 739 743 771 773 777 778 782 783 784 789 790 795 797 799 800 801 804 806 811 831 846 849 852
+8 21 26 32 35 42 45 52 57 148 236 309 324 328 330 340 342 343 351 358 360 365 380 391 394 401 408 420 430 440 449 457 461 463 471 491 494 495 496 499 509 515 516 524 535 541 553 556 557 560 570 598 609 614 624 634 636 639 642 652 656 670 679 680 682 688 704 706 707 729 731 732 737 739 751 761 771 772 773 778 779 782 783 784 789 790 795 797 799 802 811 813 824 848 849 852
+3 9 21 26 30 37 42 47 52 57 64 140 186 318 324 330 340 348 351 354 365 374 406 408 415 429 430 440 449 493 496 516 524 526 533 535 540 548 573 598 607 608 609 618 652 670 679 687 688 690 700 701 702 704 729 739 747 755 763 765 771 773 777 778 782 789 795 798 807 811 821 828 829 831 834 835 852
+3 16 21 26 32 35 41 46 52 57 58 141 238 312 319 321 330 334 348 351 358 361 374 379 386 391 394 401 406 408 409 415 439 440 449 455 476 491 496 514 528 533 535 540 548 555 560 569 573 594 598 607 608 609 612 614 624 652 670 673 679 680 687 688 690 702 704 727 729 731 732 737 739 750 771 775 777 778 782 783 784 789 790 795 797 811 828 829 831 835 849
+3 21 25 31 37 42 45 49 57 85 93 170 322 324 330 334 342 348 351 357 359 360 365 374 380 382 404 406 408 413 415 418 420 421 440 449 469 496 515 524 533 535 539 540 548 549 556 557 571 572 598 599 600 607 608 609 652 659 670 674 679 696 702 703 723 729 739 752 771 777 778 782 786 789 795 807 811 820 828 829 831 834 835 848
+14 21 26 32 35 42 47 52 57 92 117 150 317 330 351 368 372 382 393 394 395 408 423 438 440 449 476 485 496 509 516 524 525 535 548 549 553 560 583 597 598 609 612 613 621 624 629 642 652 653 655 659 670 679 691 704 706 710 711 713 718 722 729 739 750 771 772 773 778 784 790 795 797 799 800 801 806 810 811 813 816 817 840
+4 10 21 26 31 37 42 47 51 57 80 131 245 312 315 316 330 350 351 360 365 367 393 397 408 415 418 420 430 440 441 449 478 491 495 496 500 502 506 510 516 524 531 535 565 566 568 569 581 598 609 618 652 670 672 679 684 688 693 696 707 726 729 739 743 744 750 759 762 763 771 773 778 781 784 785 788 789 795 811 813 820 822 836 837 847 852
+11 21 26 32 37 42 46 51 57 157 317 329 330 342 368 372 373 383 393 395 396 397 403 404 408 421 423 431 438 440 441 442 447 449 453 493 500 504 505 519 520 521 524 538 539 548 549 560 562 572 598 626 652 653 655 659 660 670 674 675 676 679 692 696 710 718 722 729 737 739 766 771 773 778 782 789 790 795 806 810 811 816 817 821 842 848 850 852
+6 21 26 32 37 42 47 52 57 142 149 178 329 330 334 343 348 349 351 365 374 391 394 396 408 430 440 446 449 453 485 486 489 496 511 516 524 525 535 540 541 544 545 547 548 556 569 572 598 624 644 652 670 679 692 696 704 709 710 729 739 740 747 750 758 771 774 778 789 790 795 810 811 813 831 834
+2 21 27 32 37 42 47 52 57 102 112 314 330 336 351 373 382 388 393 394 401 403 408 437 438 440 441 447 449 462 467 469 470 471 473 485 516 520 522 524 525 530 539 549 550 552 557 592 598 610 612 620 621 624 647 652 659 663 676 679 684 691 696 729 737 739 750 771 773 778 782 786 787 789 795 811 834 840 852
+3 21 27 32 37 42 47 52 56 140 268 314 321 322 330 336 348 354 359 373 406 408 421 440 442 449 469 521 533 540 548 573 598 652 659 670 679 696 702 703 729 739 740 741 752 771 776 777 778 780 782 786 789 791 795 811 828 829 831 835 842
+10 15 21 23 31 34 42 45 52 55 151 179 312 315 316 324 330 343 351 357 358 360 365 391 396 397 408 412 413 414 415 418 420 427 430 437 440 449 462 463 467 471 478 481 491 496 516 522 524 528 531 533 535 538 550 555 556 557 569 598 609 618 652 656 670 679 684 687 688 690 692 693 704 711 729 739 759 765 771 773 778 782 788 789 795 802 811 820 852
+2 21 25 32 37 42 47 50 55 102 112 314 330 336 351 368 373 382 388 393 394 401 403 408 423 437 438 440 441 447 449 453 462 467 469 470 471 473 485 496 516 520 522 524 525 530 535 539 549 550 552 557 592 598 610 612 613 620 621 624 647 652 659 660 663 676 679 684 691 696 710 729 737 739 743 750 766 771 773 778 782 786 787 789 795 811 834 840 852
+6 18 21 25 32 37 42 47 50 55 243 244 314 324 330 332 333 334 336 348 351 368 373 374 382 388 394 395 401 403 404 421 423 438 440 447 449 453 469 485 489 496 516 519 524 525 530 535 539 540 544 547 548 549 557 600 601 602 612 621 624 632 644 647 652 659 660 670 676 679 684 691 696 729 739 740 743 750 766 771 778 782 786 787 789 795 811 834 844 852
+11 17 21 23 30 35 40 45 50 55 233 312 317 318 319 331 351 368 372 373 383 395 396 408 422 423 428 438 440 441 445 449 466 474 476 493 496 500 504 516 520 524 535 543 548 549 555 556 562 571 572 583 591 596 597 598 609 632 652 655 659 660 670 675 676 679 696 700 710 718 722 729 739 755 757 766 771 773 778 782 800 801 804 806 811 816 817 821 822 831 842 852
+4 9 21 25 31 35 40 47 51 57 190 238 305 318 330 343 349 350 351 365 367 391 393 408 429 430 440 441 449 488 495 496 500 501 502 506 516 517 523 526 535 538 555 556 557 564 566 568 572 581 589 608 609 618 652 672 676 679 684 685 686 687 688 690 696 700 701 704 707 715 729 733 739 743 751 755 761 763 765 771 773 775 778 779 784 785 786 789 795 798 807 811 813 837 843 845 846 847 852
+2 7 21 25 32 35 42 45 52 55 76 153 310 312 314 330 331 346 351 358 364 365 368 379 386 388 401 410 422 430 437 438 439 440 449 452 453 457 462 465 466 467 470 471 472 473 476 480 481 482 492 496 500 509 516 522 524 528 535 550 557 560 569 575 576 580 597 609 612 620 636 652 669 679 680 682 684 687 688 690 691 692 704 705 711 725 729 733 739 743 755 765 771 773 778 782 783 784 789 790 795 797 804 810 811 821 822 823 840 846 852
+3 17 21 25 32 36 41 45 50 57 85 280 312 314 315 316 321 322 330 334 348 351 358 359 361 365 373 374 388 397 401 404 406 424 427 430 431 440 449 455 456 474 476 490 491 496 500 505 515 516 524 528 532 533 535 540 545 548 555 560 573 594 600 609 625 633 643 649 652 662 670 679 684 687 688 690 693 702 704 711 729 739 740 755 757 759 771 776 777 778 782 784 786 789 795 799 811 821 823 828 829 830 831 833 834 835 846 850
+1 10 21 26 31 35 42 47 52 55 151 217 310 312 314 315 316 330 356 379 397 427 431 439 440 449 461 478 496 505 522 524 531 535 609 633 652 663 670 679 680 693 724 729 739 759 769 771 773 778 782 786 788 789 795 797 811 820 821 822 836 841 846
+1 18 21 27 29 37 42 46 52 57 85 93 117 317 318 330 348 350 351 354 358 361 368 372 373 374 384 386 388 393 394 395 396 399 401 403 404 408 421 422 423 428 431 438 439 440 441 445 449 453 462 466 471 476 480 482 496 500 504 511 516 519 524 535 538 540 543 545 548 550 560 562 572 581 583 591 597 598 601 609 612 621 632 643 652 655 659 660 670 675 676 679 680 691 692 696 700 706 708 709 710 718 721 722 729 739 743 751 755 758 761 766 771 773 778 779 780 782 789 790 794 795 797 800 801 804 806 811 813 815 821 829 831 839 846 851 852
+12 21 27 32 36 42 47 52 57 266 275 305 312 330 358 362 363 431 439 440 449 455 458 481 491 495 496 505 519 524 528 535 538 553 560 567 579 609 614 626 642 643 652 670 679 688 706 721 727 729 739 760 768 769 771 773 778 784 786 789 790 795 799 811 813 821 849
+5 21 25 32 35 42 46 52 57 129 151 220 314 330 343 351 371 372 382 391 405 432 434 435 440 449 453 463 491 496 516 524 535 541 557 569 572 586 609 632 652 656 670 679 684 704 718 729 737 739 745 771 773 775 778 782 786 789 795 797 799 800 801 802 805 806 811 813 827 839
+10 12 21 26 32 37 40 47 50 57 202 290 310 312 314 315 316 327 328 330 339 362 363 382 390 397 398 427 439 440 449 458 476 491 492 496 510 524 525 528 531 535 553 579 609 630 638 640 642 645 652 662 670 679 682 693 704 706 727 729 731 739 747 750 768 769 771 773 778 781 782 788 789 790 795 797 811 812 821 822 824 849
+5 21 27 32 37 42 47 51 56 193 224 294 312 314 330 336 343 371 372 373 388 396 401 405 431 432 434 435 436 438 440 449 453 469 475 476 483 496 500 505 509 516 524 535 557 562 572 586 608 609 616 632 652 663 670 679 692 707 718 729 739 745 771 773 774 778 780 782 787 789 795 797 800 801 802 804 805 806 811 813 821 822 827 839
+3 21 26 31 35 42 46 52 55 268 297 314 321 324 330 343 348 351 358 359 364 374 391 401 406 409 431 440 449 476 480 482 496 505 516 524 533 535 540 541 543 545 548 557 573 575 576 597 609 624 652 663 670 679 684 688 690 702 704 729 737 739 741 771 777 778 782 786 787 789 790 795 797 810 811 828 829 831 833 835
+3 9 21 26 30 37 42 46 52 57 225 258 259 318 319 330 348 349 351 359 365 374 401 406 429 430 440 449 496 514 516 524 533 535 540 548 553 573 592 607 608 609 621 652 670 674 679 685 687 688 690 700 701 702 723 729 731 732 739 740 747 755 763 765 768 771 777 778 789 795 811 828 829 831 834 835
+1 21 26 32 35 42 47 52 55 193 240 275 310 312 314 329 330 339 354 358 374 386 388 401 409 423 440 449 452 466 476 482 485 491 492 496 500 509 516 524 528 535 543 557 560 562 575 576 597 608 609 612 624 652 664 670 679 680 688 691 698 705 706 707 710 711 718 726 729 733 739 743 750 771 773 778 782 783 787 789 790 795 797 800 801 804 806 807 811 813 821 822 831 846
+10 14 21 26 28 37 42 46 52 57 59 111 289 310 312 315 316 317 318 329 330 342 351 360 368 372 397 398 423 440 446 449 476 478 481 496 510 511 515 524 525 535 548 549 560 609 613 621 624 629 652 653 655 659 670 675 679 692 709 710 718 722 729 739 750 751 761 766 767 771 772 773 778 779 782 788 795 797 800 801 806 811 816 817 834 840
+14 21 26 32 37 42 45 50 55 157 312 317 329 330 368 372 373 382 383 394 395 421 423 431 440 441 449 453 485 496 500 505 516 519 524 525 535 538 548 549 581 583 588 610 612 613 621 624 626 629 645 652 653 655 659 660 670 679 704 710 718 722 729 739 740 750 766 771 772 773 778 782 790 795 797 800 801 806 810 811 816 817 821 840 844
+10 16 21 25 30 34 42 45 52 57 150 179 262 310 312 315 316 328 329 330 356 368 374 381 382 394 397 423 427 440 449 478 485 496 510 515 522 524 525 531 535 548 550 588 609 612 613 614 624 625 633 652 655 659 662 670 679 680 693 704 710 724 729 737 739 750 759 771 772 773 775 778 782 788 789 790 795 797 806 810 811 820 821 822 841
+8 16 21 26 30 36 42 47 52 57 59 155 257 309 328 330 340 343 351 391 394 397 401 440 446 449 457 462 467 471 481 485 491 492 496 509 515 516 524 525 528 535 550 557 560 592 609 612 614 624 632 635 636 639 652 670 679 684 688 704 705 706 710 711 727 729 731 736 737 739 771 772 773 774 778 782 789 790 795 797 799 810 811 812 813 824
+11 17 21 25 32 36 40 47 50 57 133 134 157 317 319 349 350 351 365 368 372 382 383 423 430 440 445 446 447 449 474 493 496 500 504 508 511 523 524 525 535 539 545 549 555 556 572 595 613 624 645 647 652 653 655 657 659 660 670 675 676 679 685 686 687 688 690 692 696 700 710 722 729 739 743 755 757 758 763 766 771 773 778 786 789 795 811 816 817 834 844 852
+14 16 21 26 32 36 40 46 50 57 148 202 317 330 351 368 382 393 394 398 403 423 440 449 485 496 524 525 535 539 548 549 553 592 612 613 621 624 629 652 653 655 659 660 662 670 679 680 690 704 710 713 718 722 729 736 737 739 750 766 771 772 773 778 790 795 797 810 811 816 817 821 831 840 844
+9 15 21 27 32 36 42 47 52 57 223 229 312 330 343 351 365 391 401 412 413 414 418 419 420 429 430 440 449 455 462 463 471 491 516 524 528 550 556 557 594 608 609 618 645 652 670 679 684 687 688 690 698 700 701 703 704 711 727 729 739 755 765 771 773 778 782 784 786 789 795 802 811 820
+7 17 21 25 32 35 42 45 52 56 149 154 254 312 314 330 331 351 352 358 364 365 368 379 384 386 391 394 399 401 418 422 430 440 448 449 457 461 474 476 480 481 482 484 491 496 516 521 524 528 535 543 555 557 571 575 576 586 591 594 595 596 597 609 612 624 636 652 655 663 664 670 679 680 682 684 687 688 690 691 704 706 710 711 729 739 757 765 771 773 778 782 784 789 795 796 804 811 813 823 831 846 852
+9 21 25 30 35 40 47 52 57 225 228 318 330 343 350 351 365 391 401 408 429 430 440 449 463 496 516 523 524 526 535 538 541 556 557 607 608 609 652 679 684 687 688 690 698 700 701 725 729 739 755 763 765 771 773 775 778 786 789 795 802 811 831 834 850
+7 8 21 26 32 35 42 46 52 56 64 103 198 309 312 328 329 330 340 354 358 364 365 374 379 390 394 401 422 430 438 440 449 475 476 480 482 485 491 496 509 516 524 535 543 548 560 575 576 591 608 609 612 624 636 638 652 670 679 680 682 687 688 690 691 704 706 710 711 729 731 732 739 750 765 771 772 773 774 778 784 789 790 795 797 799 804 810 811 823 824 846 849
+3 21 26 32 37 42 47 51 56 259 268 297 310 314 315 316 322 324 330 348 354 359 373 374 382 395 397 406 438 440 449 469 496 510 524 533 535 540 548 624 643 652 653 659 670 679 696 702 729 739 741 771 777 778 782 788 789 795 797 811 820 822 828 829 831 835
+4 6 21 26 31 36 42 46 51 57 244 248 330 333 334 348 349 350 351 358 365 367 374 429 430 440 441 449 476 480 482 489 495 496 500 516 524 535 540 543 544 545 547 548 554 557 564 566 569 572 575 581 591 600 609 618 644 652 670 672 679 687 688 690 691 696 704 707 710 729 739 740 743 763 771 778 784 785 789 795 811 813 831 834 845 847
+6 16 21 25 32 35 42 47 51 54 192 202 312 314 328 330 334 339 348 358 368 374 394 401 423 440 449 453 455 476 480 482 485 491 492 496 516 524 528 535 540 543 544 545 547 548 557 560 569 575 576 591 594 597 609 612 614 624 636 652 658 659 663 670 676 679 680 688 704 705 706 710 711 727 729 737 739 740 750 771 773 777 778 782 784 789 790 795 797 799 810 811 813 831 835 849
+5 17 21 25 32 37 40 44 51 57 61 169 261 317 350 351 371 372 382 405 432 434 435 436 440 446 449 474 496 504 511 523 524 535 555 556 572 574 585 586 595 599 652 659 670 675 676 679 692 700 706 709 718 729 739 745 757 758 771 773 776 778 782 786 789 795 800 801 805 806 811 815 827 839 851
+10 12 21 25 31 37 41 45 52 56 117 249 279 312 315 316 319 330 362 363 391 397 399 408 423 427 440 449 457 495 496 510 516 535 539 567 579 609 614 642 652 655 659 663 679 682 693 704 706 710 727 729 739 743 759 768 769 771 773 776 778 782 784 786 788 789 795 797 811 821 822 836 841
+4 21 25 32 35 39 47 52 56 80 156 312 330 336 343 351 367 368 373 384 388 401 408 431 440 441 449 453 481 491 495 496 500 505 516 519 524 535 538 557 560 562 565 566 568 581 608 609 652 663 670 672 679 680 684 688 698 707 710 729 739 743 744 766 771 773 778 782 784 785 786 787 789 795 811 813 834 846 847 849
+6 21 25 32 37 40 44 51 57 142 243 324 330 333 334 336 343 348 351 368 373 374 384 388 401 408 431 440 449 453 481 486 489 496 504 505 515 516 519 524 535 538 540 541 544 547 548 557 562 599 608 609 652 663 670 679 680 684 688 698 710 729 739 740 766 771 773 778 782 786 787 789 795 811 831 834 846
+6 9 21 25 30 34 42 47 52 57 186 243 278 318 319 330 334 343 348 349 350 351 365 373 393 401 408 409 429 430 439 440 449 469 486 490 491 496 515 516 523 526 535 540 541 544 546 547 548 556 560 572 600 608 609 625 644 652 670 676 679 682 684 685 687 688 690 700 701 704 729 733 739 740 755 763 765 771 775 778 786 789 795 798 811 813
+7 11 21 25 32 34 42 47 50 57 154 235 254 312 314 316 317 320 330 331 351 358 364 365 368 372 373 379 382 383 395 404 421 422 423 430 431 438 440 441 445 449 455 457 466 476 480 482 491 493 496 500 505 516 521 524 525 535 538 539 543 548 549 560 565 569 571 572 575 576 581 583 591 601 609 613 614 621 636 652 653 655 657 658 659 660 664 670 675 676 679 680 682 687 688 690 695 696 710 711 718 722 727 729 739 744 765 766 771 773 778 782 784 789 790 794 795 797 799 801 804 806 810 811 816 817 823 837 840 844 846 849 852
+13 17 21 25 32 37 39 47 48 57 169 225 261 317 319 330 349 350 351 365 395 405 408 429 430 440 446 449 466 474 496 504 514 516 518 523 524 526 535 543 555 556 574 585 586 609 621 645 652 679 685 686 687 688 689 690 692 700 701 718 729 733 739 745 755 757 763 765 771 773 778 786 789 790 795 800 801 804 806 810 811 815 827 837 851
+14 21 25 32 35 39 47 49 57 117 202 317 329 330 342 348 351 358 365 368 372 382 393 394 398 403 423 430 440 449 466 476 480 482 493 496 504 515 516 524 525 535 540 543 548 549 553 567 569 588 591 592 597 609 613 621 624 629 652 655 659 670 679 687 688 690 710 712 713 722 723 729 739 750 771 772 773 778 782 790 795 797 804 810 811 816 817 840 844
+6 14 21 26 32 37 42 47 52 55 92 243 317 329 330 333 334 343 348 349 351 373 374 382 391 398 421 423 440 449 453 476 489 496 515 516 524 525 535 540 541 543 544 545 547 548 549 569 572 609 613 621 624 644 652 655 659 670 676 679 692 696 704 710 718 729 739 740 747 750 771 772 778 789 790 795 800 801 806 810 811 816 831 834 840
+5 14 21 27 32 37 42 46 52 56 157 317 329 371 372 382 394 397 405 423 432 434 435 436 440 449 485 524 525 538 572 609 612 613 621 652 659 670 676 679 710 718 729 739 750 766 771 772 773 778 782 795 797 800 801 805 806 811 816 821 827 840
+5 10 21 25 32 37 40 45 50 56 157 316 317 329 371 372 382 394 397 405 423 432 434 435 436 440 449 485 524 525 538 572 609 612 613 621 652 659 670 676 679 710 718 729 739 750 766 771 772 773 778 782 795 797 800 801 805 806 811 816 821 827 840
+5 6 21 25 32 37 40 45 50 56 157 317 329 348 371 372 382 394 397 405 423 432 434 435 436 440 449 485 524 525 538 572 609 612 613 621 652 659 670 676 679 710 718 729 739 750 766 771 772 773 778 782 795 797 800 801 805 806 811 816 821 827 840
+2 5 21 25 32 37 40 45 50 56 157 317 329 371 372 382 394 397 405 423 432 434 435 436 440 449 485 524 525 538 572 609 612 613 620 621 652 659 670 676 679 710 718 729 739 750 766 771 772 773 778 782 795 797 800 801 805 806 811 816 821 827 840
+4 5 21 25 32 37 40 45 50 56 157 317 329 371 372 382 394 397 405 423 432 434 435 436 440 449 485 524 525 538 566 572 609 612 613 621 652 659 670 676 679 710 718 729 739 750 766 771 772 773 778 782 795 797 800 801 805 806 811 816 821 827 840
+3 5 21 25 32 37 40 45 50 56 157 317 329 371 372 382 394 397 405 423 432 434 435 436 440 449 485 524 525 533 538 572 609 612 613 621 652 659 670 676 679 710 718 729 739 750 766 771 772 773 778 782 795 797 800 801 805 806 811 816 821 827 840
+11 21 24 32 37 39 47 49 56 157 310 317 318 368 372 382 383 395 421 422 423 438 440 441 445 447 449 466 469 476 485 493 495 496 500 516 519 524 535 543 549 557 560 572 583 592 597 609 611 612 632 652 653 655 658 659 660 670 675 676 679 691 696 700 710 718 722 729 739 743 755 766 771 773 778 782 795 800 801 804 806 811 815 816 817 822 831 844 850 852
+11 21 24 32 35 40 45 50 57 157 310 317 348 368 372 373 382 383 384 395 421 422 423 438 440 441 445 447 449 466 475 476 493 496 500 516 520 524 535 540 543 549 557 560 572 583 597 609 611 612 632 652 653 655 658 659 660 670 675 676 679 691 696 700 710 718 722 729 739 755 766 771 773 778 782 795 800 801 804 806 811 815 816 817 822 831 844 852
+11 21 24 32 34 42 44 52 55 157 310 317 328 368 372 383 395 399 421 422 423 438 440 441 445 446 447 449 462 466 471 476 493 496 500 516 524 535 543 549 550 557 560 562 572 583 597 609 611 612 624 632 652 653 655 658 659 660 670 675 676 679 691 696 700 709 710 718 722 729 739 755 766 771 773 778 782 790 795 800 801 804 806 810 811 815 816 817 821 822 831 844 852
+11 21 24 30 37 40 47 50 56 157 317 330 332 351 368 372 382 383 395 423 440 441 445 449 491 493 496 500 504 508 524 535 540 548 572 577 578 583 600 602 603 609 645 647 652 653 655 657 658 659 660 670 675 676 679 696 704 710 722 727 729 739 743 766 771 773 778 782 795 800 801 806 811 816 817 852
+3 21 26 32 37 42 47 52 57 140 308 319 322 348 354 359 361 373 388 395 406 440 449 476 500 515 519 524 540 548 560 562 573 609 652 659 670 679 696 702 729 739 771 776 777 778 782 811 821 822 828 831 834 835
+8 12 21 26 32 37 42 46 52 56 239 279 303 309 310 312 314 315 316 330 362 363 382 383 393 397 403 408 423 440 441 449 495 496 510 516 535 553 567 579 589 598 613 634 637 642 652 653 655 665 676 679 693 706 722 728 729 731 739 743 768 769 770 771 773 776 778 781 782 786 788 789 794 795 797 811 812 820 822 824 836 852
+4 21 23 30 35 40 45 50 55 183 367 388 395 396 429 439 440 441 449 495 496 500 506 516 520 535 562 568 581 609 652 655 659 679 696 707 729 739 743 771 773 778 780 781 782 784 785 811 847 852
+3 21 25 31 35 41 45 52 57 238 280 312 316 321 324 330 334 348 349 351 358 365 374 388 401 406 420 425 438 440 449 455 476 481 491 496 500 524 532 533 535 540 548 557 560 573 590 652 670 673 679 680 688 702 704 727 729 734 739 740 741 771 775 777 778 782 784 786 787 789 790 795 797 811 823 828 829 830 831 846 849
+9 21 27 32 35 42 47 52 55 65 225 229 312 314 317 328 329 330 339 351 365 373 393 401 408 429 430 431 440 449 485 492 496 505 516 526 528 535 598 608 609 614 652 679 682 685 687 688 690 698 700 701 705 706 711 727 729 731 732 733 739 755 763 765 771 772 773 778 784 789 795 797 811 815 821 846
+9 17 21 27 32 35 42 47 52 55 225 229 274 312 314 317 328 329 330 339 351 365 373 401 429 430 431 440 449 474 485 492 496 505 516 524 526 535 555 556 594 608 609 614 652 679 682 685 687 690 698 700 701 704 705 706 711 727 729 731 732 733 739 755 757 763 765 771 772 773 778 784 789 795 797 811 815 821 846
+1 21 27 32 37 42 47 52 55 161 275 290 312 314 318 328 330 343 351 361 373 374 388 393 394 396 399 401 408 423 431 440 449 452 453 455 457 485 492 496 505 509 516 524 528 535 538 539 548 557 560 562 594 598 609 612 614 624 632 645 652 659 670 679 680 684 705 706 707 710 711 718 723 727 729 737 739 750 771 773 778 782 783 789 790 795 797 799 800 801 806 810 811 813 821 822 829 831 846 851
+16 21 27 32 37 42 47 52 55 118 215 275 312 314 318 328 330 339 343 351 373 374 382 388 394 401 423 431 440 449 452 453 457 485 492 496 505 509 516 524 535 538 539 548 557 560 562 594 612 614 624 632 645 652 659 662 670 679 680 684 705 706 707 710 711 718 723 727 729 733 737 739 750 771 773 778 782 783 789 790 795 797 799 800 801 806 810 811 813 821 822 831 846
+7 21 27 31 35 41 47 52 57 129 153 237 330 349 358 360 364 379 386 397 399 401 422 428 440 449 466 476 480 481 482 500 512 524 526 543 560 569 575 576 580 591 624 636 643 652 670 679 680 682 687 688 689 690 704 726 729 733 739 765 771 773 775 778 789 790 795 797 804 811 837 846
+7 21 25 30 34 41 47 52 57 129 153 237 330 349 351 358 360 364 365 379 386 397 399 401 422 428 430 440 449 466 476 480 481 482 496 500 512 524 526 535 543 560 569 575 576 580 591 624 636 643 652 670 679 680 682 685 687 688 689 690 704 726 729 733 739 763 765 771 773 775 778 789 790 795 797 804 811 837 846
+4 12 21 25 32 35 42 47 52 56 80 189 266 312 314 316 330 362 363 367 368 373 423 436 440 441 442 449 455 458 495 496 500 502 519 524 528 535 555 560 565 566 572 575 579 581 624 636 640 642 652 670 672 676 679 680 696 706 707 711 727 729 739 743 759 768 769 771 773 778 783 784 785 786 789 795 799 811 813 847 849
+4 21 26 32 37 42 45 52 56 80 156 191 305 313 330 367 373 388 423 438 440 441 442 449 495 496 500 502 506 519 524 535 565 566 568 572 581 589 627 628 640 652 665 679 691 696 707 728 729 739 743 744 770 771 773 778 784 785 793 795 811 813 834 847
+4 7 21 26 32 35 42 47 52 55 80 139 156 305 310 312 313 316 335 358 367 373 379 397 438 440 441 442 449 495 496 500 502 506 524 531 535 545 565 566 568 575 576 581 589 591 597 627 636 640 652 670 679 707 728 729 743 744 770 771 773 784 785 789 793 795 813 823 825 834
+3 21 25 32 37 42 46 52 56 82 94 268 312 318 321 324 330 348 351 358 359 361 368 374 382 383 386 393 401 403 406 408 428 438 440 449 476 480 482 491 492 493 496 500 515 516 524 528 533 535 540 543 548 557 560 572 573 575 576 591 597 598 607 608 609 612 645 652 653 655 659 660 670 679 688 691 702 705 706 708 711 722 729 739 741 771 777 778 782 787 789 790 795 797 811 813 823 828 829 831 835 844 847 850 852
+3 21 26 32 36 42 47 52 56 58 177 217 314 321 324 328 330 343 348 354 359 361 374 391 406 408 439 440 449 461 469 496 516 518 533 535 540 541 548 573 607 608 652 656 670 679 682 702 703 704 729 739 740 741 771 775 777 778 782 786 787 789 790 795 798 811 821 828 829 831 833 835 852
+3 21 26 32 36 42 47 52 56 58 177 221 314 321 324 328 330 343 348 354 359 361 374 391 406 408 439 440 449 461 469 496 516 518 533 535 540 541 548 573 607 608 652 656 670 679 682 702 703 704 729 739 740 741 771 775 777 778 782 786 787 789 790 795 798 811 821 828 829 831 833 835 852
+3 21 26 32 36 42 47 52 56 58 177 215 314 321 343 348 374 391 408 439 440 449 469 516 518 533 540 541 548 573 608 652 656 670 679 703 704 729 740 741 771 777 782 786 787 789 795 798 821 828 829 831 833 852
+9 16 21 25 31 35 42 47 52 56 62 151 179 312 324 328 330 339 343 349 351 358 360 364 365 379 391 394 401 414 418 420 429 430 440 449 463 476 480 481 482 485 496 500 509 524 526 528 535 550 557 560 569 575 576 591 608 609 618 624 649 652 679 680 684 687 688 690 698 700 701 703 704 711 723 729 731 733 737 739 750 755 763 765 771 775 778 789 790 795 797 798 799 802 810 811 821
+7 21 26 32 35 42 47 52 56 62 98 293 310 312 328 330 351 358 364 365 379 386 388 389 393 396 399 401 408 422 428 430 438 439 440 449 461 466 476 480 481 482 492 496 509 516 524 528 535 543 557 569 575 576 591 597 598 609 618 620 624 636 652 659 666 670 679 680 682 687 688 690 691 704 705 706 707 708 711 729 733 739 750 755 763 765 771 773 778 782 789 790 795 797 798 799 800 801 804 811 821 822 823 846
+16 21 25 32 35 42 45 52 55 145 312 314 328 330 351 354 358 368 382 388 391 394 401 438 440 449 453 471 476 480 485 492 496 500 524 525 528 535 538 549 550 560 569 575 576 591 612 613 614 624 652 655 659 670 679 680 684 688 704 705 710 711 723 729 731 737 739 750 771 773 778 782 784 789 790 795 797 799 810 811 816 821 822
+1 14 21 25 32 35 42 44 52 55 145 312 314 345 351 358 368 382 391 393 394 401 440 449 453 471 476 480 482 485 496 500 524 525 528 535 538 548 549 560 569 575 576 612 613 629 652 655 670 679 684 704 705 710 711 713 729 731 737 740 750 771 782 784 789 790 795 797 810 816 822 840
+11 21 26 32 37 41 46 50 57 85 117 234 317 330 351 358 368 372 373 383 388 394 423 440 441 445 449 453 475 476 480 485 493 496 500 504 508 519 524 535 539 549 572 576 583 597 612 624 631 643 652 653 655 657 659 660 670 675 676 679 687 690 691 696 710 718 722 729 739 766 771 778 782 790 795 797 801 806 807 810 811 816 817 821 852
+3 10 21 26 32 36 42 46 52 56 75 140 155 310 312 315 316 321 322 330 356 359 361 374 397 404 406 439 440 449 456 478 496 510 524 531 533 535 540 548 560 573 633 652 670 679 693 702 724 729 739 759 771 777 778 782 788 795 811 813 821 829 831 834 841
+1 4 21 26 32 35 42 47 52 56 80 230 233 314 330 351 354 365 367 373 401 408 410 431 440 441 449 453 495 496 500 502 505 524 526 529 535 562 566 568 572 581 590 632 652 670 679 680 688 696 698 707 710 729 734 739 743 763 771 773 778 784 785 786 789 795 806 811 813 839 846 847 852
+2 21 24 31 35 42 45 52 56 112 151 154 312 314 330 343 351 365 373 379 388 391 393 401 408 413 418 437 440 448 449 462 463 467 470 471 472 473 496 516 522 524 530 535 538 550 556 557 569 598 609 618 620 632 652 656 676 679 680 682 684 688 696 704 729 737 739 743 771 773 775 778 782 789 794 795 797 802 811 839 840
+2 13 21 24 31 35 42 46 52 56 112 151 221 312 314 343 351 365 379 391 401 418 437 440 448 449 462 463 467 470 471 472 473 496 522 524 530 535 538 556 569 618 620 645 652 656 669 679 680 682 684 685 687 689 690 700 704 729 733 734 737 743 755 765 771 773 789 795 797 802 839 840
+2 10 21 25 32 37 42 45 51 55 76 245 310 312 315 316 330 339 346 351 357 358 360 365 386 391 393 396 397 401 408 413 414 415 418 420 427 428 430 431 437 440 449 455 462 463 465 466 467 470 471 473 476 478 480 482 491 492 496 505 516 522 524 528 531 535 550 552 557 569 591 594 598 609 610 618 620 652 676 679 684 687 688 690 693 700 703 704 705 708 711 727 729 736 739 743 759 771 773 778 782 784 788 789 795 804 811 820 834 840 841 846
+5 21 25 31 35 42 45 52 57 157 307 309 310 324 330 342 350 351 354 358 364 365 371 372 379 380 382 391 392 405 414 418 420 422 432 434 435 440 449 466 471 474 482 494 495 496 500 516 523 525 528 535 557 560 572 573 579 586 618 652 670 679 684 687 688 690 704 718 729 739 763 771 773 774 775 778 782 789 795 798 799 800 801 802 804 806 811 822 827 839 851 852
+2 14 21 25 32 37 41 44 51 57 110 112 148 308 317 329 330 368 378 382 393 394 423 437 440 441 449 462 467 470 471 473 496 515 522 525 535 549 550 552 592 610 613 620 621 624 646 652 655 659 679 696 710 718 723 729 735 739 743 750 771 773 778 790 795 797 811 813 816 817 840
+15 21 25 32 34 41 47 52 56 177 220 290 312 324 328 330 343 351 357 358 360 365 379 391 401 412 414 415 418 420 430 439 440 449 455 476 480 481 496 500 528 535 550 556 557 569 575 576 618 624 636 652 658 670 679 682 684 687 688 690 703 704 705 711 718 727 729 737 739 763 771 773 775 777 778 782 784 789 790 795 811 813 849
+6 21 25 31 34 42 47 52 57 241 243 268 312 321 328 330 334 348 350 351 358 359 364 365 373 374 379 388 391 401 406 430 431 438 440 449 469 476 480 482 489 492 496 500 505 523 528 535 540 541 543 546 547 548 573 575 591 594 608 609 631 632 644 652 670 679 682 684 687 688 690 704 711 727 729 737 739 740 765 771 775 777 778 784 789 790 795 797 798 799 811 813 831 849
+6 21 25 32 37 42 46 49 55 157 308 310 319 330 332 333 334 342 348 351 374 382 397 440 446 449 474 486 489 496 515 535 540 544 545 547 548 555 560 572 600 614 636 652 670 671 674 676 679 704 709 727 729 739 740 743 771 778 789 795 811 831
+3 7 21 25 31 36 41 47 51 57 94 268 295 318 330 341 348 351 358 361 364 365 374 377 379 386 393 396 399 401 406 408 422 428 429 430 438 439 440 449 476 480 482 496 515 516 524 526 533 535 539 540 543 548 560 573 575 576 591 597 598 600 607 608 609 624 636 643 652 655 670 679 682 687 688 690 702 704 708 729 739 752 771 775 777 778 782 789 790 795 797 799 811 823 828 829 831 834 835 846
+7 21 25 32 34 42 46 52 55 149 217 218 310 312 314 317 328 330 331 354 358 360 364 368 379 399 401 422 440 449 452 457 476 480 481 482 484 492 496 500 524 527 528 535 545 560 575 576 591 624 636 643 652 659 664 670 676 679 680 682 687 688 690 691 729 739 765 771 773 778 782 784 789 790 795 811 813 822 823 837 846
+16 17 21 26 32 34 40 47 52 57 98 149 202 312 316 328 330 339 358 394 401 440 449 455 474 476 480 485 491 496 500 528 535 555 556 560 569 575 576 586 593 594 595 614 624 636 652 658 670 679 680 682 686 688 690 691 700 704 705 706 711 727 729 737 739 750 755 757 765 771 778 784 789 790 795 797 799 806 810 811 849
+1 10 21 25 30 35 42 47 52 57 98 155 237 310 312 314 315 316 328 330 351 356 364 379 392 397 427 440 449 478 490 496 522 524 528 531 535 556 569 594 625 633 652 670 679 680 682 687 688 690 693 704 711 724 727 729 739 759 771 773 775 778 782 788 789 795 798 811 822 836 841 846 852
+10 11 21 25 30 37 42 45 52 57 155 237 279 310 312 314 315 316 351 356 364 368 379 382 392 395 397 427 440 444 449 478 496 522 524 528 531 535 538 548 569 594 613 625 652 653 655 657 660 670 679 682 687 690 704 710 711 724 727 729 737 766 771 773 775 782 788 789 795 798 822 823 836 841 852
+10 16 21 25 30 37 40 47 51 57 75 189 298 310 312 315 316 328 330 349 352 356 394 397 427 440 449 453 475 478 485 490 496 510 522 531 535 550 555 560 569 588 612 624 633 652 659 670 679 680 688 690 693 700 704 710 724 729 737 739 750 759 771 773 778 782 788 789 790 795 797 810 811 821 822 836
+15 16 21 23 31 35 41 44 51 56 157 310 324 328 330 339 343 351 357 360 365 372 391 394 397 409 412 413 415 418 419 420 427 429 430 431 440 449 462 463 467 471 474 478 480 481 496 516 522 524 533 535 538 541 550 557 612 618 624 652 659 670 676 679 684 687 688 690 693 703 704 706 718 726 729 737 739 750 755 759 763 765 771 773 775 777 778 786 788 789 790 795 797 799 802 806 810 811 815 821 822 846 852
+10 21 24 32 35 42 44 52 55 98 201 310 312 314 315 316 328 329 330 343 347 351 358 360 364 374 391 394 397 440 447 449 476 478 480 485 496 500 510 512 522 531 535 548 550 557 560 569 597 612 624 652 655 670 679 682 688 691 700 704 729 731 732 733 739 740 771 773 775 778 788 789 790 795 797 798 810 811 821 822 834
+10 21 24 32 35 42 45 51 55 218 310 312 314 315 316 328 329 330 343 347 351 358 360 364 374 391 394 397 440 447 449 476 478 480 485 496 500 510 512 522 531 535 548 550 557 560 569 597 612 624 652 655 670 679 682 688 691 700 704 729 731 732 733 739 740 771 773 775 778 788 789 790 795 797 798 810 811 821 822 834
+5 10 21 24 32 35 42 44 52 55 98 201 310 314 328 329 330 343 351 358 360 364 371 372 391 394 397 405 432 434 435 436 440 449 474 476 478 480 485 496 500 512 535 550 557 560 569 612 624 652 655 670 679 688 691 704 718 729 731 732 733 734 737 739 771 773 775 778 789 790 795 797 798 800 801 804 805 806 810 811 821 822 827 834 838 839 852
+5 10 21 24 32 35 42 44 52 55 294 310 314 328 329 330 343 351 358 360 364 371 372 391 394 397 405 432 434 435 436 440 449 474 476 478 480 485 496 500 512 535 550 557 560 569 612 624 652 655 670 679 688 691 704 718 729 731 732 733 734 737 739 771 773 775 778 789 790 795 797 798 800 801 804 805 806 810 811 821 822 827 834 838 839 852
+1 11 21 23 30 37 42 44 49 56 233 310 317 358 368 372 373 379 383 388 395 404 422 423 431 440 441 449 453 466 476 480 482 496 500 504 519 524 528 535 538 543 560 562 572 575 576 583 597 624 626 632 652 653 655 659 660 663 670 675 678 679 680 682 688 691 696 710 711 718 721 722 729 739 765 771 773 778 782 784 793 795 800 801 804 806 811 816 817 821 822 844 846 852
+4 7 21 25 31 35 40 47 52 57 77 190 312 330 341 343 349 350 351 358 364 365 367 379 391 401 414 422 430 439 440 441 449 457 476 480 482 488 495 496 500 501 502 505 511 512 524 526 528 535 555 556 557 560 566 568 575 576 581 594 608 609 621 624 630 636 652 670 676 679 680 682 684 687 688 690 692 704 707 711 729 731 733 739 743 747 748 763 765 771 773 774 775 778 782 784 785 786 789 790 795 804 811 813 826 845 846 847 852
+2 11 21 25 32 37 42 45 50 55 76 167 314 317 330 346 368 373 382 388 395 423 431 437 438 440 449 462 465 466 467 470 471 473 480 485 493 496 500 522 524 525 530 535 538 549 550 557 572 575 583 597 608 609 610 612 613 620 652 653 655 657 659 660 670 675 676 679 691 696 705 710 718 722 729 739 743 766 771 773 778 782 783 787 789 795 797 804 811 816 817 840 844 846 852
+3 21 27 32 37 42 47 52 56 204 280 310 312 330 348 354 374 394 401 406 431 440 449 455 476 500 505 509 524 533 540 543 548 570 573 575 608 609 643 652 663 670 679 687 688 690 691 702 729 733 736 739 740 747 750 771 777 778 782 784 789 790 795 797 811 812 813 822 828 829 830 831 846
+2 10 21 26 32 37 42 47 52 54 110 119 310 312 314 315 316 330 356 364 397 427 437 440 449 457 462 467 469 470 471 473 478 496 505 522 528 531 535 550 620 625 652 663 670 679 693 729 739 743 759 771 773 778 782 784 786 788 789 790 795 797 811 822 840 846
+10 12 21 27 32 37 42 46 52 56 86 116 239 310 312 315 316 330 362 363 368 382 397 421 423 436 439 440 441 449 495 496 510 531 535 553 555 572 637 640 642 652 653 655 659 665 670 679 693 696 728 729 739 743 769 770 771 773 776 778 782 788 795 797 811 822 834
+1 2 21 25 31 37 42 45 52 55 179 220 290 310 330 351 354 365 391 394 401 431 437 439 440 449 462 463 467 470 471 473 496 516 522 524 535 538 550 557 569 609 615 620 624 652 656 670 679 680 684 688 729 737 739 743 771 773 778 782 786 789 790 795 797 802 811 813 839 840 846
+18 21 24 32 37 42 45 48 57 113 270 313 317 330 368 373 374 388 395 397 404 421 431 439 440 441 449 495 496 500 502 519 524 535 572 581 597 601 602 627 628 640 652 655 670 679 696 707 722 729 739 743 766 771 773 778 782 785 795 811 813 816 842 847
+4 21 25 30 35 42 46 52 57 124 230 312 330 351 354 358 364 365 367 401 408 430 440 441 449 495 496 500 502 506 524 526 529 535 557 565 566 568 581 608 609 624 632 652 670 672 679 680 684 687 688 707 729 739 743 763 771 773 775 777 778 785 786 787 789 795 811 813 826 839 846 847 852
+8 15 21 26 32 37 41 46 50 57 58 197 198 307 309 324 330 354 374 406 412 418 420 440 449 480 496 509 515 533 535 548 557 573 608 609 618 632 639 652 670 679 702 703 704 710 718 729 731 732 736 739 740 750 771 777 778 786 787 789 795 797 800 801 811 812 820 824 828 829 831
+3 21 25 32 37 41 45 51 57 171 321 324 330 331 348 351 354 361 374 394 406 418 440 449 469 474 480 496 521 524 528 533 535 540 548 557 573 607 608 609 642 652 670 679 687 702 704 710 729 731 732 733 739 752 771 777 778 784 789 795 796 797 811 822 824 828 829 831 834
+18 21 25 31 37 42 45 49 57 93 194 330 336 343 351 368 373 384 388 395 401 404 408 421 431 440 449 451 453 481 496 505 519 524 535 538 557 562 572 581 601 602 610 632 652 655 659 660 663 670 676 679 680 684 696 698 710 722 729 739 766 771 773 778 782 786 787 789 795 811 813 834 846
+7 10 21 25 32 36 42 47 52 55 161 177 289 310 312 314 317 328 330 350 351 354 356 358 364 379 389 397 399 401 422 427 438 439 440 442 449 455 456 457 466 476 478 479 480 482 496 500 524 527 528 535 556 562 575 576 579 588 591 624 636 652 664 670 679 680 682 687 688 690 693 724 729 739 759 765 771 773 775 778 782 784 786 788 789 790 795 797 799 804 810 811 813 821 822 841 846 849 852
+5 18 21 27 32 37 42 47 52 55 78 193 195 312 314 317 330 371 372 373 388 395 401 405 421 432 434 435 436 440 442 449 476 496 500 524 535 557 562 572 586 601 616 622 632 652 670 675 679 680 707 718 729 739 771 773 774 778 782 786 787 789 791 795 797 800 801 804 805 806 811 813 822 827 839
+13 18 21 25 32 37 38 47 48 57 81 261 313 317 319 350 351 368 373 388 395 429 440 446 449 469 474 496 504 507 508 511 514 523 535 555 556 572 586 601 602 645 652 655 659 670 676 679 685 686 687 689 690 696 700 701 722 729 733 739 747 755 763 765 771 773 778 786 789 795 796 811 817 844
+15 21 23 31 35 42 45 48 57 123 140 230 305 309 324 328 330 348 350 351 357 360 365 373 374 393 412 413 414 418 420 430 440 449 457 462 466 469 471 480 482 496 533 535 540 550 553 557 560 591 607 608 618 639 650 652 670 679 687 688 702 718 723 729 731 732 739 763 771 773 775 777 778 786 789 791 795 800 801 804 811 829 831 834
+15 17 21 23 32 35 40 45 48 57 123 230 238 305 309 348 350 351 365 373 374 393 412 413 414 418 420 430 440 449 457 462 466 469 471 474 496 511 523 533 535 540 545 556 557 560 607 608 618 652 670 679 687 690 700 704 716 729 731 757 763 771 773 777 786 789 791 795 800 801 804 829 831 834
+17 18 21 26 32 37 41 47 51 57 167 201 329 330 368 388 395 397 421 440 449 450 451 474 485 496 535 549 555 562 572 574 583 586 595 601 632 652 655 659 660 670 675 676 679 696 700 729 739 747 757 766 771 773 778 782 783 786 795 797 806 810 811 817
+4 14 21 26 31 35 42 47 52 57 117 131 183 317 329 330 349 355 360 365 368 382 393 394 398 401 403 422 423 430 440 441 449 480 485 495 496 500 502 506 515 525 528 529 535 549 554 560 566 568 581 613 621 629 636 652 655 670 676 679 687 688 691 696 704 707 710 711 722 723 729 739 743 750 771 772 773 778 786 789 795 797 811 813 816 817 840 845 847 849
+4 8 21 26 32 35 42 45 52 57 80 121 307 309 330 342 351 362 367 378 393 408 438 440 441 449 494 495 496 500 502 506 516 535 553 554 560 565 566 567 579 581 589 598 636 637 642 650 652 672 676 679 704 707 726 728 729 731 739 743 751 761 767 770 771 772 773 778 779 781 782 784 785 789 795 797 807 811 813 824 826 834 847 848
+6 21 25 31 35 38 47 52 57 142 191 261 313 330 334 343 348 349 350 351 365 374 391 393 408 430 440 449 474 489 496 511 514 523 526 533 535 540 541 545 546 547 548 555 556 644 652 670 671 674 679 684 686 687 688 690 696 704 729 739 740 763 765 771 775 777 778 786 789 795 811 831 837
+6 13 21 25 31 34 38 47 52 57 142 260 261 334 343 348 350 351 365 374 391 393 401 408 430 440 449 496 511 514 523 526 535 540 541 545 547 548 555 556 606 644 652 670 671 674 679 685 687 690 700 704 729 740 755 763 765 771 786 789 795 837
+10 15 21 25 31 37 42 46 52 55 117 148 276 305 310 312 314 315 316 330 343 351 353 358 394 397 412 414 415 418 420 423 427 431 440 449 471 478 480 496 510 522 528 531 535 538 557 567 603 618 652 655 679 693 704 706 710 711 724 729 739 743 759 771 773 774 776 778 782 786 788 789 790 795 797 810 811 821 822 831 836 839 841 849
+13 18 21 23 32 35 38 45 48 57 81 313 317 318 319 350 351 365 368 373 388 395 400 421 429 438 439 440 446 449 453 469 474 496 504 507 508 511 514 519 524 535 555 562 572 586 597 602 610 632 645 652 655 659 660 670 676 679 686 687 689 690 696 700 701 722 729 733 739 740 747 755 765 766 771 773 778 782 786 789 795 796 811 817 844
+11 14 21 23 32 35 42 43 49 57 167 317 329 349 358 368 372 383 388 394 398 422 423 440 441 449 466 476 480 482 485 496 500 504 507 509 535 543 560 562 572 583 612 629 646 652 653 655 657 659 660 662 670 675 676 679 690 691 696 700 704 710 718 722 729 739 771 773 778 782 789 790 795 797 799 801 804 806 810 811 816 817 821 844 852
+11 16 21 22 32 33 42 43 49 57 167 317 329 349 358 368 372 383 388 394 398 422 423 440 441 449 466 476 480 482 485 496 500 504 507 509 535 537 543 560 562 572 583 612 629 646 652 653 655 657 659 660 662 670 675 676 679 690 691 696 700 704 710 718 722 729 739 771 773 778 782 789 790 795 797 799 801 804 806 810 811 816 817 821 844 852
+2 3 21 23 32 35 40 44 51 57 295 350 351 358 365 397 401 429 430 440 446 449 462 463 467 470 471 473 474 476 480 481 496 511 515 522 523 533 535 550 569 573 600 601 608 620 652 670 679 684 687 688 690 700 702 704 709 729 731 732 733 739 743 756 762 763 765 771 773 775 778 789 790 795 802 811 829 831 834 839 840
+4 14 21 25 32 35 42 45 50 57 164 190 310 312 315 316 329 330 356 367 382 388 397 427 431 440 441 449 455 456 488 490 495 496 500 501 502 505 515 524 525 531 535 549 560 564 565 566 572 575 576 581 612 613 625 629 633 652 658 670 672 679 693 696 707 710 711 713 723 724 729 733 739 743 744 750 759 771 772 773 778 782 784 785 786 788 789 795 811 813 822 846 847
+4 7 21 25 31 35 42 46 51 57 190 231 312 315 316 331 356 358 364 367 379 427 440 441 449 455 456 480 482 488 495 496 500 501 502 505 515 524 535 560 564 565 566 575 576 581 612 625 633 652 670 672 679 682 690 704 707 711 713 729 733 743 771 772 773 782 784 785 786 788 789 790 795 813 818 822
+1 21 27 31 35 42 47 52 57 58 250 260 330 343 349 351 365 374 391 401 430 431 439 440 449 463 466 476 482 496 524 535 541 543 556 557 560 562 569 576 608 609 624 652 656 670 679 682 684 690 698 700 704 707 718 729 739 763 771 773 774 778 786 789 790 795 797 798 802 804 810 811 813 821 822 839 846 850 852
+5 12 21 25 32 37 41 44 52 57 157 310 314 316 330 343 362 363 365 371 372 391 401 405 427 432 434 435 436 440 441 449 474 478 496 514 535 555 572 579 586 608 609 636 642 652 670 679 693 706 718 723 729 739 743 745 760 768 769 771 778 782 789 795 800 801 806 811 827 839 849 851
+6 7 21 26 31 34 42 47 52 57 62 141 153 318 330 334 348 349 350 351 358 360 361 364 365 374 379 401 422 428 430 439 440 449 476 480 482 489 496 509 524 535 540 542 543 545 548 555 556 560 569 573 608 609 624 652 670 679 682 687 688 690 702 704 726 729 739 740 763 765 771 773 775 778 782 789 795 797 804 811 846 852
+2 10 21 26 32 37 42 46 52 56 95 310 312 314 315 316 330 368 373 388 397 427 440 449 456 475 478 505 524 531 548 625 633 643 652 662 665 670 679 681 682 691 693 696 700 724 729 739 759 771 773 778 782 784 788 789 790 793 795 811 813 822 846
+10 11 21 26 32 37 42 46 52 56 95 310 312 314 315 316 330 368 373 388 397 427 440 449 456 475 478 505 524 531 548 625 633 643 652 662 665 670 679 681 682 691 693 696 700 724 729 739 759 771 773 778 782 784 788 789 790 793 795 811 813 822 846
+5 10 21 26 32 37 42 46 52 56 95 310 312 314 315 316 330 368 373 388 397 427 440 449 456 475 478 505 524 531 548 625 633 643 652 662 665 670 679 681 682 691 693 696 700 724 729 739 759 771 773 778 782 784 788 789 790 793 795 811 813 822 846
+10 14 21 26 32 37 42 46 52 56 95 310 312 314 315 316 330 368 373 388 397 427 440 449 456 475 478 505 524 531 548 625 633 643 652 662 665 670 679 681 682 691 693 696 700 724 729 739 759 771 773 778 782 784 788 789 790 793 795 811 813 822 846
+13 21 26 32 35 42 47 52 55 155 226 254 306 314 328 330 343 351 358 364 365 373 379 388 391 401 425 429 431 439 440 449 463 496 524 530 538 555 556 557 562 569 609 632 652 656 663 664 679 684 685 686 687 689 690 698 700 704 729 737 739 755 763 765 771 772 773 778 782 784 786 789 790 795 802 811 813 852
+13 21 26 32 35 42 47 52 55 281 306 330 343 358 364 365 373 379 386 388 391 392 401 425 429 431 439 440 449 463 481 496 524 530 538 555 556 557 562 569 618 632 652 656 663 664 679 682 684 685 686 687 689 690 698 700 704 729 737 739 755 763 765 771 772 778 784 786 789 790 795 798 802 811 813 846 852
+13 21 26 31 35 42 47 52 57 155 185 293 330 343 351 358 364 365 373 379 386 388 391 401 429 431 439 440 449 463 466 476 482 485 496 524 530 538 555 556 557 560 562 569 576 591 609 618 624 632 652 656 679 682 684 685 686 687 689 690 698 700 704 711 729 737 739 755 763 765 771 773 778 784 786 789 790 795 799 802 804 811 813 821 852
+9 21 25 30 34 40 47 51 57 149 191 252 330 350 351 365 379 386 410 429 430 439 440 449 480 496 523 526 535 555 556 575 576 591 608 609 624 652 679 684 687 688 690 700 701 704 729 733 739 755 762 763 765 771 773 775 778 789 795 811
+4 21 26 32 35 41 47 51 57 87 156 312 330 358 362 367 390 397 440 441 449 455 476 491 495 496 500 502 506 535 554 560 564 565 566 567 576 581 614 624 627 636 640 652 658 670 672 679 696 704 707 727 729 739 743 744 771 773 775 778 781 784 785 789 795 811 813 834 847 849
+2 8 21 26 32 37 42 45 52 55 88 186 309 310 314 330 339 351 357 388 390 403 414 415 418 420 437 438 439 440 449 453 462 463 464 470 471 473 476 485 496 509 522 524 535 538 550 557 560 567 609 612 620 624 634 635 636 639 643 652 679 703 704 705 711 723 729 731 732 735 739 771 773 778 781 782 789 790 795 797 806 810 811 812 813 824 840
+9 13 21 26 32 35 39 47 52 57 221 229 261 319 330 349 350 351 358 365 386 393 396 401 408 428 429 430 440 446 449 462 466 469 471 476 480 482 491 496 511 512 514 516 523 526 535 550 555 556 591 597 598 608 609 652 679 684 685 686 687 688 689 690 692 698 700 704 708 709 729 733 739 755 763 765 771 772 773 775 778 786 789 795 804 811 837
+5 13 21 26 32 35 39 47 52 57 120 169 261 317 330 349 350 351 358 360 365 371 372 386 393 396 401 405 408 429 430 431 434 436 440 446 449 462 466 469 471 476 480 482 496 511 516 523 535 555 556 586 597 608 609 652 679 684 685 686 687 689 690 700 704 706 708 709 718 729 733 739 745 755 763 765 771 773 775 778 786 789 795 800 801 804 805 806 811 827 837 839 851
+4 21 25 32 35 41 47 51 57 156 211 267 310 327 330 354 367 373 388 395 421 439 440 441 449 469 476 495 496 500 502 524 527 535 560 566 572 575 576 581 591 624 631 632 650 652 671 672 676 679 696 707 729 739 743 744 752 762 771 773 778 781 782 785 789 790 793 795 811 813 822 847 852
+1 11 21 26 31 37 42 46 50 57 149 270 276 313 317 330 349 351 358 360 365 368 372 374 383 388 423 430 438 440 441 445 447 449 476 480 485 493 496 504 535 538 549 560 562 572 583 591 612 621 624 652 653 655 657 659 660 662 670 676 679 687 696 704 710 722 729 739 750 766 771 773 778 782 789 790 795 796 800 801 811 813 816 817 844 846 850 852
+7 21 26 30 35 41 47 52 57 98 216 310 312 328 330 339 349 351 358 360 364 365 374 379 386 408 422 430 436 439 440 441 449 457 476 480 481 482 496 500 509 511 535 556 557 560 569 575 576 591 624 652 663 664 670 679 680 682 687 688 690 704 707 708 710 718 729 733 739 771 773 775 778 786 789 790 795 797 798 811 813 821 822 823 846
+9 14 21 26 31 37 40 45 52 57 229 296 305 313 318 329 330 349 351 359 365 374 382 429 430 440 441 449 474 476 495 496 504 514 525 535 539 549 553 555 589 608 609 613 621 652 655 662 670 675 679 686 687 690 691 698 700 701 704 710 722 729 731 739 750 755 765 771 773 778 795 796 811 816
+1 21 26 32 35 42 47 51 57 83 310 330 351 358 364 365 368 373 396 430 439 440 449 469 476 496 509 535 545 556 560 562 575 576 594 624 632 652 659 662 670 671 682 687 690 692 707 711 721 726 729 739 751 761 763 771 772 773 774 775 778 779 784 789 795 797 798 811 813 822 842 845 846 850 852
+14 18 21 26 32 36 42 47 50 56 99 313 329 330 336 339 364 372 373 382 384 388 393 394 395 398 421 422 423 440 449 476 495 496 525 528 535 553 562 567 572 583 598 601 613 621 624 629 632 642 652 655 659 670 679 696 705 706 710 711 713 727 729 739 750 752 771 773 778 784 789 790 795 797 800 801 806 811 813 816 817 840 845 846 849
+3 11 21 26 32 35 42 47 52 56 97 260 303 312 313 314 317 321 324 329 330 343 348 364 368 374 383 391 403 423 440 449 476 489 496 533 535 540 541 548 557 572 573 583 621 624 634 652 655 656 657 660 670 676 679 696 702 704 706 729 739 771 774 777 778 784 789 790 795 810 811 817 821 824 828 829 831 833 844
+7 15 21 23 32 35 39 45 50 56 77 189 248 312 324 330 331 341 350 351 353 357 358 360 364 365 379 386 412 413 414 415 418 420 422 430 431 439 440 449 455 466 471 474 476 480 482 496 516 524 535 538 543 555 556 557 569 575 591 594 615 618 624 636 652 670 679 682 684 686 687 690 696 700 703 704 706 711 718 729 739 755 763 771 773 775 778 784 786 789 790 795 804 811 821 823 831 846 849
+3 11 21 26 31 37 40 45 52 57 186 191 218 312 313 318 324 330 334 348 349 350 351 358 359 361 365 368 374 383 386 393 401 403 406 408 422 423 428 430 431 440 445 449 462 471 476 480 482 485 491 493 496 500 505 516 521 524 533 535 540 543 548 549 550 555 557 572 573 591 597 598 607 608 609 612 652 653 655 657 659 660 670 673 675 676 679 688 696 702 708 710 722 725 729 739 740 762 766 771 773 777 778 782 786 789 794 795 806 811 815 816 817 828 829 831 834 835 843 844 850 851 852
+8 11 21 26 31 35 41 45 52 57 191 212 218 307 309 318 330 334 348 350 351 358 359 360 365 368 374 383 393 401 403 406 422 430 440 445 449 462 471 476 480 485 493 496 500 505 509 515 516 521 524 533 535 540 541 543 548 549 555 557 572 573 591 597 607 608 612 636 645 652 653 655 657 659 660 670 673 679 685 696 700 702 704 710 714 722 725 729 731 732 733 739 740 766 771 773 777 782 786 789 795 806 811 815 816 817 824 828 831 834 835 843 844 850 852
+4 21 27 32 36 42 47 52 57 125 190 310 328 330 351 355 367 409 422 439 440 441 449 455 476 481 495 500 501 502 505 560 566 575 581 591 652 672 679 704 705 706 707 726 729 739 743 744 771 773 782 784 789 790 795 797 813 821 822 845 846
+3 21 25 32 36 42 44 52 55 242 280 310 314 315 316 330 342 348 354 357 374 394 406 440 449 476 481 496 505 515 532 533 535 540 547 548 572 573 597 607 608 643 652 670 676 679 696 702 703 710 729 733 738 739 740 741 771 772 777 782 784 789 790 791 795 822 823 828 829 830 831 834 835 846
+5 17 21 26 32 37 41 45 52 57 61 169 261 371 372 382 393 405 408 432 434 435 436 440 446 449 474 496 504 511 516 523 524 535 555 556 572 574 586 595 598 652 659 670 675 676 679 692 700 706 718 729 739 745 757 771 773 776 778 782 786 789 794 795 800 801 805 806 811 815 827 839 851
+1 21 26 30 36 41 47 52 57 78 121 318 328 330 340 343 350 351 360 365 367 386 388 391 401 430 440 449 463 476 496 511 526 535 538 541 557 560 608 609 624 652 656 670 679 707 729 739 751 761 763 771 773 774 775 779 784 786 787 789 795 797 802 821 839
+3 13 21 26 31 35 41 47 52 57 238 260 268 328 330 343 348 350 351 365 374 386 391 401 406 429 430 440 449 455 496 516 518 526 533 535 540 541 545 555 557 558 573 590 607 608 624 636 652 670 673 679 685 686 687 690 700 701 702 703 704 723 729 734 739 755 763 765 771 774 775 777 784 786 789 795 799 828 829 831 835
+2 13 21 25 30 37 40 47 51 57 110 112 255 319 330 350 351 365 401 429 430 440 449 462 466 467 470 471 473 496 511 522 523 526 535 550 555 556 591 620 645 652 671 676 679 685 686 687 690 700 701 702 709 729 733 736 739 743 747 755 765 771 773 786 789 795 840
+4 15 21 26 32 35 42 46 52 57 121 139 219 309 310 312 316 329 330 367 412 413 415 418 419 427 440 441 449 478 481 495 496 500 502 503 506 523 535 555 566 568 581 618 642 652 675 679 704 707 729 739 743 771 773 789 795 813 820 822 841 843
+4 15 21 26 30 36 42 45 52 57 121 219 278 318 329 330 350 351 365 367 393 412 418 420 430 440 441 449 495 496 500 502 506 511 516 523 524 526 535 555 556 566 568 572 581 618 624 642 652 670 674 675 676 679 696 707 729 739 743 762 763 771 773 775 781 789 795 813 843 852
+9 21 25 32 35 39 47 52 57 227 229 236 330 350 351 360 365 380 401 425 429 430 440 449 463 496 499 516 526 531 535 555 556 608 609 618 639 652 679 685 687 690 698 700 701 703 704 706 723 726 729 739 755 765 771 789 795 802 848 852
+3 10 21 26 32 36 42 46 51 56 128 310 312 314 315 316 318 320 322 328 330 340 348 356 374 397 406 424 427 440 449 456 478 490 496 531 533 535 540 548 573 625 633 642 652 670 679 682 693 702 729 739 751 759 761 771 775 777 779 788 789 795 797 798 799 821 829 831 834 835
+3 21 26 32 35 42 47 52 54 203 268 314 321 328 330 343 348 354 358 374 379 391 406 408 425 440 449 481 490 496 533 535 540 541 573 625 636 652 656 670 679 702 703 704 729 739 771 777 782 789 795 799 828 831 835
+5 8 21 25 32 36 42 45 52 57 195 207 275 307 309 330 340 353 358 371 372 373 405 422 432 434 435 438 440 449 466 469 476 496 505 509 524 525 535 538 569 591 597 615 616 619 624 636 639 652 670 679 704 706 717 718 729 731 732 737 739 745 766 771 773 778 782 789 790 791 795 797 799 800 801 802 804 805 806 811 812 813 821 824 827 839
+5 8 21 25 32 36 42 45 52 57 174 207 275 307 309 330 340 353 358 371 372 373 405 422 432 434 435 438 440 449 466 469 476 496 505 509 524 525 535 538 569 585 591 597 615 616 619 624 636 639 652 670 679 704 706 718 729 731 732 737 739 745 766 771 773 778 782 789 790 791 795 797 799 800 801 802 804 805 806 811 812 813 821 824 827 839
+14 21 25 32 37 42 44 50 57 92 298 317 327 329 368 382 393 394 440 449 485 495 496 525 535 549 572 581 589 592 597 612 613 624 629 652 653 655 660 676 679 709 710 715 722 729 739 750 766 767 771 772 781 792 795 816 817 840 843 844
+11 21 27 32 37 42 46 52 57 64 132 165 327 330 360 368 373 383 394 395 404 421 440 445 449 495 520 521 524 549 571 572 581 597 601 610 631 632 652 653 655 657 660 676 679 696 722 729 739 766 771 782 795 806 816 817
+16 18 21 25 31 35 42 46 52 57 117 192 201 328 330 343 350 351 358 364 374 391 394 395 421 422 440 449 452 453 454 466 475 476 480 481 482 485 496 512 535 543 549 567 572 575 576 591 597 601 612 632 647 650 652 676 679 680 704 711 729 739 749 763 771 772 775 778 789 790 795 797 799 804 806 810 813 816 821 844
+17 21 27 32 35 40 47 52 57 71 256 281 318 328 330 351 358 373 374 379 391 394 401 440 449 452 453 455 476 485 492 496 505 509 511 523 524 528 535 538 555 556 557 560 593 594 595 597 612 624 632 652 670 679 680 705 706 707 710 711 727 729 739 750 755 757 771 773 778 784 789 790 795 797 798 799 800 801 813 821 822 846 849
+7 21 26 32 35 40 47 52 57 71 98 314 328 339 350 351 358 364 379 386 440 449 455 468 480 481 496 516 524 526 535 555 556 560 579 590 624 636 652 670 679 680 682 687 688 690 706 729 734 739 771 773 775 784 786 789 795 799 813 821 852
+5 21 27 32 35 41 46 51 57 107 160 311 328 330 351 359 361 371 372 374 393 405 434 435 440 449 490 496 525 533 535 573 592 607 624 625 630 636 652 670 674 679 682 702 709 729 739 745 747 771 772 777 782 789 795 799 800 801 805 806 812 824 829 839 853
+6 12 21 26 32 37 42 44 51 57 143 239 310 316 330 332 333 334 348 362 363 368 395 397 427 440 449 456 495 496 524 531 535 540 545 547 548 549 553 567 572 579 600 632 642 644 652 665 676 679 696 723 729 739 740 769 770 771 782 788 789 795 822 834 837
+13 21 26 30 34 39 47 52 57 199 319 328 330 349 350 351 360 365 393 429 430 440 449 496 504 523 526 535 549 555 575 576 591 645 652 679 685 686 687 689 690 696 700 701 709 729 733 739 755 762 763 765 771 773 775 789 795 837 844
+1 11 21 26 32 37 42 45 51 56 149 206 271 313 317 330 351 368 395 404 421 422 438 440 441 445 447 449 452 493 504 520 524 538 549 562 581 583 597 610 631 632 646 647 652 653 655 657 659 660 679 710 722 729 739 766 771 782 789 795 796 815 816 817 844 852
+1 11 21 26 32 37 42 46 50 56 191 206 271 317 330 351 368 373 395 404 421 422 440 441 445 449 452 483 493 507 508 520 521 524 538 549 572 581 597 610 631 632 652 653 655 657 659 660 676 679 696 710 722 729 739 766 771 782 789 795 796 816 817 852
+5 16 21 27 32 36 42 47 52 56 138 314 328 330 343 358 367 371 372 391 394 432 434 435 436 440 449 452 453 463 475 476 485 541 560 569 612 618 623 624 649 652 656 662 663 671 679 682 704 707 729 737 739 745 750 763 771 774 778 782 787 789 790 795 797 798 800 801 802 804 805 806 807 810 821 827 839
+17 21 25 30 34 42 47 52 57 134 237 330 350 351 358 360 365 401 429 430 440 449 474 476 496 505 523 526 535 555 556 560 591 608 618 624 632 650 652 679 685 687 688 690 692 700 704 706 729 733 737 739 755 757 758 762 763 765 771 775 786 789 790 795 846 852
+8 21 25 30 35 42 47 50 57 198 257 258 308 309 330 340 349 351 358 382 393 394 401 403 422 428 440 446 449 462 466 471 476 480 482 495 496 509 514 515 516 524 525 535 543 549 550 553 560 579 589 592 597 598 602 608 609 621 624 635 636 643 652 670 679 687 688 690 700 704 706 709 710 718 729 730 731 732 735 739 750 771 773 778 782 789 790 795 797 800 801 804 810 811 812 824 851 852
+8 16 21 25 30 35 42 47 50 57 121 198 200 308 309 330 340 343 349 351 358 360 391 394 401 403 422 440 446 449 462 466 471 476 480 482 485 494 495 496 509 514 515 516 524 525 535 543 549 553 560 589 592 597 602 608 609 621 624 634 635 636 643 652 662 670 675 679 686 687 690 700 704 706 709 710 718 729 731 732 737 739 750 765 771 773 778 782 789 790 795 797 800 801 804 810 811 824 852
+4 16 21 23 30 35 40 47 51 55 156 310 312 328 342 343 351 358 360 364 367 379 391 394 401 422 438 440 441 449 476 482 492 495 496 500 502 506 512 524 535 538 557 559 560 566 569 575 576 581 591 608 612 624 650 652 679 684 687 690 704 705 707 729 737 739 743 744 763 771 773 775 778 782 784 785 789 790 795 797 798 799 813 822 826
+4 16 21 23 30 35 40 47 51 55 156 310 312 328 342 343 351 358 360 364 367 379 391 394 401 422 438 440 441 449 476 482 492 495 496 500 502 506 512 524 535 538 557 559 560 566 569 575 576 581 591 608 612 624 650 652 679 684 687 690 704 705 707 729 737 739 743 744 763 771 773 775 778 782 784 785 789 790 795 797 798 799 813 822 826
+15 21 24 28 35 42 45 52 57 100 319 343 351 357 391 412 413 414 415 417 418 429 430 440 446 449 463 481 496 512 535 541 572 618 652 676 679 682 703 709 729 739 771 782 789 795 798 802 820
+6 21 24 30 34 39 47 50 57 79 328 334 348 350 351 365 379 391 408 410 440 449 496 523 526 535 540 546 547 548 555 590 600 608 618 624 652 679 684 704 729 734 737 739 740 762 763 771 775 784 786 787 789 790 795 798 799 810 813 821 852
+4 11 21 25 30 37 42 47 52 57 290 314 317 350 367 368 383 421 438 440 441 445 449 493 495 496 500 502 504 506 508 521 524 535 549 566 568 571 572 581 583 589 597 608 640 643 647 652 653 655 657 660 676 679 696 704 707 722 729 737 739 743 744 766 771 773 782 789 795 815 816 817 844 852
+1 11 21 25 30 35 42 45 52 57 117 151 230 314 329 351 365 368 372 382 401 408 429 430 440 441 449 496 504 524 526 535 539 549 569 572 579 590 652 653 655 660 670 676 679 684 691 698 704 710 722 729 743 750 762 766 771 773 782 786 789 795 797 800 801 806 813 816 817 821 839 852
+12 13 21 25 32 34 41 47 52 56 235 237 266 310 312 314 315 316 358 362 363 379 409 427 440 449 455 481 491 496 524 535 569 572 579 642 652 663 679 682 685 687 690 700 704 727 729 733 755 764 765 769 771 773 782 784 788 789 795 797 813 822 823 849
+1 9 21 24 29 34 40 47 52 57 77 129 290 312 334 350 351 358 364 365 373 379 388 391 401 422 429 430 440 449 453 466 476 492 496 509 512 517 523 524 526 535 538 543 569 570 575 594 597 624 631 632 652 670 679 687 690 704 705 707 711 727 729 739 763 765 771 773 781 782 784 789 790 795 797 798 804 813 823
+3 14 21 25 30 35 42 47 52 57 58 177 268 314 321 343 348 374 382 391 408 439 449 469 496 516 518 525 533 535 540 541 548 573 608 613 618 629 652 656 670 679 703 704 710 729 740 741 750 771 777 786 787 789 795 798 821 828 829 831 833
+3 14 21 25 30 36 42 45 52 57 58 177 268 314 321 343 348 374 382 391 408 439 449 469 496 516 518 525 533 535 540 541 548 573 608 613 618 629 652 656 670 679 703 704 710 729 740 741 750 771 777 786 787 789 795 798 821 828 829 831 833
+8 16 21 25 31 35 41 47 52 56 151 197 268 311 314 338 343 348 359 374 391 394 398 440 449 458 496 509 511 514 515 533 535 540 548 573 608 630 636 638 639 652 670 679 682 703 704 710 729 731 734 747 750 751 761 771 777 784 786 789 790 795 811 812 824 828
+10 18 21 24 32 35 40 44 50 57 189 314 329 351 368 395 404 421 429 440 447 449 451 475 478 480 496 500 502 520 535 549 555 556 601 602 610 618 632 652 655 670 679 704 729 731 754 771 773 775 788 789 790 795 810 820 821 834 852
+4 16 21 25 32 35 42 47 52 55 190 204 310 312 314 331 343 358 367 373 374 394 404 440 441 449 453 476 477 485 488 495 496 500 501 502 524 528 535 560 564 566 575 576 581 609 612 614 632 640 645 652 663 679 705 707 710 711 722 727 729 743 747 771 782 787 789 790 795 797 804 812 813 816 817 822 847
+3 6 21 25 32 36 38 46 52 57 189 238 240 330 332 334 348 351 359 361 374 393 406 408 425 440 446 449 489 496 516 524 533 535 540 544 545 546 547 548 555 569 572 573 598 608 624 630 636 652 670 673 676 679 685 704 706 709 715 729 734 739 740 747 758 771 776 777 778 782 786 789 794 795 810 811 812 815 828 829 831 834 835 843
+3 21 27 32 36 42 47 52 57 179 280 310 312 315 316 320 321 356 374 404 409 438 440 449 456 481 505 524 533 573 575 576 601 643 652 670 679 777 782 789 795 829 830 831 841 846
+3 7 21 25 31 35 42 46 52 56 179 280 310 312 314 315 316 320 321 323 356 358 364 374 379 386 404 409 438 440 449 456 476 481 496 505 524 531 532 533 535 545 548 560 573 575 576 591 601 643 652 670 679 682 729 771 777 782 784 789 790 795 822 829 830 831 833 841 846
+1 21 26 30 35 42 47 52 57 121 162 278 340 350 351 365 367 374 388 401 404 408 429 431 440 441 449 496 516 524 526 535 538 556 608 609 632 652 670 679 707 729 763 771 773 774 786 787 789 795 797 813 821 846 850 852
+1 21 26 30 36 42 47 51 57 67 121 278 340 350 351 365 367 374 388 401 404 408 429 431 440 441 449 496 516 524 526 535 538 556 608 609 632 652 670 679 707 729 763 771 773 774 786 787 789 795 797 813 821 846 850 852
+12 21 27 32 37 41 47 51 57 150 250 312 328 349 351 358 362 363 367 377 386 440 449 455 457 476 494 495 496 500 516 560 567 575 579 636 642 652 670 679 682 690 704 711 719 723 729 747 760 768 769 771 773 786 789 790 795 797 799 812 813 822 849
+12 16 21 26 32 35 42 47 52 56 266 279 312 314 328 329 335 354 358 362 363 394 399 410 440 449 457 468 476 496 560 567 569 575 576 579 642 652 670 679 682 704 706 729 750 769 771 772 773 784 786 789 790 795 797 799 813 822 849
+5 7 21 26 32 35 42 47 52 55 153 183 294 314 326 343 350 358 364 371 372 373 379 391 401 405 411 432 434 435 438 440 442 449 466 476 480 482 496 500 505 524 535 543 560 575 576 594 597 616 632 652 663 670 679 683 690 705 707 726 729 745 771 773 774 782 789 795 797 800 801 802 804 805 806 827 839
+1 21 26 32 37 42 47 52 55 78 116 275 312 314 336 339 367 373 374 384 391 401 409 431 438 440 449 453 483 496 500 524 535 538 575 576 608 609 632 641 643 652 670 679 707 711 729 771 773 774 782 789 790 795 797 806 808 813 822 831
+18 21 26 32 37 40 47 52 56 67 299 314 336 343 350 351 373 388 391 395 401 408 421 440 449 463 496 505 524 535 541 562 570 601 608 609 632 652 656 670 679 684 704 729 737 763 771 773 786 787 789 795 802 813 846
+8 14 21 27 32 37 42 45 52 56 157 309 317 330 382 393 394 395 398 423 438 440 441 446 449 466 476 480 485 495 509 515 516 525 539 543 548 549 553 560 570 588 589 597 598 612 613 621 624 629 635 636 652 655 659 670 679 704 709 710 711 712 722 723 729 731 732 735 739 750 771 772 773 778 790 795 797 800 801 804 810 811 812 816 817 821 824 840 844 851
+1 4 21 25 32 37 41 44 50 57 131 232 305 367 373 395 429 438 440 441 449 469 476 495 496 500 502 506 524 535 538 566 568 572 581 589 597 599 627 628 640 652 672 676 679 696 707 729 743 744 771 773 781 782 786 795 796 813 834
+1 10 21 27 32 36 42 47 52 56 129 139 151 312 315 316 356 384 408 427 440 449 453 461 475 478 485 490 496 505 522 524 531 535 538 598 623 625 642 652 663 679 682 693 704 729 771 773 778 788 789 790 795 797 810 821 822
+13 21 27 32 37 40 47 52 57 81 209 261 350 351 365 401 429 430 440 449 474 496 514 516 523 524 535 555 556 608 645 652 670 674 679 686 687 689 697 700 729 733 755 763 765 771 773 786 789 795 852
+2 11 21 25 31 37 40 44 52 57 112 298 309 317 325 329 331 368 378 382 394 418 437 440 441 445 449 462 467 470 471 473 474 476 480 522 524 550 555 563 569 572 610 613 620 652 653 655 657 660 676 679 710 729 743 750 766 771 773 789 790 795 816 817 834 837 840
+5 21 26 30 37 41 45 52 57 94 108 253 309 371 372 374 382 405 432 434 435 440 469 496 535 538 572 608 609 652 670 676 679 725 729 745 771 772 782 786 795 800 801 805 806 811 827 829 831 834 839 851
+8 14 21 25 32 37 42 44 52 55 92 309 317 330 351 358 382 386 393 394 395 398 403 408 422 423 428 438 440 441 446 449 466 476 480 482 485 495 496 509 515 516 525 535 539 543 548 549 553 560 570 588 589 591 597 598 612 613 621 624 626 629 635 636 652 655 659 670 677 679 688 691 704 708 709 710 711 712 722 723 729 731 732 735 739 750 771 772 773 778 789 790 795 797 800 801 804 806 810 811 812 816 817 821 824 840 844 851
+5 10 21 26 32 37 42 45 52 54 85 294 301 310 312 314 315 316 356 371 372 405 427 432 434 435 440 449 478 496 505 531 535 625 633 652 663 679 693 704 729 745 771 782 788 789 795 800 801 805 806 821 822 827 834 839
+16 21 25 32 35 41 47 52 56 127 151 250 343 351 373 381 391 394 401 408 440 449 453 463 496 516 524 528 535 538 541 558 569 570 618 624 632 652 656 670 679 682 684 704 729 737 750 771 773 778 786 789 790 795 797 802 813 839
+1 8 21 26 32 36 42 47 52 55 198 201 289 309 310 401 407 438 440 449 475 476 485 492 496 509 524 560 569 575 576 597 608 609 612 634 636 639 642 652 670 679 704 705 711 727 729 731 771 773 774 783 784 789 790 795 797 811 813 822 824 849
+4 14 21 26 32 35 42 47 52 56 148 302 305 329 367 382 393 396 403 440 441 449 495 496 500 502 525 535 553 566 589 613 621 629 642 650 652 671 679 692 704 707 710 729 743 747 750 771 795 797 813
+4 9 21 25 32 37 42 47 50 55 182 305 309 367 382 395 429 440 441 474 485 495 496 500 502 506 525 535 560 566 572 579 581 589 608 609 637 650 652 670 676 677 679 704 706 707 729 731 743 747 753 770 771 776 782 786 790 795 811 812 813 817 824 848
+13 21 26 32 35 40 47 52 57 63 218 238 319 351 358 365 401 429 439 440 449 469 476 496 514 524 526 535 555 560 594 608 609 645 652 670 679 682 685 687 688 689 690 700 704 711 729 733 755 763 765 771 773 784 789 795 797 813 849
+2 4 21 26 32 35 42 45 52 57 80 150 178 343 367 391 440 441 449 462 463 471 495 496 500 502 506 516 524 535 564 566 569 581 620 652 672 679 700 704 707 729 743 746 763 771 773 774 789 795 797 813 840 847 852
+11 12 21 26 32 37 41 45 50 57 271 276 362 363 368 382 383 395 396 401 429 435 440 441 447 449 476 496 504 508 509 535 549 555 567 572 579 608 609 642 645 647 652 653 655 657 659 660 670 676 679 683 690 692 696 698 700 710 722 729 731 766 769 771 773 786 789 795 797 816 817 834 849 852
+17 18 21 27 32 37 42 47 52 57 177 191 192 329 336 358 360 388 421 438 440 449 451 452 453 474 475 476 485 524 560 572 594 597 632 642 652 676 679 687 688 690 722 723 726 729 755 757 765 771 780 784 795 797 806
+17 18 21 25 31 37 42 47 50 56 177 191 192 329 336 358 360 365 388 421 438 440 449 451 452 453 474 475 476 485 497 523 524 560 572 594 597 632 642 652 676 679 687 688 690 722 723 726 729 733 755 757 765 771 780 784 795 797 806
+3 21 27 32 35 42 47 52 55 123 215 229 314 321 348 365 374 401 429 440 449 485 496 516 524 533 535 540 573 608 609 652 670 679 698 700 726 729 763 771 772 777 782 789 795 799 829 831 848
+10 16 21 26 32 35 41 47 51 57 75 155 222 310 312 315 316 356 394 425 427 440 449 456 478 485 496 522 528 531 535 538 548 560 569 592 612 623 624 625 633 645 649 652 670 685 687 689 690 693 700 704 724 729 737 755 765 771 772 773 788 789 790 795 797 810 822 836 841
+8 17 21 25 32 35 41 47 52 56 109 189 309 328 351 365 440 449 474 496 509 511 515 516 523 526 535 555 556 570 586 620 635 636 652 670 679 700 704 706 717 729 730 731 735 757 771 773 778 789 790 795 797 811 812 821 824 852
+1 15 21 25 32 36 42 46 52 55 218 236 310 312 314 324 343 351 357 391 408 412 414 418 419 420 440 449 463 496 505 535 538 545 556 557 560 608 609 618 620 650 652 663 670 671 679 703 717 729 771 773 786 789 790 795 797 801 802 813 821 822 839
+17 21 26 32 36 39 47 52 57 105 229 350 351 365 380 393 401 429 430 440 449 474 496 514 523 524 526 535 555 556 557 593 608 609 652 679 685 687 690 700 701 729 733 747 755 757 763 771 786 789 795 848
+11 21 26 31 37 42 47 50 57 115 149 150 317 330 350 351 358 368 382 383 386 393 395 403 408 421 422 423 428 438 440 449 466 476 480 482 485 493 496 500 515 516 524 525 535 539 543 549 560 572 575 576 583 591 597 598 612 613 635 643 652 653 655 657 659 660 670 675 676 679 691 696 704 708 710 722 729 739 766 771 773 778 782 783 789 790 794 795 797 804 806 810 811 813 815 816 817 851 852
+14 21 26 32 35 40 47 51 57 114 226 343 350 365 373 382 391 401 408 440 449 463 496 505 516 524 525 535 541 570 608 609 613 629 632 652 656 670 679 684 700 704 710 729 737 763 771 773 786 787 789 795 797 802 816 821 840
+7 10 21 25 32 35 42 47 52 56 89 231 273 310 312 314 315 316 356 364 374 379 384 399 410 427 440 449 457 476 478 481 496 531 535 573 575 576 579 591 624 625 642 652 664 679 682 693 724 729 771 784 788 789 790 795 797 799 822 831 837 841
+6 21 25 28 35 42 47 52 57 237 241 278 318 334 348 350 351 354 365 373 374 408 430 431 440 449 469 496 505 523 524 526 535 538 540 541 543 544 545 547 548 560 573 632 644 652 670 679 729 740 763 771 786 789 795 831
+3 11 21 26 31 35 42 47 52 57 177 235 314 320 321 348 351 374 391 425 440 461 481 496 533 535 540 541 548 573 614 633 652 655 656 657 658 670 674 679 703 727 729 740 766 771 777 786 789 795 798 828 831 852
+3 15 21 26 32 37 42 45 51 57 84 259 374 386 412 415 418 440 449 496 514 524 533 535 548 579 592 599 607 612 618 652 670 671 679 729 741 752 771 777 789 790 795 829 831
+8 9 21 27 29 37 42 47 50 57 197 288 295 309 318 350 351 365 374 401 429 430 440 449 496 509 515 523 524 526 533 535 556 573 575 590 608 609 636 638 639 652 670 679 687 690 700 726 729 731 732 747 755 763 765 771 777 787 789 795 811 812 813 824 828 831 850 852
+1 11 21 25 30 36 42 45 52 57 66 90 230 314 318 328 329 351 365 368 372 382 383 391 395 409 430 440 441 449 485 496 500 504 505 508 524 526 535 538 549 556 572 575 612 613 647 652 653 655 656 657 660 670 676 679 684 710 722 729 762 763 766 771 773 782 786 789 795 797 800 801 806 813 816 817 819 821 852
+1 21 25 29 35 42 46 52 57 215 224 233 314 316 318 319 348 350 351 353 365 368 374 380 396 401 408 419 420 425 427 429 430 439 440 449 462 469 471 496 499 511 523 524 525 531 535 536 538 540 545 579 608 609 618 636 639 642 652 670 679 687 690 692 693 700 703 704 706 710 729 734 743 750 755 763 765 766 771 773 788 789 795 797 800 801 811 821 839 850 852
+1 21 25 29 35 42 46 52 57 215 224 233 314 316 318 319 348 350 351 353 365 368 374 380 396 401 408 419 420 425 427 429 430 439 440 449 462 469 471 496 499 511 523 524 525 531 535 536 538 540 545 579 608 609 618 636 639 642 652 670 679 687 690 692 693 700 703 704 706 710 729 734 743 750 755 763 765 766 771 773 788 789 795 797 800 801 811 821 839 850 852
+11 18 21 24 30 37 41 47 50 55 205 318 343 348 351 353 364 368 391 395 401 403 422 438 440 449 453 462 463 466 471 476 480 496 500 511 524 530 535 538 540 541 543 549 572 597 601 615 626 632 643 652 653 655 656 657 660 670 676 679 684 690 700 704 721 729 740 755 763 766 771 773 789 795 800 801 802 804 806 816 817 821 831 842 852
+4 16 21 24 30 34 41 47 51 57 205 305 329 350 351 367 378 379 382 391 394 429 440 441 449 495 496 500 502 506 525 535 554 566 581 589 618 624 640 652 667 679 704 707 729 743 753 763 770 771 772 773 785 790 795 797 798 813 824 852
+7 12 21 24 31 34 42 46 50 57 205 310 312 350 351 358 362 363 364 379 427 430 437 440 449 468 470 473 495 496 510 522 523 526 531 535 567 575 576 579 604 637 652 670 679 682 700 729 762 763 770 771 773 775 789 795 798 813 822 836 839 840 852
+5 9 21 24 31 37 41 45 51 55 205 350 351 365 371 372 405 429 430 432 434 435 440 449 474 496 504 523 526 535 555 572 585 595 599 608 645 652 676 679 700 701 706 729 745 747 755 763 771 773 776 782 789 795 800 801 805 806 815 827 839 851
+9 17 21 24 31 35 40 47 52 55 210 350 351 365 396 429 430 434 435 439 449 474 496 511 523 526 535 541 545 555 556 560 590 608 609 652 671 679 687 690 692 700 704 734 755 757 758 763 765 771 789 795 800 802 827 839 852
+5 7 21 24 28 34 40 47 52 57 210 326 341 350 351 358 365 371 379 399 422 430 434 440 449 452 466 476 480 481 482 484 496 523 535 543 555 556 575 576 597 632 652 679 682 687 690 698 704 708 726 729 763 771 784 786 789 795 800 801 804 827 836 839
+10 16 21 24 31 37 41 45 52 55 210 310 315 316 328 351 372 391 394 413 418 420 427 429 434 440 449 462 463 471 474 478 480 481 496 522 531 533 535 538 556 560 618 652 670 679 684 690 704 729 737 771 773 788 789 790 795 815 822 846 852
+5 13 21 24 30 34 40 47 52 57 210 343 348 350 351 358 365 371 372 391 401 414 415 420 429 430 432 434 435 440 449 462 463 466 471 476 480 496 523 526 535 540 541 543 555 556 575 594 630 645 652 670 679 685 687 689 690 700 701 704 706 733 737 747 755 763 765 771 773 784 789 790 795 800 801 802 804 806 827 839

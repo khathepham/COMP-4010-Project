@@ -17,7 +17,7 @@ public class MainTestAllAssociationRules_FPGrowth_inverse_saveToFile {
 
 	public static void main(String[] arg) throws IOException {
 		String input = fileToPath(arg[0]);
-		String output = ".//output_inverse_rules.txt";
+		String output = arg[4];// ".//output_inverse_rules.txt";
 
 		// By changing the following lines to some other values
 		// it is possible to restrict the number of items in the antecedent and
