@@ -8,13 +8,16 @@ types = ["Normal", "Fire", "Water", "Grass", "Electric", "Ice", "Fighting", "Poi
 stats = ["hp", "atk", "def", "spa", "spd", "spe"]
 all_abilities = []
 all_moves = []
+all_items = []
 
 if __name__ == '__main__':
-    with open("allmoves.json", "r") as f:
+    with open("allmovesusage.json", "r") as f:
         all_moves = json.load(f)
-    with open("allabilities.json", "r") as f:
+    with open("allabilitiesusage.json", "r") as f:
         all_abilities = json.load(f)
-    with open("allpokemon.json", "r") as f:
+    with open('allitemsusage.json', 'r') as f:
+        all_items = json.load(f)
+    with open("allpokemonusage.json", "r") as f:
         with open("pokeparse_ou.txt", "w") as w, open('pokeparse_belowou.txt', 'w') as bou, open('pokeparse_aboveou.txt', 'w') as aou, open('pokeparse_all.txt', 'w') as all:
             w.write('@CONVERTED_FROM_TEXT\n')
             bou.write('@CONVERTED_FROM_TEXT\n')
@@ -59,6 +62,12 @@ if __name__ == '__main__':
                 aou.write(f"@ITEM={counter}=move:{x}\n")
                 all.write(f"@ITEM={counter}=move:{x}\n")
                 counter += 1
+            for x in all_items:
+                w.write(f"@ITEM={counter}=item:{x}\n")
+                bou.write(f"@ITEM={counter}=item:{x}\n")
+                aou.write(f"@ITEM={counter}=item:{x}\n")
+                all.write(f"@ITEM={counter}=item:{x}\n")
+                counter += 1
 
             for p in all_pokemon:
                 indexes = []
@@ -90,6 +99,10 @@ if __name__ == '__main__':
                 for move in p.get("moves"):
                     indexes.append(all_moves.index(move) + index_len)
                 index_len += len(all_moves)
+
+                for item in p.get('items'):
+                    indexes.append(all_items.index(item) + index_len)
+                index_len += len(all_items)
 
                 index_string = map(str, sorted(indexes))
                 # print(index_string)
