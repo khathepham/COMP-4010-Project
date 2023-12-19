@@ -1,0 +1,43 @@
+ type:Fire tier:OU ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ tier:OU move:flamecharge ==> type:Fire #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ type:Fire tier:OU ==> move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ tier:OU move:flareblitz ==> type:Fire #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ type:Fire tier:OU ==> move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ tier:OU move:flamecharge ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ tier:OU move:flareblitz ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ tier:OU move:flareblitz ==> move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ tier:OU move:flamecharge ==> move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ tier:OU move:firespin move:flamecharge ==> type:Fire #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ type:Fire tier:OU move:flamecharge ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ type:Fire tier:OU move:firespin ==> move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ tier:OU move:flamecharge ==> type:Fire move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 14.13793103448276
+ type:Fire tier:OU ==> move:firespin move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904
+ tier:OU move:firespin move:flareblitz ==> type:Fire #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ type:Fire tier:OU move:flareblitz ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ type:Fire tier:OU move:firespin ==> move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ tier:OU move:flareblitz ==> type:Fire move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 14.13793103448276
+ type:Fire tier:OU ==> move:firespin move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904
+ tier:OU move:flamecharge move:flareblitz ==> type:Fire #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ type:Fire tier:OU move:flareblitz ==> move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ type:Fire tier:OU move:flamecharge ==> move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ tier:OU move:flareblitz ==> type:Fire move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 13.666666666666668
+ tier:OU move:flamecharge ==> type:Fire move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 13.666666666666668
+ type:Fire tier:OU ==> move:flamecharge move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ tier:OU move:flamecharge move:flareblitz ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ tier:OU move:firespin move:flareblitz ==> move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ tier:OU move:firespin move:flamecharge ==> move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ tier:OU move:flareblitz ==> move:firespin move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904
+ tier:OU move:flamecharge ==> move:firespin move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904
+ tier:OU move:firespin move:flamecharge move:flareblitz ==> type:Fire #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ type:Fire tier:OU move:flamecharge move:flareblitz ==> move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 10.789473684210527
+ type:Fire tier:OU move:firespin move:flareblitz ==> move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ type:Fire tier:OU move:firespin move:flamecharge ==> move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.058823529411763
+ tier:OU move:flamecharge move:flareblitz ==> type:Fire move:firespin #SUP: 5 #CONF: 1.0 #LIFT: 14.13793103448276
+ tier:OU move:firespin move:flareblitz ==> type:Fire move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 13.666666666666668
+ tier:OU move:firespin move:flamecharge ==> type:Fire move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 13.666666666666668
+ type:Fire tier:OU move:flareblitz ==> move:firespin move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904
+ type:Fire tier:OU move:flamecharge ==> move:firespin move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904
+ type:Fire tier:OU move:firespin ==> move:flamecharge move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 12.424242424242424
+ tier:OU move:flareblitz ==> type:Fire move:firespin move:flamecharge #SUP: 5 #CONF: 1.0 #LIFT: 14.13793103448276
+ tier:OU move:flamecharge ==> type:Fire move:firespin move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 14.13793103448276
+ type:Fire tier:OU ==> move:firespin move:flamecharge move:flareblitz #SUP: 5 #CONF: 1.0 #LIFT: 13.225806451612904

@@ -1,9 +1,13 @@
+import json
 import sys
 
 
 look_up_table={}
 
-
+all_moves=[]
+all_abilities=[]
+all_tiers=[]
+all_types=[]
 
 def make_look_up_table(dict):
         with open(dict, "r") as f:
@@ -20,17 +24,47 @@ def make_look_up_table(dict):
                 else:
                     break
 
+def category_dictionary():
+    
+    with open("allmoves.json", "r") as f:
+        global all_moves
+        all_moves=json.load(f)
+    with open("allabilities.json", "r") as f: 
+        global all_abilities 
+        all_abilities=json.load(f)
+    with open("alltiers.json", "r") as f:
+        global all_tiers
+        all_tiers=json.load(f)
+        
+    with open("alltypes.json", "r") as f:
+        global all_types
+        all_types=json.load(f)
+    
+def category_of(tokens):
+
+    if tokens in all_moves:
+        return "move:"
+    if tokens in all_abilities:
+        return "abilities:"
+    if tokens in all_tiers:
+        return "tier:"
+    if tokens in all_types:
+        return "type:"
+    else:
+        return "something_else:"
 
 def convert_ids_to_strings(output,input):
+    category_dictionary()
     with open(output, "w") as f:
         input =open(input, "r")
         for line in input:
             tokens=line.split(" ")
+            #print(tokens)
             i=0
             notId=False
             for i in range(len(tokens)):
                 if not notId and tokens[i].isdigit():
-                        f.write(' '+look_up_table[int(tokens[i])])
+                        f.write(' '+category_of(look_up_table[int(tokens[i])])+look_up_table[int(tokens[i])])
                 elif tokens[i]=='==>':
                         f.write(' '+tokens[i])
                 elif tokens[i]=='#SUP:':
@@ -111,7 +145,34 @@ def find_special_rules_only_in_ou(ou_set, union):
     print(f"There are {len(ou_complement)} different rules in ou_complment (ou only).")  
     return ou_complement
     
-                
+         
+         
+def find_maximum_rules(rules,set_name):
+    rules=sorted(rules, reverse=True)
+    rules_split=set()
+    for rule in rules:
+        rule_splitting=rule.strip().split('==>')
+        rules_split.add((tuple(set((rule_splitting[0].strip().split(' ')))),tuple(set(rule_splitting[1].strip().split(' ')))))
+        
+        
+        
+    maximum=set()
+    rules_split=sorted(rules_split, key=lambda x: (len(x[0]), len(x[1]),x[0], x[1] ), reverse=True)
+    
+    with open("ouput_maximum_rules_"+set_name+".txt", "w") as f:
+        for antecedent, consequent in rules_split:
+            if any(set(antecedent).issubset(item[0]) and set(consequent).issubset(item[1]) for item in maximum):
+                pass
+            else:
+                maximum.add((antecedent,consequent))
+                f.write(f"{ ' '.join(map(str, antecedent))} ==> { ' '.join(map(str, consequent))}\n")
+    
+    print(f"There are {len(maximum)} number of maximum rules in {set_name}")
+    
+    return maximum
+            
+
+       
 ALL_POKES="pokeparse.txt"
 OU_POKES="pokeparse_ou.txt"
 ABOVE_OU_POKES="pokeparse_aboveou.txt"  
@@ -148,10 +209,11 @@ if __name__ == '__main__':
     
     print(f"There are {len(overlapping_rules)} different rules in intersection.")    
     print(f"There are {len(union_rules)} different rules in above and below union.")
-    print(f"There are {len(union_all)} different rules in 3 tiers uion.")
+    print(f"There are {len(union_all)} different rules in 3 tiers union.")
     
     ou_complement=find_special_rules_only_in_ou(ou_rules, union_rules)
     
+    maximum_ou=find_maximum_rules(ou_complement, "ou_complement")
     
     
     
