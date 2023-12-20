@@ -3,6 +3,9 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URL;
 
+import ca.pfv.spmf.algorithms.associationrules.closedrules.AlgoClosedRules;
+
+
 import ca.pfv.spmf.algorithms.associationrules.closedrules.AlgoClosedRules_UsingFPClose;
 import ca.pfv.spmf.algorithms.associationrules.closedrules.AlgoClosedRules_UsingFPClose_lift;
 import ca.pfv.spmf.algorithms.frequentpatterns.apriori_close.AlgoAprioriClose;
@@ -84,10 +87,17 @@ public class MainClosedAssociationRulesWithFPClose_inverse_lift_saveToFile {
 		double minconf = Double.parseDouble(arg[3]);// 0.50;
 		// STEP 2: Generate all rules from the set of frequent itemsets (based on
 		// Agrawal & Srikant, 94)
-		AlgoClosedRules_UsingFPClose algoClosedRules = new AlgoClosedRules_UsingFPClose();
-		algoClosedRules.runAlgorithm(patterns, output, database.size(), minconf,
-				minlift, algo.cfiTree);
-		algoClosedRules.printStats();
+		/*
+		 * //AlgoClosedRules_UsingFPClose algoClosedRules = n
+		 * w AlgoClosedRules_UsingFPClose(
+		 * 
+
+		* algoClosedRules.printStats();
+		//*/
+		
+		 AlgoClosedRules algoClosedRules = new AlgoClosedRules();
+		 algoClosedRules.runAlgorithm(patterns, output, database.size(), minconf);
+		 algoClosedRules.printStats();
 
 	}
 

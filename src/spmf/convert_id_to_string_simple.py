@@ -17,20 +17,21 @@ def make_look_up_table(dict):
                 
                 if line[0]=='@':
                     tokens=line.split('=')
+                    if len(tokens)>=2:
 
 
-                    tokens[2]=tokens[2].replace(" ", "_")
-                    look_up_table[int(tokens[1])]=tokens[2]
+                        tokens[2]=tokens[2].replace(" ", "_")
+                        look_up_table[int(tokens[1])]=tokens[2]
                 else:
                     break
 
 
 def category_dictionary():
     
-    with open("allmoves.json", "r") as f:
+    with open("allmovesusage.json", "r") as f:
         global all_moves
         all_moves=json.load(f)
-    with open("allabilities.json", "r") as f: 
+    with open("allabilitiesusage.json", "r") as f: 
         global all_abilities 
         all_abilities=json.load(f)
     with open("alltiers.json", "r") as f:
@@ -42,13 +43,15 @@ def category_dictionary():
         all_types=json.load(f)
         
 def category_of(tokens):
-    if tokens in all_moves:
+    tokens=tokens.split(":")
+    token=tokens[1]
+    if token in all_moves:
         return "move:"
-    if tokens in all_abilities:
+    if token in all_abilities:
         return "abilities:"
-    if tokens in all_tiers:
+    if token in all_tiers:
         return "tier:"
-    if tokens in all_types:
+    if token in all_types:
         return "type:"
     else:
         return "something_else:"
@@ -65,7 +68,7 @@ def convert_ids_to_strings(output,input):
             notId=False
             for i in range(len(tokens)):
                 if not notId and tokens[i].isdigit():
-                        f.write(' '+category_of(look_up_table[int(tokens[i])])+look_up_table[int(tokens[i])])
+                        f.write(' '+look_up_table[int(tokens[i])])
                 elif tokens[i]=='==>':
                         f.write(' '+tokens[i])
                 elif tokens[i]=='#SUP:':
@@ -87,21 +90,37 @@ def extract_rules(set):
 def filter_rules_in_tier(input, output, tier):
     
     rules=set()
-    tier="tier:"+tier
+    tier_ou="tier:OU"
+    tier_aboveou="tier:AboveOU"
+    tier_belowou="tier:BelowOU"
  
-    count=0
+    count_ou=0
+    count_aboveou=0
+    count_belowou=0
     with open(input, "r") as f:
         fout=open(output, "w")
+        fout_ou=open(output+"_ou.txt" , "w")
+        fout_aboveou=open(output+"_aboveou.txt", "w")
+        fout_belowou=open(output+"_belowou.txt", "w")
         for line in f:
                 tokens=line.strip().split(' ')
                 rules.add(line)
-                
-                if tier in tokens:
-                    fout.write(line)
-                    count=count+1
+                fout.write(line)
+                if tier_ou in tokens:
+                    fout_ou.write(line)
+                    count_ou=count_ou+1
+                if tier_aboveou in tokens:
+                    fout_aboveou.write(line)
+                    count_aboveou=count_aboveou+1
+                if tier_belowou in tokens:
+                    fout_belowou.write(line)
+                    count_belowou=count_belowou+1
+                    
     
                 
-    print(f"There are {count} number of association rules that involve {tier}")
+    print(f"There are {count_ou} number of association rules that involve {tier_ou}")
+    print(f"There are {count_aboveou} number of association rules that involve {tier_aboveou}")
+    print(f"There are {count_belowou} number of association rules that involve {tier_belowou}")
     print(f"There are {len(rules)} distinguishable rules in...\n")
 
     return rules
@@ -202,12 +221,12 @@ BELOW_OU_POKES="pokeparse_belowou.txt"
 if __name__ == '__main__':
     #finput=sys.argv[1]
     #print(finput)
-    make_look_up_table("pokeparsetest.txt")
+    make_look_up_table("pokeparse_all.txt")
     #if finput==ALL_POKES:
         #pass
     #elif finput==OU_POKES:
     convert_ids_to_strings("output_intermediate.txt", "output_1.txt")
-    all_rules=filter_rules_in_tier("output_intermediate.txt", "ouput_final.txt", "OU")
+    all_rules=filter_rules_in_tier("output_intermediate.txt", "ouput_final", "OU")
 
     
     
