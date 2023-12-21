@@ -8,12 +8,27 @@ pokeparse_ou.txt contains only Pokemon within the OU tier, pokeparse_belowou.txt
 
 Frequent Pattern and Association Rule Mining
 ===
-Run the spmf.jar file to launch a gui to perform frequent pattern and association rule mining
-To perform closed frequent pattern mining, choose the algorithm FPClose found under Frequent Itemset Mining  
-To perform association rule mining, choose the algorithm Closed_association_rules(using_fpclose) found under Association Rule Mining
-For the input select any of the generated pokeparse.txt files  
-The output can be any txt file  
-Set the desired minsup and minconf then click on run algorithm to run the algorithm  
+
+Run the spmf.jar file to launch a gui to perform FP close frequent pattern and association closed rule using FP close mining
+
+To perform closed frequent pattern mining, choose the algorithm FPClose found under Frequent Itemset Mining. Set the desire minsup and name output file as wanted.
+
+To perform association rule mining:
++ Choose the algorithm Closed_association_rules(using_fpclose) found under Association Rule Mining
++ For the input select any of the generated pokeparse.txt files. e.g: pokeparse_all.txt for the dataset of all Pokemon, pokeparse_ou for the dataset only includes OU Pokemon, and similarly to pokeparse_aboveou.txt and pokeparse_belowou.txt
++ The output can be any txt file  
++ Set the desired minsup and minconf then click on run algorithm to run the algorithm  
+
+To perform Association closed rules with Apriori Inverse:
++ Go to src/spmf
++ Compile javac MainTestAllAssociationRules_AprioriInverse_saveToFile_withLift.java
++ Run ```java MainTestAllAssociationRules_AprioriInverse_saveToFile_withLift input_file_name minsup_value maxsup_value minconf_value min_lift_value output_1.txt```
+, for example: if we want to run the association closed perfect rare rules with minsup=0.004, maxsup=0.1, minconf=0.5 and minlift=1 on our entire dataset, we use:
+```
+java MainTestAllAssociationRules_AprioriInverse_saveToFile_withLift pokeparse_all.txt 0.004 0.1 0.5 1 output_1.txt
+```
++ Since output is saved in output file is in ID, run ```python3 convert_id_to_string.py``` to see the results in strings. The output is saved in output_final (for the entire output), output_final_ou.txt (for the rules in OU), similarly for output_final_aboveou.txt and output_final_belowou.txt. Note: output_patterns_string.txt is the output of the apriori inverse frequent items in string. 
+
 
 
 Datasets
