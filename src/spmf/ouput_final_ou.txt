@@ -1,0 +1,267 @@
+ ability:healer ==> tier:OU #SUP: 3 #CONF: 0.6 #LIFT: 6.85
+ ability:unaware ==> tier:OU #SUP: 3 #CONF: 0.6 #LIFT: 6.85
+ tier:OU ability:regenerator ==> type:Poison #SUP: 3 #CONF: 0.75 #LIFT: 8.807142857142859
+ type:Poison ability:regenerator ==> tier:OU #SUP: 3 #CONF: 0.75 #LIFT: 8.562499999999998
+ type:Poison tier:OU ==> ability:regenerator #SUP: 3 #CONF: 0.6 #LIFT: 22.418181818181818
+ tier:OU move:sludgebomb ==> type:Poison #SUP: 4 #CONF: 0.8 #LIFT: 9.394285714285715
+ type:Poison tier:OU ==> move:sludgebomb #SUP: 4 #CONF: 0.8 #LIFT: 8.219999999999999
+ tier:OU move:toxic ==> type:Poison #SUP: 4 #CONF: 1.0 #LIFT: 11.742857142857144
+ type:Poison tier:OU ==> move:toxic #SUP: 4 #CONF: 0.8 #LIFT: 8.652631578947368
+ tier:OU item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison tier:OU ==> item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 10.721739130434782
+ tier:OU move:stoneedge ==> type:Ground #SUP: 3 #CONF: 0.75 #LIFT: 9.632812499999998
+ type:Ground tier:OU ==> move:stoneedge #SUP: 3 #CONF: 0.75 #LIFT: 8.33108108108108
+ tier:OU move:hex ==> type:Ghost #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Ghost tier:OU ==> move:hex #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU bst:PseudoLegendary ==> type:Dragon #SUP: 3 #CONF: 0.5 #LIFT: 6.421875
+ type:Dragon tier:OU ==> bst:PseudoLegendary #SUP: 3 #CONF: 0.75 #LIFT: 12.329999999999998
+ tier:OU move:dracometeor ==> type:Dragon #SUP: 3 #CONF: 1.0 #LIFT: 12.84375
+ type:Dragon tier:OU ==> move:dracometeor #SUP: 3 #CONF: 0.75 #LIFT: 11.85576923076923
+ tier:OU move:drainingkiss ==> type:Fairy #SUP: 4 #CONF: 1.0 #LIFT: 14.678571428571429
+ type:Fairy tier:OU ==> move:drainingkiss #SUP: 4 #CONF: 0.8 #LIFT: 10.274999999999999
+ tier:OU move:moonblast ==> type:Fairy #SUP: 4 #CONF: 1.0 #LIFT: 14.678571428571429
+ type:Fairy tier:OU ==> move:moonblast #SUP: 4 #CONF: 0.8 #LIFT: 19.341176470588234
+ ability:regenerator move:sludgebomb ==> tier:OU #SUP: 3 #CONF: 0.75 #LIFT: 8.562499999999998
+ tier:OU move:sludgebomb ==> ability:regenerator #SUP: 3 #CONF: 0.6 #LIFT: 22.418181818181818
+ tier:OU ability:regenerator ==> move:sludgebomb #SUP: 3 #CONF: 0.75 #LIFT: 7.706249999999999
+ ability:regenerator move:toxic ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ tier:OU move:toxic ==> ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 28.022727272727273
+ tier:OU ability:regenerator ==> move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 8.111842105263158
+ ability:regenerator item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ tier:OU item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ tier:OU ability:regenerator ==> item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU move:moonblast ==> move:drainingkiss #SUP: 3 #CONF: 0.75 #LIFT: 9.632812499999998
+ tier:OU move:drainingkiss ==> move:moonblast #SUP: 3 #CONF: 0.75 #LIFT: 18.13235294117647
+ tier:OU move:toxic ==> move:sludgebomb #SUP: 4 #CONF: 1.0 #LIFT: 10.274999999999999
+ tier:OU move:sludgebomb ==> move:toxic #SUP: 4 #CONF: 0.8 #LIFT: 8.652631578947368
+ tier:OU item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ tier:OU move:sludgebomb ==> item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 10.721739130434782
+ tier:OU item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ tier:OU move:toxic ==> item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU ability:regenerator move:sludgebomb ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator move:sludgebomb ==> tier:OU #SUP: 3 #CONF: 0.75 #LIFT: 8.562499999999998
+ type:Poison tier:OU move:sludgebomb ==> ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 28.022727272727273
+ type:Poison tier:OU ability:regenerator ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ ability:regenerator move:sludgebomb ==> type:Poison tier:OU #SUP: 3 #CONF: 0.75 #LIFT: 61.64999999999999
+ tier:OU move:sludgebomb ==> type:Poison ability:regenerator #SUP: 3 #CONF: 0.6 #LIFT: 61.64999999999999
+ tier:OU ability:regenerator ==> type:Poison move:sludgebomb #SUP: 3 #CONF: 0.75 #LIFT: 15.412499999999998
+ type:Poison ability:regenerator ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 0.75 #LIFT: 61.64999999999999
+ type:Poison tier:OU ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 0.6 #LIFT: 61.64999999999999
+ tier:OU ability:regenerator move:toxic ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator move:toxic ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Poison tier:OU move:toxic ==> ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 28.022727272727273
+ type:Poison tier:OU ability:regenerator ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ ability:regenerator move:toxic ==> type:Poison tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ tier:OU move:toxic ==> type:Poison ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ tier:OU ability:regenerator ==> type:Poison move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 11.85576923076923
+ type:Poison ability:regenerator ==> tier:OU move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ type:Poison tier:OU ==> ability:regenerator move:toxic #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Poison tier:OU item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ type:Poison tier:OU ability:regenerator ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator item:blacksludge ==> type:Poison tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ tier:OU item:blacksludge ==> type:Poison ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU ability:regenerator ==> type:Poison item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ type:Poison ability:regenerator ==> tier:OU item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU move:sludgebomb move:toxic ==> type:Poison #SUP: 4 #CONF: 1.0 #LIFT: 11.742857142857144
+ type:Poison tier:OU move:toxic ==> move:sludgebomb #SUP: 4 #CONF: 1.0 #LIFT: 10.274999999999999
+ type:Poison tier:OU move:sludgebomb ==> move:toxic #SUP: 4 #CONF: 1.0 #LIFT: 10.81578947368421
+ tier:OU move:toxic ==> type:Poison move:sludgebomb #SUP: 4 #CONF: 1.0 #LIFT: 20.549999999999997
+ tier:OU move:sludgebomb ==> type:Poison move:toxic #SUP: 4 #CONF: 0.8 #LIFT: 12.646153846153846
+ type:Poison tier:OU ==> move:sludgebomb move:toxic #SUP: 4 #CONF: 0.8 #LIFT: 18.266666666666666
+ tier:OU move:sludgebomb item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison tier:OU item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ type:Poison tier:OU move:sludgebomb ==> item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU item:blacksludge ==> type:Poison move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 20.549999999999997
+ tier:OU move:sludgebomb ==> type:Poison item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 10.721739130434782
+ type:Poison tier:OU ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 20.549999999999997
+ tier:OU move:toxic item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison tier:OU item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ type:Poison tier:OU move:toxic ==> item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU item:blacksludge ==> type:Poison move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 15.807692307692307
+ tier:OU move:toxic ==> type:Poison item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ type:Poison tier:OU ==> move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 11.74285714285714
+ tier:OU move:drainingkiss move:moonblast ==> type:Fairy #SUP: 3 #CONF: 1.0 #LIFT: 14.67857142857143
+ type:Fairy tier:OU move:moonblast ==> move:drainingkiss #SUP: 3 #CONF: 0.75 #LIFT: 9.632812499999998
+ type:Fairy tier:OU move:drainingkiss ==> move:moonblast #SUP: 3 #CONF: 0.75 #LIFT: 18.13235294117647
+ tier:OU move:moonblast ==> type:Fairy move:drainingkiss #SUP: 3 #CONF: 0.75 #LIFT: 22.017857142857142
+ tier:OU move:drainingkiss ==> type:Fairy move:moonblast #SUP: 3 #CONF: 0.75 #LIFT: 23.71153846153846
+ type:Fairy tier:OU ==> move:drainingkiss move:moonblast #SUP: 3 #CONF: 0.6 #LIFT: 27.4
+ ability:regenerator move:sludgebomb move:toxic ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ tier:OU move:sludgebomb move:toxic ==> ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 28.022727272727273
+ tier:OU ability:regenerator move:toxic ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ tier:OU ability:regenerator move:sludgebomb ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ ability:regenerator move:toxic ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ ability:regenerator move:sludgebomb ==> tier:OU move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ tier:OU move:toxic ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ tier:OU move:sludgebomb ==> ability:regenerator move:toxic #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator ==> move:sludgebomb move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 17.124999999999996
+ ability:regenerator move:sludgebomb item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ tier:OU move:sludgebomb item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ tier:OU ability:regenerator item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ tier:OU ability:regenerator move:sludgebomb ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator item:blacksludge ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ ability:regenerator move:sludgebomb ==> tier:OU item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU item:blacksludge ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU move:sludgebomb ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ ability:regenerator move:toxic item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ tier:OU move:toxic item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ tier:OU ability:regenerator item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ tier:OU ability:regenerator move:toxic ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator item:blacksludge ==> tier:OU move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:toxic ==> tier:OU item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU item:blacksludge ==> ability:regenerator move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:toxic ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU ability:regenerator ==> move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 14.678571428571427
+ tier:OU move:toxic item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ tier:OU move:sludgebomb item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ tier:OU move:sludgebomb move:toxic ==> item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU item:blacksludge ==> move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 22.833333333333332
+ tier:OU move:toxic ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ tier:OU move:sludgebomb ==> move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 11.74285714285714
+ tier:OU ability:regenerator move:sludgebomb move:toxic ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator move:sludgebomb move:toxic ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Poison tier:OU move:sludgebomb move:toxic ==> ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 28.022727272727273
+ type:Poison tier:OU ability:regenerator move:toxic ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ type:Poison tier:OU ability:regenerator move:sludgebomb ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ ability:regenerator move:sludgebomb move:toxic ==> type:Poison tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ tier:OU move:sludgebomb move:toxic ==> type:Poison ability:regenerator #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ tier:OU ability:regenerator move:toxic ==> type:Poison move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 20.549999999999997
+ tier:OU ability:regenerator move:sludgebomb ==> type:Poison move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 15.807692307692307
+ type:Poison ability:regenerator move:toxic ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ type:Poison ability:regenerator move:sludgebomb ==> tier:OU move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ type:Poison tier:OU move:toxic ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ type:Poison tier:OU move:sludgebomb ==> ability:regenerator move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ability:regenerator ==> move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 22.833333333333332
+ ability:regenerator move:toxic ==> type:Poison tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:sludgebomb ==> type:Poison tier:OU move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ tier:OU move:toxic ==> type:Poison ability:regenerator move:sludgebomb #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ tier:OU move:sludgebomb ==> type:Poison ability:regenerator move:toxic #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator ==> type:Poison move:sludgebomb move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 20.55
+ type:Poison ability:regenerator ==> tier:OU move:sludgebomb move:toxic #SUP: 3 #CONF: 0.75 #LIFT: 77.06249999999999
+ type:Poison tier:OU ==> ability:regenerator move:sludgebomb move:toxic #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator move:sludgebomb item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator move:sludgebomb item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Poison tier:OU move:sludgebomb item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ type:Poison tier:OU ability:regenerator item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ type:Poison tier:OU ability:regenerator move:sludgebomb ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator move:sludgebomb item:blacksludge ==> type:Poison tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ tier:OU move:sludgebomb item:blacksludge ==> type:Poison ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU ability:regenerator item:blacksludge ==> type:Poison move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 20.549999999999997
+ tier:OU ability:regenerator move:sludgebomb ==> type:Poison item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ type:Poison ability:regenerator item:blacksludge ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ type:Poison ability:regenerator move:sludgebomb ==> tier:OU item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU item:blacksludge ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ type:Poison tier:OU move:sludgebomb ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ability:regenerator ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 34.25
+ ability:regenerator item:blacksludge ==> type:Poison tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:sludgebomb ==> type:Poison tier:OU item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU item:blacksludge ==> type:Poison ability:regenerator move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU move:sludgebomb ==> type:Poison ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator ==> type:Poison move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ type:Poison ability:regenerator ==> tier:OU move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ==> ability:regenerator move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator move:toxic item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator move:toxic item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Poison tier:OU move:toxic item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ type:Poison tier:OU ability:regenerator item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ type:Poison tier:OU ability:regenerator move:toxic ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator move:toxic item:blacksludge ==> type:Poison tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ tier:OU move:toxic item:blacksludge ==> type:Poison ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU ability:regenerator item:blacksludge ==> type:Poison move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 15.807692307692307
+ tier:OU ability:regenerator move:toxic ==> type:Poison item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ type:Poison ability:regenerator item:blacksludge ==> tier:OU move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ type:Poison ability:regenerator move:toxic ==> tier:OU item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ type:Poison tier:OU item:blacksludge ==> ability:regenerator move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ type:Poison tier:OU move:toxic ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ability:regenerator ==> move:toxic item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 19.57142857142857
+ ability:regenerator item:blacksludge ==> type:Poison tier:OU move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:toxic ==> type:Poison tier:OU item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU item:blacksludge ==> type:Poison ability:regenerator move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:toxic ==> type:Poison ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU ability:regenerator ==> type:Poison move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 14.678571428571427
+ type:Poison ability:regenerator ==> tier:OU move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ==> ability:regenerator move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU move:sludgebomb move:toxic item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison tier:OU move:toxic item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ type:Poison tier:OU move:sludgebomb item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ type:Poison tier:OU move:sludgebomb move:toxic ==> item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ tier:OU move:toxic item:blacksludge ==> type:Poison move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 20.549999999999997
+ tier:OU move:sludgebomb item:blacksludge ==> type:Poison move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 15.807692307692307
+ tier:OU move:sludgebomb move:toxic ==> type:Poison item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 13.402173913043477
+ type:Poison tier:OU item:blacksludge ==> move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 22.833333333333332
+ type:Poison tier:OU move:toxic ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ type:Poison tier:OU move:sludgebomb ==> move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 14.678571428571427
+ tier:OU item:blacksludge ==> type:Poison move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 27.400000000000002
+ tier:OU move:toxic ==> type:Poison move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ tier:OU move:sludgebomb ==> type:Poison move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 11.74285714285714
+ type:Poison tier:OU ==> move:sludgebomb move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 20.549999999999997
+ ability:regenerator move:sludgebomb move:toxic item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ tier:OU move:sludgebomb move:toxic item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ tier:OU ability:regenerator move:toxic item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ tier:OU ability:regenerator move:sludgebomb item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ tier:OU ability:regenerator move:sludgebomb move:toxic ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator move:toxic item:blacksludge ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ ability:regenerator move:sludgebomb item:blacksludge ==> tier:OU move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:sludgebomb move:toxic ==> tier:OU item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:toxic item:blacksludge ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU move:sludgebomb item:blacksludge ==> ability:regenerator move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:sludgebomb move:toxic ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU ability:regenerator item:blacksludge ==> move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 22.833333333333332
+ tier:OU ability:regenerator move:toxic ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 34.25
+ tier:OU ability:regenerator move:sludgebomb ==> move:toxic item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 19.57142857142857
+ ability:regenerator item:blacksludge ==> tier:OU move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:toxic ==> tier:OU move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ ability:regenerator move:sludgebomb ==> tier:OU move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU item:blacksludge ==> ability:regenerator move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:toxic ==> ability:regenerator move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU move:sludgebomb ==> ability:regenerator move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator ==> move:sludgebomb move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ tier:OU ability:regenerator move:sludgebomb move:toxic item:blacksludge ==> type:Poison #SUP: 3 #CONF: 1.0 #LIFT: 11.742857142857142
+ type:Poison ability:regenerator move:sludgebomb move:toxic item:blacksludge ==> tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 11.416666666666666
+ type:Poison tier:OU move:sludgebomb move:toxic item:blacksludge ==> ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 37.36363636363637
+ type:Poison tier:OU ability:regenerator move:toxic item:blacksludge ==> move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 10.274999999999999
+ type:Poison tier:OU ability:regenerator move:sludgebomb item:blacksludge ==> move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 10.81578947368421
+ type:Poison tier:OU ability:regenerator move:sludgebomb move:toxic ==> item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ ability:regenerator move:sludgebomb move:toxic item:blacksludge ==> type:Poison tier:OU #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ tier:OU move:sludgebomb move:toxic item:blacksludge ==> type:Poison ability:regenerator #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU ability:regenerator move:toxic item:blacksludge ==> type:Poison move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 20.549999999999997
+ tier:OU ability:regenerator move:sludgebomb item:blacksludge ==> type:Poison move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 15.807692307692307
+ tier:OU ability:regenerator move:sludgebomb move:toxic ==> type:Poison item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 17.869565217391305
+ type:Poison ability:regenerator move:toxic item:blacksludge ==> tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 82.19999999999999
+ type:Poison ability:regenerator move:sludgebomb item:blacksludge ==> tier:OU move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ type:Poison ability:regenerator move:sludgebomb move:toxic ==> tier:OU item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ type:Poison tier:OU move:toxic item:blacksludge ==> ability:regenerator move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ type:Poison tier:OU move:sludgebomb item:blacksludge ==> ability:regenerator move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ type:Poison tier:OU move:sludgebomb move:toxic ==> ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ability:regenerator item:blacksludge ==> move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 22.833333333333332
+ type:Poison tier:OU ability:regenerator move:toxic ==> move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 34.25
+ type:Poison tier:OU ability:regenerator move:sludgebomb ==> move:toxic item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 19.57142857142857
+ ability:regenerator move:toxic item:blacksludge ==> type:Poison tier:OU move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:sludgebomb item:blacksludge ==> type:Poison tier:OU move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:sludgebomb move:toxic ==> type:Poison tier:OU item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:toxic item:blacksludge ==> type:Poison ability:regenerator move:sludgebomb #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ tier:OU move:sludgebomb item:blacksludge ==> type:Poison ability:regenerator move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:sludgebomb move:toxic ==> type:Poison ability:regenerator item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU ability:regenerator item:blacksludge ==> type:Poison move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 27.400000000000002
+ tier:OU ability:regenerator move:toxic ==> type:Poison move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 34.25
+ tier:OU ability:regenerator move:sludgebomb ==> type:Poison move:toxic item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 19.57142857142857
+ type:Poison ability:regenerator item:blacksludge ==> tier:OU move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ type:Poison ability:regenerator move:toxic ==> tier:OU move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ type:Poison ability:regenerator move:sludgebomb ==> tier:OU move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU item:blacksludge ==> ability:regenerator move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ type:Poison tier:OU move:toxic ==> ability:regenerator move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU move:sludgebomb ==> ability:regenerator move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ability:regenerator ==> move:sludgebomb move:toxic item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 34.25
+ ability:regenerator item:blacksludge ==> type:Poison tier:OU move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 102.75
+ ability:regenerator move:toxic ==> type:Poison tier:OU move:sludgebomb item:blacksludge #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ ability:regenerator move:sludgebomb ==> type:Poison tier:OU move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU item:blacksludge ==> type:Poison ability:regenerator move:sludgebomb move:toxic #SUP: 3 #CONF: 1.0 #LIFT: 137.0
+ tier:OU move:toxic ==> type:Poison ability:regenerator move:sludgebomb item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ tier:OU move:sludgebomb ==> type:Poison ability:regenerator move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999
+ tier:OU ability:regenerator ==> type:Poison move:sludgebomb move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 25.6875
+ type:Poison ability:regenerator ==> tier:OU move:sludgebomb move:toxic item:blacksludge #SUP: 3 #CONF: 0.75 #LIFT: 102.75
+ type:Poison tier:OU ==> ability:regenerator move:sludgebomb move:toxic item:blacksludge #SUP: 3 #CONF: 0.6 #LIFT: 82.19999999999999

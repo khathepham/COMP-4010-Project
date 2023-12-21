@@ -1,0 +1,1579 @@
+@CONVERTED_FROM_TEXT
+@ITEM=1=type:Normal
+@ITEM=2=type:Fire
+@ITEM=3=type:Water
+@ITEM=4=type:Grass
+@ITEM=5=type:Electric
+@ITEM=6=type:Ice
+@ITEM=7=type:Fighting
+@ITEM=8=type:Poison
+@ITEM=9=type:Ground
+@ITEM=10=type:Flying
+@ITEM=11=type:Psychic
+@ITEM=12=type:Bug
+@ITEM=13=type:Rock
+@ITEM=14=type:Ghost
+@ITEM=15=type:Dragon
+@ITEM=16=type:Dark
+@ITEM=17=type:Steel
+@ITEM=18=type:Fairy
+@ITEM=19=tier:AboveOU
+@ITEM=20=tier:OU
+@ITEM=21=tier:BelowOU
+@ITEM=22=bst:Legendary
+@ITEM=23=bst:PseudoLegendary
+@ITEM=24=bst:HighBST
+@ITEM=25=bst:MidBST
+@ITEM=26=bst:LowBST
+@ITEM=27=bst:VeryLowBST
+@ITEM=28=stat:LegendStat-hp
+@ITEM=29=stat:HighStat-hp
+@ITEM=30=stat:MidStat-hp
+@ITEM=31=stat:LowStat-hp
+@ITEM=32=stat:VeryLowStat-hp
+@ITEM=33=stat:LegendStat-atk
+@ITEM=34=stat:HighStat-atk
+@ITEM=35=stat:MidStat-atk
+@ITEM=36=stat:LowStat-atk
+@ITEM=37=stat:VeryLowStat-atk
+@ITEM=38=stat:LegendStat-def
+@ITEM=39=stat:HighStat-def
+@ITEM=40=stat:MidStat-def
+@ITEM=41=stat:LowStat-def
+@ITEM=42=stat:VeryLowStat-def
+@ITEM=43=stat:LegendStat-spa
+@ITEM=44=stat:HighStat-spa
+@ITEM=45=stat:MidStat-spa
+@ITEM=46=stat:LowStat-spa
+@ITEM=47=stat:VeryLowStat-spa
+@ITEM=48=stat:LegendStat-spd
+@ITEM=49=stat:HighStat-spd
+@ITEM=50=stat:MidStat-spd
+@ITEM=51=stat:LowStat-spd
+@ITEM=52=stat:VeryLowStat-spd
+@ITEM=53=stat:LegendStat-spe
+@ITEM=54=stat:HighStat-spe
+@ITEM=55=stat:MidStat-spe
+@ITEM=56=stat:LowStat-spe
+@ITEM=57=stat:VeryLowStat-spe
+@ITEM=58=ability:adaptability
+@ITEM=59=ability:aftermath
+@ITEM=60=ability:airlock
+@ITEM=61=ability:analytic
+@ITEM=62=ability:angerpoint
+@ITEM=63=ability:angershell
+@ITEM=64=ability:anticipation
+@ITEM=65=ability:arenatrap
+@ITEM=66=ability:armortail
+@ITEM=67=ability:aromaveil
+@ITEM=68=ability:asoneglastrier
+@ITEM=69=ability:asonespectrier
+@ITEM=70=ability:baddreams
+@ITEM=71=ability:battery
+@ITEM=72=ability:battlearmor
+@ITEM=73=ability:battlebond
+@ITEM=74=ability:beadsofruin
+@ITEM=75=ability:berserk
+@ITEM=76=ability:bigpecks
+@ITEM=77=ability:blaze
+@ITEM=78=ability:bulletproof
+@ITEM=79=ability:cheekpouch
+@ITEM=80=ability:chillingneigh
+@ITEM=81=ability:chlorophyll
+@ITEM=82=ability:clearbody
+@ITEM=83=ability:cloudnine
+@ITEM=84=ability:comatose
+@ITEM=85=ability:commander
+@ITEM=86=ability:competitive
+@ITEM=87=ability:compoundeyes
+@ITEM=88=ability:contrary
+@ITEM=89=ability:corrosion
+@ITEM=90=ability:costar
+@ITEM=91=ability:cudchew
+@ITEM=92=ability:curiousmedicine
+@ITEM=93=ability:cursedbody
+@ITEM=94=ability:cutecharm
+@ITEM=95=ability:damp
+@ITEM=96=ability:dancer
+@ITEM=97=ability:dauntlessshield
+@ITEM=98=ability:dazzling
+@ITEM=99=ability:defiant
+@ITEM=100=ability:disguise
+@ITEM=101=ability:dragonsmaw
+@ITEM=102=ability:drizzle
+@ITEM=103=ability:drought
+@ITEM=104=ability:dryskin
+@ITEM=105=ability:earlybird
+@ITEM=106=ability:eartheater
+@ITEM=107=ability:effectspore
+@ITEM=108=ability:electricsurge
+@ITEM=109=ability:electromorphosis
+@ITEM=110=ability:filter
+@ITEM=111=ability:flamebody
+@ITEM=112=ability:flareboost
+@ITEM=113=ability:flashfire
+@ITEM=114=ability:flowerveil
+@ITEM=115=ability:fluffy
+@ITEM=116=ability:forewarn
+@ITEM=117=ability:friendguard
+@ITEM=118=ability:frisk
+@ITEM=119=ability:furcoat
+@ITEM=120=ability:galewings
+@ITEM=121=ability:galvanize
+@ITEM=122=ability:gluttony
+@ITEM=123=ability:goodasgold
+@ITEM=124=ability:gooey
+@ITEM=125=ability:grasspelt
+@ITEM=126=ability:grassysurge
+@ITEM=127=ability:grimneigh
+@ITEM=128=ability:guarddog
+@ITEM=129=ability:gulpmissile
+@ITEM=130=ability:guts
+@ITEM=131=ability:hadronengine
+@ITEM=132=ability:harvest
+@ITEM=133=ability:healer
+@ITEM=134=ability:heatproof
+@ITEM=135=ability:heavymetal
+@ITEM=136=ability:honeygather
+@ITEM=137=ability:hospitality
+@ITEM=138=ability:hugepower
+@ITEM=139=ability:hungerswitch
+@ITEM=140=ability:hustle
+@ITEM=141=ability:hydration
+@ITEM=142=ability:hypercutter
+@ITEM=143=ability:icebody
+@ITEM=144=ability:iceface
+@ITEM=145=ability:icescales
+@ITEM=146=ability:illuminate
+@ITEM=147=ability:illusion
+@ITEM=148=ability:immunity
+@ITEM=149=ability:imposter
+@ITEM=150=ability:infiltrator
+@ITEM=151=ability:innerfocus
+@ITEM=152=ability:insomnia
+@ITEM=153=ability:intimidate
+@ITEM=154=ability:intrepidsword
+@ITEM=155=ability:ironfist
+@ITEM=156=ability:justified
+@ITEM=157=ability:keeneye
+@ITEM=158=ability:leafguard
+@ITEM=159=ability:levitate
+@ITEM=160=ability:libero
+@ITEM=161=ability:lightmetal
+@ITEM=162=ability:lightningrod
+@ITEM=163=ability:limber
+@ITEM=164=ability:lingeringaroma
+@ITEM=165=ability:liquidooze
+@ITEM=166=ability:longreach
+@ITEM=167=ability:magicbounce
+@ITEM=168=ability:magicguard
+@ITEM=169=ability:magician
+@ITEM=170=ability:magmaarmor
+@ITEM=171=ability:magnetpull
+@ITEM=172=ability:marvelscale
+@ITEM=173=ability:megalauncher
+@ITEM=174=ability:merciless
+@ITEM=175=ability:mindseye
+@ITEM=176=ability:minus
+@ITEM=177=ability:mirrorarmor
+@ITEM=178=ability:mistysurge
+@ITEM=179=ability:moldbreaker
+@ITEM=180=ability:moody
+@ITEM=181=ability:moxie
+@ITEM=182=ability:multiscale
+@ITEM=183=ability:multitype
+@ITEM=184=ability:myceliummight
+@ITEM=185=ability:naturalcure
+@ITEM=186=ability:neutralizinggas
+@ITEM=187=ability:noguard
+@ITEM=188=ability:oblivious
+@ITEM=189=ability:opportunist
+@ITEM=190=ability:orichalcumpulse
+@ITEM=191=ability:overcoat
+@ITEM=192=ability:overgrow
+@ITEM=193=ability:owntempo
+@ITEM=194=ability:pickpocket
+@ITEM=195=ability:pickup
+@ITEM=196=ability:pixilate
+@ITEM=197=ability:plus
+@ITEM=198=ability:poisonheal
+@ITEM=199=ability:poisonpoint
+@ITEM=200=ability:poisontouch
+@ITEM=201=ability:powerofalchemy
+@ITEM=202=ability:powerspot
+@ITEM=203=ability:prankster
+@ITEM=204=ability:pressure
+@ITEM=205=ability:propellertail
+@ITEM=206=ability:protean
+@ITEM=207=ability:protosynthesis
+@ITEM=208=ability:psychicsurge
+@ITEM=209=ability:punkrock
+@ITEM=210=ability:purepower
+@ITEM=211=ability:purifyingsalt
+@ITEM=212=ability:quarkdrive
+@ITEM=213=ability:queenlymajesty
+@ITEM=214=ability:quickdraw
+@ITEM=215=ability:quickfeet
+@ITEM=216=ability:raindish
+@ITEM=217=ability:rattled
+@ITEM=218=ability:receiver
+@ITEM=219=ability:reckless
+@ITEM=220=ability:regenerator
+@ITEM=221=ability:ripen
+@ITEM=222=ability:rivalry
+@ITEM=223=ability:rockhead
+@ITEM=224=ability:rockypayload
+@ITEM=225=ability:roughskin
+@ITEM=226=ability:runaway
+@ITEM=227=ability:sandforce
+@ITEM=228=ability:sandrush
+@ITEM=229=ability:sandspit
+@ITEM=230=ability:sandstream
+@ITEM=231=ability:sandveil
+@ITEM=232=ability:sapsipper
+@ITEM=233=ability:scrappy
+@ITEM=234=ability:seedsower
+@ITEM=235=ability:serenegrace
+@ITEM=236=ability:shadowtag
+@ITEM=237=ability:sharpness
+@ITEM=238=ability:shedskin
+@ITEM=239=ability:sheerforce
+@ITEM=240=ability:shellarmor
+@ITEM=241=ability:shielddust
+@ITEM=242=ability:simple
+@ITEM=243=ability:skilllink
+@ITEM=244=ability:slushrush
+@ITEM=245=ability:sniper
+@ITEM=246=ability:snowcloak
+@ITEM=247=ability:snowwarning
+@ITEM=248=ability:solarpower
+@ITEM=249=ability:solidrock
+@ITEM=250=ability:soulheart
+@ITEM=251=ability:soundproof
+@ITEM=252=ability:speedboost
+@ITEM=253=ability:stakeout
+@ITEM=254=ability:stall
+@ITEM=255=ability:stamina
+@ITEM=256=ability:static
+@ITEM=257=ability:steadfast
+@ITEM=258=ability:steamengine
+@ITEM=259=ability:steelyspirit
+@ITEM=260=ability:stench
+@ITEM=261=ability:stickyhold
+@ITEM=262=ability:stormdrain
+@ITEM=263=ability:strongjaw
+@ITEM=264=ability:sturdy
+@ITEM=265=ability:superluck
+@ITEM=266=ability:supersweetsyrup
+@ITEM=267=ability:supremeoverlord
+@ITEM=268=ability:surgesurfer
+@ITEM=269=ability:swarm
+@ITEM=270=ability:sweetveil
+@ITEM=271=ability:swiftswim
+@ITEM=272=ability:swordofruin
+@ITEM=273=ability:symbiosis
+@ITEM=274=ability:synchronize
+@ITEM=275=ability:tabletsofruin
+@ITEM=276=ability:tangledfeet
+@ITEM=277=ability:tanglinghair
+@ITEM=278=ability:technician
+@ITEM=279=ability:telepathy
+@ITEM=280=ability:thermalexchange
+@ITEM=281=ability:thickfat
+@ITEM=282=ability:tintedlens
+@ITEM=283=ability:torrent
+@ITEM=284=ability:toughclaws
+@ITEM=285=ability:toxicboost
+@ITEM=286=ability:toxicchain
+@ITEM=287=ability:toxicdebris
+@ITEM=288=ability:trace
+@ITEM=289=ability:transistor
+@ITEM=290=ability:truant
+@ITEM=291=ability:unaware
+@ITEM=292=ability:unburden
+@ITEM=293=ability:unnerve
+@ITEM=294=ability:unseenfist
+@ITEM=295=ability:vesselofruin
+@ITEM=296=ability:vitalspirit
+@ITEM=297=ability:voltabsorb
+@ITEM=298=ability:waterabsorb
+@ITEM=299=ability:watercompaction
+@ITEM=300=ability:waterveil
+@ITEM=301=ability:weakarmor
+@ITEM=302=ability:wellbakedbody
+@ITEM=303=ability:whitesmoke
+@ITEM=304=ability:windpower
+@ITEM=305=ability:windrider
+@ITEM=306=ability:wonderskin
+@ITEM=307=ability:zerotohero
+@ITEM=308=move:
+@ITEM=309=move:absorb
+@ITEM=310=move:accelerock
+@ITEM=311=move:acid
+@ITEM=312=move:acidarmor
+@ITEM=313=move:acidspray
+@ITEM=314=move:acrobatics
+@ITEM=315=move:acupressure
+@ITEM=316=move:aerialace
+@ITEM=317=move:afteryou
+@ITEM=318=move:agility
+@ITEM=319=move:aircutter
+@ITEM=320=move:airslash
+@ITEM=321=move:allyswitch
+@ITEM=322=move:amnesia
+@ITEM=323=move:ancientpower
+@ITEM=324=move:appleacid
+@ITEM=325=move:aquacutter
+@ITEM=326=move:aquajet
+@ITEM=327=move:aquaring
+@ITEM=328=move:aquastep
+@ITEM=329=move:aquatail
+@ITEM=330=move:armorcannon
+@ITEM=331=move:armthrust
+@ITEM=332=move:aromaticmist
+@ITEM=333=move:assurance
+@ITEM=334=move:astonish
+@ITEM=335=move:astralbarrage
+@ITEM=336=move:attackorder
+@ITEM=337=move:attract
+@ITEM=338=move:aurasphere
+@ITEM=339=move:aurawheel
+@ITEM=340=move:aurorabeam
+@ITEM=341=move:auroraveil
+@ITEM=342=move:avalanche
+@ITEM=343=move:axekick
+@ITEM=344=move:babydolleyes
+@ITEM=345=move:banefulbunker
+@ITEM=346=move:barbbarrage
+@ITEM=347=move:batonpass
+@ITEM=348=move:beatup
+@ITEM=349=move:belch
+@ITEM=350=move:bellydrum
+@ITEM=351=move:bind
+@ITEM=352=move:bite
+@ITEM=353=move:bitterblade
+@ITEM=354=move:bittermalice
+@ITEM=355=move:blastburn
+@ITEM=356=move:bleakwindstorm
+@ITEM=357=move:blizzard
+@ITEM=358=move:block
+@ITEM=359=move:bloodmoon
+@ITEM=360=move:bodypress
+@ITEM=361=move:bodyslam
+@ITEM=362=move:bonerush
+@ITEM=363=move:boomburst
+@ITEM=364=move:bounce
+@ITEM=365=move:branchpoke
+@ITEM=366=move:bravebird
+@ITEM=367=move:breakingswipe
+@ITEM=368=move:brickbreak
+@ITEM=369=move:brine
+@ITEM=370=move:brutalswing
+@ITEM=371=move:bubblebeam
+@ITEM=372=move:bugbite
+@ITEM=373=move:bugbuzz
+@ITEM=374=move:bulkup
+@ITEM=375=move:bulldoze
+@ITEM=376=move:bulletpunch
+@ITEM=377=move:bulletseed
+@ITEM=378=move:burningjealousy
+@ITEM=379=move:calmmind
+@ITEM=380=move:ceaselessedge
+@ITEM=381=move:celebrate
+@ITEM=382=move:charge
+@ITEM=383=move:chargebeam
+@ITEM=384=move:charm
+@ITEM=385=move:chillingwater
+@ITEM=386=move:chillyreception
+@ITEM=387=move:chloroblast
+@ITEM=388=move:circlethrow
+@ITEM=389=move:clangingscales
+@ITEM=390=move:clangoroussoul
+@ITEM=391=move:clearsmog
+@ITEM=392=move:closecombat
+@ITEM=393=move:coil
+@ITEM=394=move:collisioncourse
+@ITEM=395=move:comeuppance
+@ITEM=396=move:confide
+@ITEM=397=move:confuseray
+@ITEM=398=move:confusion
+@ITEM=399=move:copycat
+@ITEM=400=move:cosmicpower
+@ITEM=401=move:cottonguard
+@ITEM=402=move:cottonspore
+@ITEM=403=move:counter
+@ITEM=404=move:courtchange
+@ITEM=405=move:covet
+@ITEM=406=move:crabhammer
+@ITEM=407=move:crosschop
+@ITEM=408=move:crosspoison
+@ITEM=409=move:crunch
+@ITEM=410=move:crushclaw
+@ITEM=411=move:curse
+@ITEM=412=move:darkpulse
+@ITEM=413=move:darkvoid
+@ITEM=414=move:dazzlinggleam
+@ITEM=415=move:defendorder
+@ITEM=416=move:defensecurl
+@ITEM=417=move:defog
+@ITEM=418=move:destinybond
+@ITEM=419=move:detect
+@ITEM=420=move:diamondstorm
+@ITEM=421=move:dig
+@ITEM=422=move:direclaw
+@ITEM=423=move:disable
+@ITEM=424=move:disarmingvoice
+@ITEM=425=move:discharge
+@ITEM=426=move:dive
+@ITEM=427=move:doodle
+@ITEM=428=move:doomdesire
+@ITEM=429=move:doubleedge
+@ITEM=430=move:doublehit
+@ITEM=431=move:doublekick
+@ITEM=432=move:doubleshock
+@ITEM=433=move:doubleteam
+@ITEM=434=move:dracometeor
+@ITEM=435=move:dragonascent
+@ITEM=436=move:dragonbreath
+@ITEM=437=move:dragonclaw
+@ITEM=438=move:dragondance
+@ITEM=439=move:dragondarts
+@ITEM=440=move:dragonenergy
+@ITEM=441=move:dragonpulse
+@ITEM=442=move:dragonrush
+@ITEM=443=move:dragontail
+@ITEM=444=move:drainingkiss
+@ITEM=445=move:drainpunch
+@ITEM=446=move:dreameater
+@ITEM=447=move:drillpeck
+@ITEM=448=move:drillrun
+@ITEM=449=move:drumbeating
+@ITEM=450=move:dualwingbeat
+@ITEM=451=move:dynamaxcannon
+@ITEM=452=move:dynamicpunch
+@ITEM=453=move:earthpower
+@ITEM=454=move:earthquake
+@ITEM=455=move:echoedvoice
+@ITEM=456=move:eerieimpulse
+@ITEM=457=move:eeriespell
+@ITEM=458=move:electricterrain
+@ITEM=459=move:electroball
+@ITEM=460=move:electrodrift
+@ITEM=461=move:electroweb
+@ITEM=462=move:ember
+@ITEM=463=move:encore
+@ITEM=464=move:endeavor
+@ITEM=465=move:endure
+@ITEM=466=move:energyball
+@ITEM=467=move:entrainment
+@ITEM=468=move:eruption
+@ITEM=469=move:esperwing
+@ITEM=470=move:expandingforce
+@ITEM=471=move:explosion
+@ITEM=472=move:extrasensory
+@ITEM=473=move:extremespeed
+@ITEM=474=move:facade
+@ITEM=475=move:fairylock
+@ITEM=476=move:fairywind
+@ITEM=477=move:fakeout
+@ITEM=478=move:faketears
+@ITEM=479=move:falsesurrender
+@ITEM=480=move:falseswipe
+@ITEM=481=move:featherdance
+@ITEM=482=move:feint
+@ITEM=483=move:fellstinger
+@ITEM=484=move:fierydance
+@ITEM=485=move:fierywrath
+@ITEM=486=move:filletaway
+@ITEM=487=move:finalgambit
+@ITEM=488=move:fireblast
+@ITEM=489=move:firefang
+@ITEM=490=move:firelash
+@ITEM=491=move:firepledge
+@ITEM=492=move:firepunch
+@ITEM=493=move:firespin
+@ITEM=494=move:firstimpression
+@ITEM=495=move:fissure
+@ITEM=496=move:flail
+@ITEM=497=move:flamecharge
+@ITEM=498=move:flamethrower
+@ITEM=499=move:flamewheel
+@ITEM=500=move:flareblitz
+@ITEM=501=move:flashcannon
+@ITEM=502=move:flatter
+@ITEM=503=move:fleurcannon
+@ITEM=504=move:fling
+@ITEM=505=move:flipturn
+@ITEM=506=move:flowertrick
+@ITEM=507=move:fly
+@ITEM=508=move:flyingpress
+@ITEM=509=move:focusblast
+@ITEM=510=move:focusenergy
+@ITEM=511=move:focuspunch
+@ITEM=512=move:followme
+@ITEM=513=move:forcepalm
+@ITEM=514=move:forestscurse
+@ITEM=515=move:foulplay
+@ITEM=516=move:freezedry
+@ITEM=517=move:freezingglare
+@ITEM=518=move:frenzyplant
+@ITEM=519=move:frostbreath
+@ITEM=520=move:furyattack
+@ITEM=521=move:furycutter
+@ITEM=522=move:furyswipes
+@ITEM=523=move:futuresight
+@ITEM=524=move:gastroacid
+@ITEM=525=move:gigadrain
+@ITEM=526=move:gigaimpact
+@ITEM=527=move:gigatonhammer
+@ITEM=528=move:glaciallance
+@ITEM=529=move:glaiverush
+@ITEM=530=move:glare
+@ITEM=531=move:grassknot
+@ITEM=532=move:grasspledge
+@ITEM=533=move:grassyglide
+@ITEM=534=move:grassyterrain
+@ITEM=535=move:gravapple
+@ITEM=536=move:gravity
+@ITEM=537=move:growl
+@ITEM=538=move:growth
+@ITEM=539=move:guardsplit
+@ITEM=540=move:guardswap
+@ITEM=541=move:guillotine
+@ITEM=542=move:gunkshot
+@ITEM=543=move:gust
+@ITEM=544=move:gyroball
+@ITEM=545=move:hammerarm
+@ITEM=546=move:happyhour
+@ITEM=547=move:harden
+@ITEM=548=move:haze
+@ITEM=549=move:headbutt
+@ITEM=550=move:headlongrush
+@ITEM=551=move:headsmash
+@ITEM=552=move:healbell
+@ITEM=553=move:healingwish
+@ITEM=554=move:healpulse
+@ITEM=555=move:heartswap
+@ITEM=556=move:heatcrash
+@ITEM=557=move:heatwave
+@ITEM=558=move:heavyslam
+@ITEM=559=move:helpinghand
+@ITEM=560=move:hex
+@ITEM=561=move:highhorsepower
+@ITEM=562=move:highjumpkick
+@ITEM=563=move:honeclaws
+@ITEM=564=move:hornattack
+@ITEM=565=move:hornleech
+@ITEM=566=move:howl
+@ITEM=567=move:hurricane
+@ITEM=568=move:hydrocannon
+@ITEM=569=move:hydropump
+@ITEM=570=move:hydrosteam
+@ITEM=571=move:hyperbeam
+@ITEM=572=move:hyperdrill
+@ITEM=573=move:hyperspacefury
+@ITEM=574=move:hyperspacehole
+@ITEM=575=move:hypervoice
+@ITEM=576=move:hypnosis
+@ITEM=577=move:icebeam
+@ITEM=578=move:icefang
+@ITEM=579=move:icehammer
+@ITEM=580=move:icepunch
+@ITEM=581=move:iceshard
+@ITEM=582=move:icespinner
+@ITEM=583=move:iciclecrash
+@ITEM=584=move:iciclespear
+@ITEM=585=move:icywind
+@ITEM=586=move:imprison
+@ITEM=587=move:incinerate
+@ITEM=588=move:infernalparade
+@ITEM=589=move:inferno
+@ITEM=590=move:infestation
+@ITEM=591=move:ingrain
+@ITEM=592=move:instruct
+@ITEM=593=move:irondefense
+@ITEM=594=move:ironhead
+@ITEM=595=move:irontail
+@ITEM=596=move:ivycudgel
+@ITEM=597=move:jawlock
+@ITEM=598=move:jetpunch
+@ITEM=599=move:judgment
+@ITEM=600=move:junglehealing
+@ITEM=601=move:knockoff
+@ITEM=602=move:kowtowcleave
+@ITEM=603=move:lashout
+@ITEM=604=move:lastresort
+@ITEM=605=move:lastrespects
+@ITEM=606=move:lavaplume
+@ITEM=607=move:leafage
+@ITEM=608=move:leafblade
+@ITEM=609=move:leafstorm
+@ITEM=610=move:leechlife
+@ITEM=611=move:leechseed
+@ITEM=612=move:leer
+@ITEM=613=move:lick
+@ITEM=614=move:lifedew
+@ITEM=615=move:lightscreen
+@ITEM=616=move:liquidation
+@ITEM=617=move:lockon
+@ITEM=618=move:lowkick
+@ITEM=619=move:lowsweep
+@ITEM=620=move:luminacrash
+@ITEM=621=move:lunarblessing
+@ITEM=622=move:lunardance
+@ITEM=623=move:lunge
+@ITEM=624=move:machpunch
+@ITEM=625=move:magicalleaf
+@ITEM=626=move:magicpowder
+@ITEM=627=move:magicroom
+@ITEM=628=move:magmastorm
+@ITEM=629=move:magneticflux
+@ITEM=630=move:magnetrise
+@ITEM=631=move:makeitrain
+@ITEM=632=move:matchagotcha
+@ITEM=633=move:meanlook
+@ITEM=634=move:megadrain
+@ITEM=635=move:megahorn
+@ITEM=636=move:megakick
+@ITEM=637=move:megapunch
+@ITEM=638=move:memento
+@ITEM=639=move:metalburst
+@ITEM=640=move:metalclaw
+@ITEM=641=move:metalsound
+@ITEM=642=move:meteormash
+@ITEM=643=move:metronome
+@ITEM=644=move:milkdrink
+@ITEM=645=move:mimic
+@ITEM=646=move:minimize
+@ITEM=647=move:mirrorcoat
+@ITEM=648=move:mist
+@ITEM=649=move:mistyexplosion
+@ITEM=650=move:mistyterrain
+@ITEM=651=move:moonblast
+@ITEM=652=move:moonlight
+@ITEM=653=move:morningsun
+@ITEM=654=move:mortalspin
+@ITEM=655=move:mountaingale
+@ITEM=656=move:muddywater
+@ITEM=657=move:mudshot
+@ITEM=658=move:mudslap
+@ITEM=659=move:mysticalfire
+@ITEM=660=move:mysticalpower
+@ITEM=661=move:nastyplot
+@ITEM=662=move:nightdaze
+@ITEM=663=move:nightshade
+@ITEM=664=move:nightslash
+@ITEM=665=move:nobleroar
+@ITEM=666=move:noretreat
+@ITEM=667=move:nuzzle
+@ITEM=668=move:orderup
+@ITEM=669=move:originpulse
+@ITEM=670=move:outrage
+@ITEM=671=move:overdrive
+@ITEM=672=move:overheat
+@ITEM=673=move:painsplit
+@ITEM=674=move:paraboliccharge
+@ITEM=675=move:partingshot
+@ITEM=676=move:payback
+@ITEM=677=move:payday
+@ITEM=678=move:peck
+@ITEM=679=move:perishsong
+@ITEM=680=move:petalblizzard
+@ITEM=681=move:petaldance
+@ITEM=682=move:phantomforce
+@ITEM=683=move:pinmissile
+@ITEM=684=move:playnice
+@ITEM=685=move:playrough
+@ITEM=686=move:pluck
+@ITEM=687=move:poisonfang
+@ITEM=688=move:poisongas
+@ITEM=689=move:poisonjab
+@ITEM=690=move:poisonpowder
+@ITEM=691=move:poisonsting
+@ITEM=692=move:poisontail
+@ITEM=693=move:pollenpuff
+@ITEM=694=move:poltergeist
+@ITEM=695=move:populationbomb
+@ITEM=696=move:pounce
+@ITEM=697=move:pound
+@ITEM=698=move:powdersnow
+@ITEM=699=move:powergem
+@ITEM=700=move:powersplit
+@ITEM=701=move:powerswap
+@ITEM=702=move:powertrick
+@ITEM=703=move:powertrip
+@ITEM=704=move:powerwhip
+@ITEM=705=move:precipiceblades
+@ITEM=706=move:present
+@ITEM=707=move:protect
+@ITEM=708=move:psybeam
+@ITEM=709=move:psyblade
+@ITEM=710=move:psychic
+@ITEM=711=move:psychicfangs
+@ITEM=712=move:psychicterrain
+@ITEM=713=move:psychocut
+@ITEM=714=move:psychup
+@ITEM=715=move:psyshieldbash
+@ITEM=716=move:psyshock
+@ITEM=717=move:psystrike
+@ITEM=718=move:pyroball
+@ITEM=719=move:quash
+@ITEM=720=move:quickattack
+@ITEM=721=move:quickguard
+@ITEM=722=move:quiverdance
+@ITEM=723=move:ragefist
+@ITEM=724=move:ragepowder
+@ITEM=725=move:ragingbull
+@ITEM=726=move:ragingfury
+@ITEM=727=move:raindance
+@ITEM=728=move:rapidspin
+@ITEM=729=move:razorleaf
+@ITEM=730=move:razorshell
+@ITEM=731=move:recover
+@ITEM=732=move:recycle
+@ITEM=733=move:reflect
+@ITEM=734=move:reflecttype
+@ITEM=735=move:relicsong
+@ITEM=736=move:rest
+@ITEM=737=move:retaliate
+@ITEM=738=move:revelationdance
+@ITEM=739=move:reversal
+@ITEM=740=move:revivalblessing
+@ITEM=741=move:roar
+@ITEM=742=move:roaroftime
+@ITEM=743=move:rockblast
+@ITEM=744=move:rockpolish
+@ITEM=745=move:rockslide
+@ITEM=746=move:rocksmash
+@ITEM=747=move:rockthrow
+@ITEM=748=move:rocktomb
+@ITEM=749=move:roleplay
+@ITEM=750=move:rollout
+@ITEM=751=move:roost
+@ITEM=752=move:round
+@ITEM=753=move:ruination
+@ITEM=754=move:sacredsword
+@ITEM=755=move:safeguard
+@ITEM=756=move:saltcure
+@ITEM=757=move:sandattack
+@ITEM=758=move:sandsearstorm
+@ITEM=759=move:sandstorm
+@ITEM=760=move:sandtomb
+@ITEM=761=move:scald
+@ITEM=762=move:scaleshot
+@ITEM=763=move:scaryface
+@ITEM=764=move:scratch
+@ITEM=765=move:screech
+@ITEM=766=move:seedbomb
+@ITEM=767=move:seedflare
+@ITEM=768=move:seismictoss
+@ITEM=769=move:selfdestruct
+@ITEM=770=move:shadowball
+@ITEM=771=move:shadowclaw
+@ITEM=772=move:shadowforce
+@ITEM=773=move:shadowpunch
+@ITEM=774=move:shadowsneak
+@ITEM=775=move:shedtail
+@ITEM=776=move:sheercold
+@ITEM=777=move:shellsidearm
+@ITEM=778=move:shellsmash
+@ITEM=779=move:shelter
+@ITEM=780=move:shiftgear
+@ITEM=781=move:shockwave
+@ITEM=782=move:shoreup
+@ITEM=783=move:silktrap
+@ITEM=784=move:simplebeam
+@ITEM=785=move:sing
+@ITEM=786=move:skillswap
+@ITEM=787=move:skittersmack
+@ITEM=788=move:skyattack
+@ITEM=789=move:slackoff
+@ITEM=790=move:slam
+@ITEM=791=move:slash
+@ITEM=792=move:sleeppowder
+@ITEM=793=move:sleeptalk
+@ITEM=794=move:sludge
+@ITEM=795=move:sludgebomb
+@ITEM=796=move:sludgewave
+@ITEM=797=move:smackdown
+@ITEM=798=move:smartstrike
+@ITEM=799=move:smog
+@ITEM=800=move:smokescreen
+@ITEM=801=move:snarl
+@ITEM=802=move:snipeshot
+@ITEM=803=move:snore
+@ITEM=804=move:snowscape
+@ITEM=805=move:soak
+@ITEM=806=move:softboiled
+@ITEM=807=move:solarbeam
+@ITEM=808=move:solarblade
+@ITEM=809=move:spacialrend
+@ITEM=810=move:spark
+@ITEM=811=move:speedswap
+@ITEM=812=move:spicyextract
+@ITEM=813=move:spikes
+@ITEM=814=move:spikyshield
+@ITEM=815=move:spinout
+@ITEM=816=move:spiritbreak
+@ITEM=817=move:spiritshackle
+@ITEM=818=move:spite
+@ITEM=819=move:spitup
+@ITEM=820=move:splash
+@ITEM=821=move:spore
+@ITEM=822=move:springtidestorm
+@ITEM=823=move:stealthrock
+@ITEM=824=move:steameruption
+@ITEM=825=move:steelbeam
+@ITEM=826=move:steelroller
+@ITEM=827=move:steelwing
+@ITEM=828=move:stickyweb
+@ITEM=829=move:stockpile
+@ITEM=830=move:stomp
+@ITEM=831=move:stompingtantrum
+@ITEM=832=move:stoneaxe
+@ITEM=833=move:stoneedge
+@ITEM=834=move:storedpower
+@ITEM=835=move:strangesteam
+@ITEM=836=move:strength
+@ITEM=837=move:strengthsap
+@ITEM=838=move:stringshot
+@ITEM=839=move:strugglebug
+@ITEM=840=move:stuffcheeks
+@ITEM=841=move:stunspore
+@ITEM=842=move:substitute
+@ITEM=843=move:suckerpunch
+@ITEM=844=move:sunnyday
+@ITEM=845=move:superfang
+@ITEM=846=move:superpower
+@ITEM=847=move:supersonic
+@ITEM=848=move:surf
+@ITEM=849=move:surgingstrikes
+@ITEM=850=move:swagger
+@ITEM=851=move:swallow
+@ITEM=852=move:sweetkiss
+@ITEM=853=move:sweetscent
+@ITEM=854=move:swift
+@ITEM=855=move:switcheroo
+@ITEM=856=move:swordsdance
+@ITEM=857=move:synthesis
+@ITEM=858=move:syrupbomb
+@ITEM=859=move:tackle
+@ITEM=860=move:tailglow
+@ITEM=861=move:tailslap
+@ITEM=862=move:tailwhip
+@ITEM=863=move:tailwind
+@ITEM=864=move:takedown
+@ITEM=865=move:takeheart
+@ITEM=866=move:tarshot
+@ITEM=867=move:taunt
+@ITEM=868=move:tearfullook
+@ITEM=869=move:teatime
+@ITEM=870=move:teeterdance
+@ITEM=871=move:teleport
+@ITEM=872=move:terablast
+@ITEM=873=move:terrainpulse
+@ITEM=874=move:thief
+@ITEM=875=move:thrash
+@ITEM=876=move:throatchop
+@ITEM=877=move:thunder
+@ITEM=878=move:thunderbolt
+@ITEM=879=move:thundercage
+@ITEM=880=move:thunderfang
+@ITEM=881=move:thunderouskick
+@ITEM=882=move:thunderpunch
+@ITEM=883=move:thundershock
+@ITEM=884=move:thunderwave
+@ITEM=885=move:tickle
+@ITEM=886=move:tidyup
+@ITEM=887=move:torchsong
+@ITEM=888=move:torment
+@ITEM=889=move:toxic
+@ITEM=890=move:toxicspikes
+@ITEM=891=move:toxicthread
+@ITEM=892=move:trailblaze
+@ITEM=893=move:transform
+@ITEM=894=move:triattack
+@ITEM=895=move:trick
+@ITEM=896=move:trickroom
+@ITEM=897=move:triplearrows
+@ITEM=898=move:tripledive
+@ITEM=899=move:tropkick
+@ITEM=900=move:twinbeam
+@ITEM=901=move:twister
+@ITEM=902=move:uproar
+@ITEM=903=move:uturn
+@ITEM=904=move:vacuumwave
+@ITEM=905=move:venoshock
+@ITEM=906=move:victorydance
+@ITEM=907=move:vinewhip
+@ITEM=908=move:visegrip
+@ITEM=909=move:voltswitch
+@ITEM=910=move:volttackle
+@ITEM=911=move:waterfall
+@ITEM=912=move:watergun
+@ITEM=913=move:waterpledge
+@ITEM=914=move:waterpulse
+@ITEM=915=move:watershuriken
+@ITEM=916=move:waterspout
+@ITEM=917=move:wavecrash
+@ITEM=918=move:weatherball
+@ITEM=919=move:whirlpool
+@ITEM=920=move:whirlwind
+@ITEM=921=move:wickedblow
+@ITEM=922=move:wideguard
+@ITEM=923=move:wildboltstorm
+@ITEM=924=move:wildcharge
+@ITEM=925=move:willowisp
+@ITEM=926=move:wingattack
+@ITEM=927=move:wish
+@ITEM=928=move:withdraw
+@ITEM=929=move:wonderroom
+@ITEM=930=move:woodhammer
+@ITEM=931=move:workup
+@ITEM=932=move:worryseed
+@ITEM=933=move:wrap
+@ITEM=934=move:xscissor
+@ITEM=935=move:yawn
+@ITEM=936=move:zapcannon
+@ITEM=937=move:zenheadbutt
+@ITEM=938=move:zingzap
+@ITEM=939=item:abilityshield
+@ITEM=940=item:absorbbulb
+@ITEM=941=item:adamantcrystal
+@ITEM=942=item:adamantorb
+@ITEM=943=item:adrenalineorb
+@ITEM=944=item:aguavberry
+@ITEM=945=item:airballoon
+@ITEM=946=item:apicotberry
+@ITEM=947=item:aspearberry
+@ITEM=948=item:assaultvest
+@ITEM=949=item:auspiciousarmor
+@ITEM=950=item:babiriberry
+@ITEM=951=item:beastball
+@ITEM=952=item:bignugget
+@ITEM=953=item:bigroot
+@ITEM=954=item:bindingband
+@ITEM=955=item:blackbelt
+@ITEM=956=item:blackglasses
+@ITEM=957=item:blacksludge
+@ITEM=958=item:blunderpolicy
+@ITEM=959=item:boosterenergy
+@ITEM=960=item:bottlecap
+@ITEM=961=item:brightpowder
+@ITEM=962=item:cellbattery
+@ITEM=963=item:charcoal
+@ITEM=964=item:chartiberry
+@ITEM=965=item:cheriberry
+@ITEM=966=item:chestoberry
+@ITEM=967=item:chilanberry
+@ITEM=968=item:chippedpot
+@ITEM=969=item:choiceband
+@ITEM=970=item:choicescarf
+@ITEM=971=item:choicespecs
+@ITEM=972=item:chopleberry
+@ITEM=973=item:clearamulet
+@ITEM=974=item:cobaberry
+@ITEM=975=item:colburberry
+@ITEM=976=item:cornerstonemask
+@ITEM=977=item:covertcloak
+@ITEM=978=item:crackedpot
+@ITEM=979=item:custapberry
+@ITEM=980=item:damprock
+@ITEM=981=item:dawnstone
+@ITEM=982=item:destinyknot
+@ITEM=983=item:diveball
+@ITEM=984=item:dracoplate
+@ITEM=985=item:dragonfang
+@ITEM=986=item:dreadplate
+@ITEM=987=item:dreamball
+@ITEM=988=item:duskball
+@ITEM=989=item:duskstone
+@ITEM=990=item:earthplate
+@ITEM=991=item:ejectbutton
+@ITEM=992=item:ejectpack
+@ITEM=993=item:electricseed
+@ITEM=994=item:enigmaberry
+@ITEM=995=item:eviolite
+@ITEM=996=item:expertbelt
+@ITEM=997=item:fairyfeather
+@ITEM=998=item:fastball
+@ITEM=999=item:figyberry
+@ITEM=1000=item:firestone
+@ITEM=1001=item:fistplate
+@ITEM=1002=item:flameorb
+@ITEM=1003=item:flameplate
+@ITEM=1004=item:floatstone
+@ITEM=1005=item:focusband
+@ITEM=1006=item:focussash
+@ITEM=1007=item:friendball
+@ITEM=1008=item:ganlonberry
+@ITEM=1009=item:goldbottlecap
+@ITEM=1010=item:grassyseed
+@ITEM=1011=item:greatball
+@ITEM=1012=item:grepaberry
+@ITEM=1013=item:gripclaw
+@ITEM=1014=item:griseouscore
+@ITEM=1015=item:griseousorb
+@ITEM=1016=item:habanberry
+@ITEM=1017=item:hardstone
+@ITEM=1018=item:healball
+@ITEM=1019=item:hearthflamemask
+@ITEM=1020=item:heatrock
+@ITEM=1021=item:heavyball
+@ITEM=1022=item:heavydutyboots
+@ITEM=1023=item:hondewberry
+@ITEM=1024=item:iapapaberry
+@ITEM=1025=item:icestone
+@ITEM=1026=item:icicleplate
+@ITEM=1027=item:icyrock
+@ITEM=1028=item:insectplate
+@ITEM=1029=item:ironball
+@ITEM=1030=item:ironplate
+@ITEM=1031=item:jabocaberry
+@ITEM=1032=item:kasibberry
+@ITEM=1033=item:kebiaberry
+@ITEM=1034=item:keeberry
+@ITEM=1035=item:kelpsyberry
+@ITEM=1036=item:kingsrock
+@ITEM=1037=item:laggingtail
+@ITEM=1038=item:lansatberry
+@ITEM=1039=item:leafstone
+@ITEM=1040=item:leftovers
+@ITEM=1041=item:leppaberry
+@ITEM=1042=item:levelball
+@ITEM=1043=item:liechiberry
+@ITEM=1044=item:lifeorb
+@ITEM=1045=item:lightball
+@ITEM=1046=item:lightclay
+@ITEM=1047=item:loadeddice
+@ITEM=1048=item:loveball
+@ITEM=1049=item:lumberry
+@ITEM=1050=item:luminousmoss
+@ITEM=1051=item:lustrousglobe
+@ITEM=1052=item:lustrousorb
+@ITEM=1053=item:luxuryball
+@ITEM=1054=item:magnet
+@ITEM=1055=item:magoberry
+@ITEM=1056=item:maliciousarmor
+@ITEM=1057=item:marangaberry
+@ITEM=1058=item:masterball
+@ITEM=1059=item:masterpieceteacup
+@ITEM=1060=item:meadowplate
+@ITEM=1061=item:mentalherb
+@ITEM=1062=item:metalcoat
+@ITEM=1063=item:metronome
+@ITEM=1064=item:micleberry
+@ITEM=1065=item:mindplate
+@ITEM=1066=item:miracleseed
+@ITEM=1067=item:mirrorherb
+@ITEM=1068=item:mistyseed
+@ITEM=1069=item:moonball
+@ITEM=1070=item:moonstone
+@ITEM=1071=item:muscleband
+@ITEM=1072=item:mysticwater
+@ITEM=1073=item:nestball
+@ITEM=1074=item:netball
+@ITEM=1075=item:nevermeltice
+@ITEM=1076=item:normalgem
+@ITEM=1077=item:nothing
+@ITEM=1078=item:occaberry
+@ITEM=1079=item:oranberry
+@ITEM=1080=item:ovalstone
+@ITEM=1081=item:passhoberry
+@ITEM=1082=item:payapaberry
+@ITEM=1083=item:pechaberry
+@ITEM=1084=item:persimberry
+@ITEM=1085=item:petayaberry
+@ITEM=1086=item:pixieplate
+@ITEM=1087=item:poisonbarb
+@ITEM=1088=item:pokeball
+@ITEM=1089=item:pomegberry
+@ITEM=1090=item:poweranklet
+@ITEM=1091=item:powerband
+@ITEM=1092=item:powerbelt
+@ITEM=1093=item:powerbracer
+@ITEM=1094=item:powerherb
+@ITEM=1095=item:powerlens
+@ITEM=1096=item:powerweight
+@ITEM=1097=item:premierball
+@ITEM=1098=item:prismscale
+@ITEM=1099=item:protectivepads
+@ITEM=1100=item:psychicseed
+@ITEM=1101=item:punchingglove
+@ITEM=1102=item:qualotberry
+@ITEM=1103=item:quickball
+@ITEM=1104=item:quickclaw
+@ITEM=1105=item:rarebone
+@ITEM=1106=item:rawstberry
+@ITEM=1107=item:razorclaw
+@ITEM=1108=item:razorfang
+@ITEM=1109=item:reapercloth
+@ITEM=1110=item:redcard
+@ITEM=1111=item:repeatball
+@ITEM=1112=item:rindoberry
+@ITEM=1113=item:ringtarget
+@ITEM=1114=item:rockyhelmet
+@ITEM=1115=item:roomservice
+@ITEM=1116=item:roseliberry
+@ITEM=1117=item:rowapberry
+@ITEM=1118=item:rustedshield
+@ITEM=1119=item:rustedsword
+@ITEM=1120=item:safetygoggles
+@ITEM=1121=item:salacberry
+@ITEM=1122=item:scopelens
+@ITEM=1123=item:sharpbeak
+@ITEM=1124=item:shedshell
+@ITEM=1125=item:shellbell
+@ITEM=1126=item:shinystone
+@ITEM=1127=item:shucaberry
+@ITEM=1128=item:silkscarf
+@ITEM=1129=item:silverpowder
+@ITEM=1130=item:sitrusberry
+@ITEM=1131=item:skyplate
+@ITEM=1132=item:smoothrock
+@ITEM=1133=item:snowball
+@ITEM=1134=item:softsand
+@ITEM=1135=item:spelltag
+@ITEM=1136=item:splashplate
+@ITEM=1137=item:spookyplate
+@ITEM=1138=item:starfberry
+@ITEM=1139=item:stickybarb
+@ITEM=1140=item:stoneplate
+@ITEM=1141=item:sunstone
+@ITEM=1142=item:sweetapple
+@ITEM=1143=item:syrupyapple
+@ITEM=1144=item:tamatoberry
+@ITEM=1145=item:tangaberry
+@ITEM=1146=item:tartapple
+@ITEM=1147=item:terrainextender
+@ITEM=1148=item:throatspray
+@ITEM=1149=item:thunderstone
+@ITEM=1150=item:timerball
+@ITEM=1151=item:toxicorb
+@ITEM=1152=item:toxicplate
+@ITEM=1153=item:twistedspoon
+@ITEM=1154=item:ultraball
+@ITEM=1155=item:unremarkableteacup
+@ITEM=1156=item:utilityumbrella
+@ITEM=1157=item:wacanberry
+@ITEM=1158=item:waterstone
+@ITEM=1159=item:weaknesspolicy
+@ITEM=1160=item:wellspringmask
+@ITEM=1161=item:whiteherb
+@ITEM=1162=item:widelens
+@ITEM=1163=item:wikiberry
+@ITEM=1164=item:wiseglasses
+@ITEM=1165=item:yacheberry
+@ITEM=1166=item:zapplate
+@ITEM=1167=item:zoomlens
+14 17 20 24 31 37 41 44 51 57 123 414 509 560 631 661 716 731 770 878 884 895 945 970 971 977 1040
+4 16 21 24 31 36 40 46 49 57 275 360 412 515 525 601 609 611 707 753 841 842 867 872 1040
+6 16 19 24 32 35 42 46 52 54 272 409 581 582 583 711 754 843 856 969 1006 1022 1044
+9 16 20 24 28 35 39 47 52 57 295 360 454 558 736 753 813 823 833 876 920 1022 1040
+2 16 19 24 32 37 42 44 50 55 74 412 488 498 560 606 661 672 710 872 925 970 971 1022 1044
+15 16 19 24 30 34 42 47 50 55 207 314 409 437 438 454 594 597 601 670 751 762 903 959 969
+7 18 20 24 32 34 41 45 52 55 212 338 379 392 418 463 576 601 651 716 770 816 856 878 959 971
+7 15 19 22 30 34 40 46 50 54 190 392 394 437 445 497 500 594 618 670 762 856 867 903 969 970 1040 1044 1047
+5 15 19 22 30 36 40 44 50 54 131 318 379 414 434 441 460 501 672 674 867 872 903 909 970 971 1022 1040 1044
+3 15 20 24 31 37 41 44 52 55 207 318 434 441 498 505 567 569 570 601 761 842 848 872 959 970 971 1044
+5 21 26 32 37 42 47 52 53 59 251 256 308 425 459 471 515 571 615 647 707 732 867 872 877 878 884 909 970 971 1006 1022 1044 1114 1130
+4 5 21 26 32 37 42 47 52 53 59 251 256 387 425 459 466 471 515 525 609 611 707 842 867 872 877 878 884 909 971 1006 1022 1040 1044
+4 11 21 24 31 34 41 47 50 55 212 392 608 635 664 709 754 856 872 892 924 959 969 1040 1044
+4 15 21 26 32 37 40 46 52 57 122 261 266 434 436 441 443 466 525 538 544 590 693 707 731 843 858 872 995
+4 14 21 25 32 37 40 45 52 57 134 137 379 515 560 593 632 761 770 837 1022 1040
+7 8 21 24 31 34 40 47 51 57 128 286 374 392 445 542 561 580 601 689 711 948 957 969 1040
+8 11 21 24 31 37 42 44 51 55 118 286 477 509 523 531 560 661 675 710 716 770 795 796 867 872 895 903 948 970 971 1006 1022 1044
+8 18 21 24 31 36 42 47 49 56 278 286 348 379 450 542 557 651 685 689 751 795 856 867 889 903 948 957 1022 1040
+4 21 24 32 35 42 47 51 55 99 368 463 565 596 601 618 685 814 831 846 856 903 969 1006 1022 1040 1044 1066 1107
+4 13 20 24 32 35 42 47 51 55 264 463 565 596 601 618 685 704 813 814 856 867 892 903 976
+2 4 19 24 32 35 42 47 51 55 179 565 596 601 685 704 814 831 856 892 903 930 1019
+3 4 20 24 32 35 42 47 51 55 298 463 565 596 601 685 704 813 856 867 892 903 1160
+8 21 26 32 36 40 46 52 57 159 186 260 391 488 498 542 548 557 673 707 736 795 829 867 878 889 890 925 957 1040 1114
+8 18 21 26 32 36 40 46 52 57 159 178 186 391 417 498 672 673 770 795 835 867 889 890 925 957 971 1022 1040 1114
+1 21 26 28 37 42 47 50 57 133 185 235 379 552 553 615 707 768 770 806 823 884 995
+10 12 21 25 32 35 42 47 52 55 257 269 278 316 372 392 417 450 623 720 856 872 874 892 903 934 970 995 1022
+1 21 26 32 35 41 47 52 55 62 153 239 361 392 429 454 488 577 594 603 707 725 745 872 924 931 937 969 1044
+3 7 21 26 32 35 40 47 52 55 62 91 153 326 360 374 392 454 594 616 707 725 892 917 924 948 969 970 1040
+2 7 21 26 32 35 40 47 52 55 62 91 153 360 374 392 454 497 500 707 725 833 872 892 924 925 969 970 1022 1040
+7 21 26 32 35 40 47 52 55 62 91 153 374 392 454 594 603 725 833 842 892 924 948 969 1040 1044 1049
+3 10 21 25 31 34 42 47 50 57 153 181 329 409 438 443 454 578 594 670 842 867 872 884 911 1022 1040 1044 1049
+1 21 27 32 37 42 47 52 57 149 163 308 893 970 1006
+3 21 25 29 37 42 45 51 57 141 298 312 379 505 548 569 577 707 727 736 761 770 834 848 927 935 1040
+5 21 25 32 37 42 45 51 54 215 297 379 425 575 707 770 842 872 877 878 884 909 918 927 935 971 1002 1006 1022 1040 1044
+2 21 25 32 34 42 46 50 57 113 130 308 352 361 429 474 493 497 500 526 606 672 707 720 793 872 892 925 927 935 969 970 1002 1022 1040 1151
+1 21 25 28 35 42 47 50 57 122 148 281 350 360 361 403 409 411 454 474 492 556 558 580 707 732 736 793 935 944 948 966 1040 1130
+6 10 21 24 31 36 40 46 49 56 204 318 320 323 357 516 548 567 577 615 707 733 751 842 863 872 903 970 1022 1040 1063 1114
+10 11 21 24 31 36 41 44 50 56 86 318 320 323 379 517 523 567 716 731 770 834 872 895 903 970 971 1022 1040 1159
+5 10 20 24 31 36 41 44 51 55 204 256 425 557 567 751 877 878 884 903 909 918 1022 1040
+7 10 21 24 31 34 41 46 51 55 99 314 366 374 392 447 450 601 831 872 881 892 903 969 970 1040
+2 10 21 24 31 35 41 44 51 56 111 204 320 488 498 567 751 903 925 1022
+10 16 21 24 31 36 41 45 49 56 75 318 320 323 485 567 661 736 842 867 872 966 1022 1040 1130 1159
+10 15 20 23 31 34 41 45 50 57 151 182 437 438 454 463 473 492 582 670 751 969 1022 1040 1159
+11 19 22 30 35 41 43 51 54 204 293 318 338 357 379 412 453 466 488 498 531 577 661 710 717 731 770 867 878 970 971 996 1006 1040 1044
+11 21 23 30 35 40 45 50 55 274 318 338 379 438 444 445 453 498 577 586 593 601 661 710 711 813 823 834 867 884 893 895 903 909 925 970 996 1040 1110
+2 21 25 32 37 42 45 51 55 77 113 355 454 468 472 488 498 509 606 672 770 807 872 925 970 971
+2 14 21 25 32 37 42 45 51 56 77 118 379 411 468 472 488 498 509 588 606 672 770 807 872 925 970 971 1022
+1 21 27 31 37 42 47 52 56 118 157 226 308 361 368 429 474 492 580 601 604 685 771 843 872 886 895 903 970 1006 1022 1040 1044 1128
+1 10 21 26 30 37 42 46 51 57 152 157 282 318 320 379 417 557 567 575 576 651 661 663 710 751 770 863 872 958 1022 1034 1040
+8 12 21 27 32 36 42 47 52 57 152 245 269 408 510 590 601 610 623 635 664 689 774 828 843 856 889 890 891 1006 1122
+5 21 25 31 37 41 45 51 57 197 256 318 375 382 401 414 425 441 443 492 509 580 615 699 872 877 878 882 884 909 948 969 1040
+3 18 21 27 30 37 42 47 52 57 138 232 281 326 350 368 463 582 601 616 685 846 948 969 1040 1130
+13 21 27 32 35 40 47 52 57 217 223 264 360 403 411 429 445 454 492 551 580 745 813 823 833 843 892 930 948 969 979 1022 1040 1044
+3 21 25 31 37 42 46 50 57 95 102 298 385 453 463 509 548 569 576 577 679 707 710 736 848 918 980 1040
+4 10 21 26 32 37 42 47 51 55 81 150 158 314 401 463 525 611 615 638 707 733 766 792 837 841 842 844 856 863 903 1006 1040 1046 1077 1114 1162
+4 21 27 32 37 42 45 51 57 81 105 248 414 453 466 525 538 609 611 707 795 807 844 872 918 971 1040 1044
+3 9 21 27 31 36 41 47 52 57 95 291 298 385 411 454 548 577 580 616 707 731 813 823 889 890 911 935 969 1040 1114
+11 21 25 32 37 42 44 51 55 167 274 379 414 444 523 531 615 653 699 707 710 716 733 770 872 884 895 927 935 970 971 1006 1040 1044 1046
+16 21 25 31 37 40 47 49 57 151 274 379 409 411 412 515 652 707 884 889 927 935 1040 1114
+3 11 21 26 31 37 42 45 50 57 188 193 220 386 498 523 577 710 716 761 789 848 884 896 935 948 1022 1040
+8 11 20 26 31 37 42 45 50 57 92 193 220 386 498 523 577 710 716 789 795 848 884 889 948 957 1022 1040
+14 21 27 32 37 42 46 51 56 159 379 418 444 560 585 633 663 673 679 699 707 770 867 884 925 995 1006
+12 17 21 26 32 36 39 47 52 57 191 264 360 403 454 471 544 582 594 623 728 813 823 884 890 909 979 1022 1040 1114
+9 10 21 27 32 37 40 47 52 56 142 148 406 450 454 601 707 736 813 823 856 863 867 889 890 903 995 1040
+3 8 21 27 32 36 41 47 52 56 153 199 271 326 346 409 418 483 505 542 577 616 689 727 762 813 856 867 884 889 890 911 957 995 1006 1040 1044 1114
+8 16 21 27 32 36 41 47 52 56 153 199 271 326 346 409 418 483 542 548 603 616 813 856 867 889 890 995
+12 17 21 25 32 34 40 47 52 57 161 269 278 372 376 392 417 450 601 856 874 892 903 969 996 1022 1040 1044
+7 12 21 25 32 34 42 47 51 56 130 181 269 368 374 377 392 403 454 474 601 623 635 683 739 743 833 856 876 892 948 970 1002 1006 1040 1047
+1 21 25 31 34 42 47 52 57 130 215 293 361 374 392 409 454 474 492 580 685 736 771 793 856 882 892 969 995 1002
+2 13 21 27 32 37 40 46 52 57 111 170 301 391 453 488 498 606 699 731 778 823 872 1006 1114 1161
+6 9 21 26 30 35 42 47 52 57 188 281 342 411 454 516 581 583 736 741 745 763 823 872 892 995
+6 10 21 27 32 37 42 47 52 57 140 152 296 316 357 366 368 403 418 448 477 516 548 581 582 638 706 728 813 863 970 1006 1022
+2 16 21 25 32 36 42 45 52 56 105 113 293 403 412 418 465 488 493 498 557 661 672 707 770 795 842 843 867 872 925 970 971 1006 1022 1040 1044 1121
+9 21 25 31 35 40 47 52 57 264 403 454 463 464 581 582 601 707 728 823 948 1022 1040 1114 1125
+8 21 27 32 36 42 47 52 57 153 238 293 393 454 530 542 601 610 689 707 762 842 843 855 889 890 957 1040 1047
+1 20 25 28 37 42 47 49 57 133 185 235 379 498 552 577 707 768 770 806 823 884 1022 1040
+13 16 21 23 30 34 40 46 50 57 230 293 409 438 443 454 492 558 577 580 594 601 618 743 745 823 833 884 948 969 1040 1132
+5 21 27 32 37 42 47 52 56 162 256 318 425 444 459 477 531 595 601 661 667 685 720 848 872 877 878 892 909 910 1045
+5 21 26 32 36 42 46 52 55 162 256 425 444 463 477 509 531 595 615 661 667 685 733 848 872 877 878 884 909 910 945 971 1006 1022 1040 1044 1046 1054
+5 11 21 26 32 36 42 46 51 55 268 379 425 444 458 459 509 531 661 710 716 848 872 877 878 909 970 971 1006 1040 1044
+16 21 27 32 36 42 47 52 57 153 181 215 409 474 489 515 566 578 685 687 707 711 843 845 867 880 892 935 956 969 996 1006 1040 1044 1151
+3 4 21 26 32 37 42 46 50 57 193 216 271 463 466 509 525 569 577 609 611 727 842 848 872 918 971 1040 1044
+4 16 21 26 31 35 42 46 52 57 81 194 305 368 417 471 477 538 601 608 618 808 843 856 863 867 872 890 925 1006 1044
+3 10 21 27 32 37 40 46 52 57 102 157 216 567 569 577 601 751 848 863 903 918 980
+9 21 26 32 35 40 47 52 57 228 368 448 454 542 561 601 610 689 728 745 823 833 845 856 872 948 969 1006 1022 1040 1044 1114
+6 17 21 26 32 35 40 47 52 57 244 368 454 581 582 583 584 594 601 610 728 823 856 948 969 1006 1022 1040 1044 1047
+11 18 21 25 32 37 42 44 50 57 274 279 288 338 379 414 418 444 466 523 553 651 659 710 716 770 834 871 878 895 904 927 948 970 971 1006 1040
+10 12 21 26 32 37 42 45 52 57 153 293 320 373 385 525 548 567 569 577 585 722 828 841 848 863 903 920 1006 1022
+4 7 21 26 32 34 42 47 52 57 107 198 278 316 374 375 377 392 445 511 611 624 707 748 766 821 842 856 969 1006 1047 1151
+1 21 22 28 33 40 46 52 55 290 361 445 454 474 492 511 526 542 545 580 601 670 685 789 843 882 937 969 970 1040 1044
+7 21 26 29 35 42 47 52 57 130 239 281 350 374 376 392 445 454 474 477 550 558 580 601 882 948 1002 1040 1130
+14 16 21 27 32 37 42 47 52 57 157 203 254 423 463 515 601 615 707 731 733 867 884 895 925 1022 1037 1040 1046 1114
+7 11 21 27 32 37 42 47 52 57 210 279 315 343 374 376 392 445 477 492 562 580 689 713 834 882 892 937 969 970 1006 1040 1044
+12 21 27 32 37 42 47 51 56 146 203 269 373 463 590 623 751 768 844 860 863 867 884 895 903 954 1006 1013 1022 1037 1040
+12 21 27 32 37 42 47 51 56 188 203 282 373 383 444 463 590 652 707 751 842 844 863 884 895 903 927 954 970 1006 1022 1040
+8 21 26 30 37 42 47 52 57 122 165 261 312 349 360 391 411 418 454 463 525 542 577 580 601 673 689 707 795 829 840 889 890 935 948 957 979 1040 1114
+2 9 21 26 32 35 42 45 52 57 62 170 249 323 360 411 453 454 468 488 497 498 500 501 510 606 672 707 736 741 745 823 829 872 892 925 935 945 948 971 1040 1081 1107 1159
+2 21 26 32 36 39 46 52 57 103 240 303 360 391 453 468 498 606 672 728 807 823 925 935 1020 1022
+11 21 26 32 37 42 46 50 57 122 193 281 379 414 453 509 523 615 661 663 699 710 712 716 733 770 784 842 867 884 920 991 1040 1121 1130
+4 16 21 26 32 35 42 45 52 57 298 368 403 412 445 463 466 483 509 525 601 609 611 766 813 814 831 843 856 872 890 892 1006 1040 1044
+10 15 21 26 32 37 41 47 50 57 83 185 366 401 417 434 437 438 441 454 493 577 651 679 707 736 751 925 1022 1040 1114
+1 21 26 32 35 42 47 52 56 148 285 318 392 474 492 580 601 664 707 720 771 855 856 970 1151
+8 21 26 32 35 42 45 52 57 150 238 308 393 412 454 487 498 524 525 530 542 548 601 687 689 692 711 795 829 842 855 872 880 889 892 905 970 1040 1044 1104
+3 9 21 26 30 37 42 47 52 57 64 141 188 329 438 453 454 561 569 577 616 670 727 736 810 813 823 833 848 872 911 937 944 945 1022 1040 1044 1110 1114
+3 16 21 26 32 35 41 46 52 57 58 142 240 326 392 406 409 438 601 616 856 969 1006 1044
+3 21 25 31 37 42 45 49 57 86 94 172 443 444 505 548 577 647 731 761 1002 1022 1040
+14 21 26 32 35 42 47 52 57 93 118 152 412 414 418 463 542 601 694 770 771 774 843 856 872 892 895 925 969 970 1006 1040 1044 1135
+4 10 21 26 31 37 42 47 51 57 81 132 248 320 379 438 454 525 608 611 707 842 844 856 857 872 944 1040 1121 1130
+11 21 26 32 37 42 46 51 57 159 379 383 400 414 444 463 552 553 601 615 707 710 731 733 834 884 927 935 1040
+18 20 26 31 37 42 46 51 57 94 168 291 379 400 444 463 498 577 601 651 652 707 823 834 878 884 927 1022 1040 1044 1139
+6 21 26 32 37 42 47 52 57 143 151 357 409 423 454 516 577 581 582 583 594 707 770 804 813 855 867 970 971 1006 1022 1040
+10 15 21 23 31 34 42 45 52 55 153 181 434 437 438 450 454 488 489 498 567 569 594 670 751 842 872 970 1022 1040 1044 1049
+2 21 25 32 37 42 47 50 55 103 113 379 412 463 466 472 488 498 553 576 638 661 672 716 770 807 918 925 1020 1022
+6 18 21 25 32 37 42 47 50 55 247 341 357 463 516 576 651 661 1046
+3 19 22 30 35 41 43 49 56 102 379 577 669 842 848 872 877 884 916 970 971 980 1040
+9 19 22 30 33 39 45 51 56 103 374 437 454 492 556 606 705 707 741 813 823 833 856 882 884 925 948 1020 1040 1114
+10 15 19 22 30 33 41 43 51 56 60 434 435 437 438 454 473 670 856 1006 1022 1040 1044
+11 17 21 23 30 35 40 45 50 55 235 338 361 379 400 428 445 492 553 580 594 642 707 710 716 823 834 884 895 903 927 937 970 1040
+4 9 21 25 31 35 40 47 51 57 192 240 377 454 550 743 766 778 833 872 930 1040 1047 1161
+2 7 21 25 32 35 42 45 52 55 77 155 338 392 445 454 477 488 492 498 500 531 601 624 661 672 726 823 856 872 882 903 904 969 970 1006 1022 1044 1101
+3 17 21 25 32 36 41 45 50 57 86 283 318 320 501 505 531 569 577 601 741 751 823 848 904 935 948 1040
+1 10 21 26 31 35 42 47 52 55 153 219 366 392 429 487 720 863 903 969 970 1022
+1 18 21 27 29 37 42 46 52 57 86 94 118 379 399 414 444 488 498 575 577 601 615 679 707 733 823 872 878 884 927 943 1040 1046 1148
+12 21 27 32 36 42 47 52 57 269 278 316 368 372 474 483 601 610 623 679 696 785 828 839 856 867 892 1006 1022
+5 21 25 32 35 42 46 52 57 130 153 222 318 409 425 474 489 578 685 707 711 720 810 872 877 878 884 892 909 924 948 1002
+10 12 21 26 32 37 40 47 50 57 204 293 314 320 336 373 415 418 450 483 560 567 699 707 751 795 813 842 867 872 889 890 903 1022 1040 1159
+5 21 27 32 37 42 47 51 56 195 226 297 425 463 531 604 615 667 685 842 845 852 878 892 903 909 945 948 1006 1022 1040 1130
+3 21 26 31 35 42 46 52 55 271 300 326 368 409 505 582 616 618 872 917 969 1044
+3 9 21 26 30 37 42 46 52 57 227 261 262 385 391 453 454 569 577 731 795 813 823 848 935 1040
+1 21 26 32 35 42 47 52 55 195 243 278 308 314 316 348 430 477 580 601 604 618 867 874 884 892 903 1044 1076 1128
+10 14 21 26 28 37 42 46 52 57 59 112 292 320 379 417 418 471 560 770 834 837 872 878 884 895 925 970 1002 1010 1022 1110 1114 1130 1159
+14 21 26 32 37 42 45 50 55 159 379 412 414 418 444 466 560 638 659 661 673 710 770 842 872 878 884 895 925 970 971 996 1006 1040 1044
+10 16 21 25 30 34 42 45 52 57 152 181 265 314 366 412 447 474 515 557 664 679 842 843 850 863 867 872 884 903 969 970 1040 1044 1067 1107 1122
+8 16 21 26 30 36 42 47 52 57 59 157 260 308 409 412 471 498 510 542 601 638 661 685 689 741 843 867 872 889 890 892 948 957 1022 1040 1044 1114 1122
+11 17 21 25 32 36 40 47 50 57 134 135 159 360 379 454 501 523 544 558 576 582 593 594 615 710 733 823 825 834 895 896 937 1040 1046
+14 16 21 26 32 36 40 46 50 57 150 204 379 411 412 418 515 560 638 673 694 707 710 736 770 774 843 889 895 896 925 1037 1040 1114
+9 15 20 23 30 34 41 47 51 55 225 434 437 443 454 488 489 594 670 689 762 813 823 833 842 856 872 1040 1044 1047 1114
+7 17 21 25 32 35 42 45 52 56 151 156 257 338 376 392 409 412 441 445 454 473 501 580 642 661 710 770 856 904 970 1006 1040 1044
+9 21 25 30 35 40 47 52 57 227 230 360 409 411 454 578 741 789 823 833 920 935 1040 1114 1132
+7 8 21 26 32 35 42 46 52 56 64 104 200 374 376 392 445 454 477 542 580 601 689 842 843 856 867 889 957 1006 1040 1044
+3 21 26 32 37 42 47 51 56 262 271 300 320 385 414 463 505 569 577 848 872 903 919 948 971 1040 1044 1121
+4 6 21 26 31 36 42 46 51 57 247 251 341 342 357 385 453 454 466 509 525 581 609 611 707 872 930 1027 1040 1046
+6 16 21 25 32 35 42 47 51 54 194 204 368 477 581 582 583 584 601 618 689 856 969 1006 1022 1044 1047 1075
+5 17 21 25 32 37 40 44 51 57 61 171 264 360 425 501 593 647 825 842 872 877 878 884 894 909 945 948 970 971 1040
+10 12 21 25 31 37 41 45 52 56 118 252 282 320 323 373 525 610 707 710 770 856 872 903 970 971 1006 1022 1044 1148
+4 21 25 32 35 39 47 52 56 81 158 316 379 411 429 525 601 608 611 707 720 808 844 856 857 872 892 927 934 969 1022 1040 1044 1114
+6 21 25 32 37 40 44 51 57 143 357 379 385 399 516 577 647 657 707 770 804 842 872 914 927 935 948 970 971 1006 1022 1040 1044
+9 10 19 25 32 36 39 47 52 56 142 198 231 314 406 450 454 474 601 707 813 823 842 856 867 889 890 903 1151
+6 9 21 25 30 34 42 47 52 57 188 281 454 581 583 584 594 601 743 823 833 892 948 969 1006 1040 1044 1047
+7 11 21 25 32 34 42 47 50 57 156 237 257 318 325 374 392 445 601 608 664 713 754 774 856 948 969 970 1006 1040 1044 1122
+13 17 21 25 32 37 39 47 48 57 171 227 264 360 414 425 453 501 558 593 699 759 823 825 872 878 884 909 936 945 948 971 1022 1040 1114
+14 21 25 32 35 39 47 49 57 118 204 368 411 418 454 492 511 548 580 610 673 694 707 774 842 882 895 896 925 948 969 1040
+6 14 21 26 32 37 42 47 52 55 93 341 357 418 444 560 577 581 584 585 694 770 813 867 878 884 895 925 1006 1022 1040 1047
+5 14 21 27 32 37 42 46 52 56 159 397 412 425 560 661 663 770 877 878 884 895 909 925 970 1022 1040 1113 1151
+5 10 21 25 32 37 40 45 50 56 159 320 383 412 425 515 560 575 661 770 842 872 877 878 884 895 909 925 945 970 1040 1148
+5 6 21 25 32 37 40 45 50 56 159 357 412 425 560 661 663 770 842 872 877 878 884 895 909 925 948 970 971 1022 1040
+2 5 21 25 32 37 40 45 50 56 159 412 425 560 661 672 770 872 878 884 895 909 925 970 971 1022 1040
+4 5 21 25 32 37 40 45 50 56 159 425 609 661 770 872 877 878 884 895 909 925 970 971 1040
+3 5 21 25 32 37 40 45 50 56 159 425 569 661 707 770 878 884 895 909 925 970 971 1040
+11 21 24 32 37 39 47 49 56 159 379 444 463 601 615 638 660 710 733 823 834 884 895 896 903 935 970 975 1040 1046 1061 1114
+11 21 24 32 35 40 45 50 57 159 379 414 444 445 466 523 553 577 601 660 661 710 716 727 770 823 842 878 884 895 896 903 970 980 1040 1044
+11 21 24 32 34 42 44 52 55 159 308 414 444 445 463 466 471 488 498 601 660 710 823 867 878 884 895 903 969 970 1006 1044
+15 17 19 22 30 35 40 43 50 56 204 279 338 360 434 437 441 443 453 454 488 498 501 577 593 741 742 823 825 877 878 884 896 942 945 948 970 1040
+15 17 19 22 30 35 40 43 50 56 204 279 338 434 441 443 453 488 498 501 558 577 670 742 823 825 884 896 941
+3 15 19 22 31 35 40 43 50 55 204 279 329 338 357 374 434 437 441 443 453 454 488 498 569 577 809 842 848 877 878 884 896 948 970 971 1040 1052
+3 15 19 22 31 35 40 43 50 55 204 279 338 434 453 488 498 569 577 616 670 809 842 848 877 878 884 1051
+2 17 20 23 31 36 40 44 50 57 111 113 453 498 501 606 628 707 823 867 872 925 945 948 1040
+14 15 19 22 28 35 40 45 50 56 204 279 379 417 434 441 443 560 673 694 707 736 741 770 774 884 925 1015 1022 1040
+14 15 19 22 28 35 40 45 50 56 159 379 417 434 441 443 454 560 694 770 774 884 925 1014
+11 21 24 30 37 40 47 50 56 159 379 523 577 622 651 652 710 716 834 878 884 896 977 1040 1061
+3 21 26 32 37 42 47 52 57 141 312 505 577 601 736 761 793 865 872 971 1040
+8 12 21 26 32 37 42 46 52 56 241 282 306 373 525 710 722 792 795 842 872 889 903 957 970 1006 1022 1040 1044
+3 20 23 30 35 40 45 50 55 141 312 414 466 577 736 761 834 848 860 865 1040
+16 19 23 32 36 41 44 51 54 70 357 379 412 413 445 446 509 560 576 577 661 710 770 795 877 958 1006 1040 1044 1162
+4 21 23 30 35 40 45 50 55 185 320 377 414 453 466 525 553 611 685 707 710 736 767 842 856 857 872 892 970 971 1022 1040 1044 1047
+4 10 19 23 30 35 42 45 52 54 235 320 414 453 466 525 553 611 707 710 767 842 872 970 971 1006 1022 1040 1044 1162
+1 19 22 30 35 40 45 50 55 183 438 454 473 500 731 771 856 867 1040 1044 1049 1128
+12 19 22 30 35 40 45 50 55 183 320 373 374 379 414 438 453 454 473 500 569 577 599 616 731 872 925 934 1028
+16 19 22 30 35 40 45 50 55 183 318 320 360 379 400 412 453 473 498 515 577 599 731 795 823 834 856 867 925 986
+15 19 22 30 35 40 45 50 55 183 338 379 412 414 434 437 438 441 443 454 473 500 501 594 599 670 689 731 823 856 984
+5 19 22 30 35 40 45 50 55 183 338 357 379 414 434 438 453 473 525 569 577 599 731 856 877 878 924 1166
+7 19 22 30 35 40 45 50 55 183 338 360 368 379 400 412 454 473 498 593 599 731 823 834 856 1001
+2 19 22 30 35 40 45 50 55 183 379 438 454 466 473 488 498 500 577 599 731 856 867 877 878 925 1003
+10 19 22 30 35 40 45 50 55 183 318 320 338 379 453 454 473 507 523 577 599 731 867 925 1131
+14 19 22 30 35 40 45 50 55 183 338 379 438 454 473 509 553 599 731 770 771 823 856 867 925 1137
+4 19 22 30 35 40 45 50 55 183 379 453 454 466 473 498 500 523 531 577 599 731 925 1060
+9 19 22 30 35 40 45 50 55 183 379 437 438 454 473 577 599 731 771 823 842 856 867 990
+6 19 22 30 35 40 45 50 55 183 338 342 357 379 400 414 453 454 473 488 498 501 577 599 731 795 878 1026
+8 19 22 30 35 40 45 50 55 183 360 379 400 412 443 453 454 473 542 577 593 599 689 731 795 823 834 856 867 925 1152
+11 19 22 30 35 40 45 50 55 183 338 360 368 379 400 412 414 473 498 599 731 834 856 867 1065
+13 19 22 30 35 40 45 50 55 183 373 379 414 438 453 454 473 531 567 577 599 731 823 833 856 1140
+17 19 22 30 35 40 45 50 55 183 338 360 379 400 438 443 453 454 473 525 577 594 599 731 807 823 834 848 856 877 884 925 1030
+3 19 22 30 35 40 45 50 55 183 379 453 577 599 731 823 884 925 1136
+18 19 22 30 35 40 45 50 55 183 379 453 593 599 731 823 867 925 1086
+3 21 25 31 35 41 45 52 57 240 283 320 325 326 342 357 448 505 521 531 569 577 601 616 635 730 754 848 856 872 904 948 971 996 1040 1044 1072
+3 16 20 25 31 35 42 45 52 56 237 283 325 326 380 463 505 601 730 754 843 856 948 970 1006 1022 1072
+9 21 27 32 35 42 47 52 55 227 308 454 487 563 638 664 743 745 823 833 843 856 872 969 970 1006 1044
+9 17 21 27 32 35 42 47 52 55 227 277 454 515 594 638 745 797 823 833 842 843 856 945 969 1006 1040 1044
+1 21 27 32 37 42 47 52 55 163 278 293 308 316 352 361 385 405 477 522 542 576 585 601 604 685 771 801 854 855 867 884 892 903 948 969 970 1006 1044 1128
+16 21 27 32 37 42 47 52 55 119 217 278 385 412 477 515 585 601 661 675 699 741 801 855 867 872 878 884 903 970 1022 1040 1044 1114
+7 21 27 31 35 41 47 52 57 130 155 239 374 417 445 474 492 561 580 601 624 689 882 995
+7 21 25 30 34 41 47 52 57 130 155 239 374 392 417 445 454 474 492 580 601 624 689 882 948 1002 1040 1044
+4 12 21 25 32 35 42 47 52 56 81 191 269 483 601 608 615 618 623 689 696 828 856 872 892 934 1006 1022 1044
+4 21 26 32 37 42 45 52 56 81 158 193 466 525 538 611 681 693 722 792 807 844 857 872 918 1006 1040 1044
+4 7 21 26 32 35 42 47 52 55 81 140 158 343 392 582 608 689 792 808 856 872 906 1006 1040 1044 1162
+3 21 25 32 37 42 46 52 56 83 95 271 379 385 391 463 505 509 531 569 577 661 699 710 716 727 784 848 872 904 935 971 1006 1040 1044
+3 21 26 32 36 42 47 52 56 58 179 217 219 223 308 318 326 409 429 464 487 505 551 578 616 711 917 969 970 995 1006
+9 16 21 25 31 35 42 47 52 56 62 153 181 329 374 392 409 437 454 542 601 670 703 745 762 823 833 842 867 969 970 1006 1040 1047
+7 21 26 32 35 42 47 52 56 62 99 296 308 368 374 392 407 445 454 487 542 580 723 736 771 823 842 867 882 903 970 995
+16 21 25 32 35 42 45 52 55 147 403 412 472 498 509 515 601 618 661 662 707 710 770 795 843 856 872 895 903 970 971 1006 1022 1044
+1 14 21 25 32 35 42 44 52 55 147 354 412 498 509 531 575 661 710 770 795 872 895 903 925 970 971 1006 1022 1044
+11 21 26 32 37 41 46 50 57 86 118 368 379 412 466 477 509 523 615 661 707 710 716 733 736 770 834 872 878 884 895 896 948 970 971 1040 1077
+3 10 21 26 32 36 42 46 52 56 76 141 157 320 326 366 417 505 567 569 577 601 616 707 727 751 848 863 872 970 980 1006 1022 1040 1044
+1 4 21 26 32 35 42 47 52 56 81 232 235 361 429 549 561 565 635 685 766 831 856 872 884 892 924 937 969 970 1006 1022 1040 1044
+2 21 24 31 35 42 45 52 56 113 153 156 392 409 473 498 500 653 670 685 711 726 741 924 925 969 1022 1040 1044 1114
+2 13 21 24 31 35 42 46 52 56 113 153 223 392 429 473 500 551 743 823 924 925 969 970 1022 1044
+4 8 20 26 30 36 42 46 52 57 107 220 391 515 525 531 795 821 831 857 889 932 957 991 1022 1040 1110 1114
+3 20 26 28 37 42 47 52 57 133 141 220 314 385 505 647 707 761 919 927 1022 1040 1110 1114
+2 10 21 25 32 37 42 45 51 55 77 248 314 320 323 350 437 438 441 454 488 492 497 498 500 509 567 672 807 872 882 918 970 971 1022 1040 1044
+5 21 25 31 35 42 45 52 57 159 392 393 425 441 443 445 492 498 501 525 601 616 877 878 882 884 903 909 924 936 948 1040
+2 14 21 25 32 37 41 44 51 57 111 113 150 379 391 412 466 488 498 560 672 710 770 872 895 925 970 971 1006 1040
+15 21 25 32 34 41 47 52 56 179 222 293 392 437 438 454 494 594 670 689 762 856 872 1006 1044 1047 1049
+6 21 25 31 34 42 47 52 57 244 271 326 368 392 454 558 580 583 584 616 685 856 948 969 996 1022 1040 1044 1047 1071
+6 21 25 32 37 42 46 49 55 159 323 341 385 501 516 548 577 615 728 731 733 872 948 970 1006 1022 1040 1046
+3 7 21 25 31 36 41 47 51 57 95 271 298 350 374 445 454 580 601 616 872 911 1040 1130
+7 21 25 32 34 42 46 52 55 151 219 220 392 445 477 562 582 601 689 833 856 903 948 969 970 1006 1044 1099
+16 17 21 26 32 34 40 47 52 57 99 151 204 368 594 603 618 664 689 823 843 856 872 884 995
+1 10 21 25 30 35 42 47 52 57 99 157 239 361 366 374 392 410 417 450 594 745 751 771 846 863 903 937 948 970 1022 1044
+10 11 21 25 30 37 42 45 52 57 157 239 282 318 320 379 414 417 469 557 567 710 716 751 770 872 903 904 971 1022 1040 1044
+10 16 21 25 30 37 40 47 51 57 76 191 301 417 515 593 601 751 889 903 920 1022 1040 1114
+15 16 21 23 31 35 41 44 51 56 159 412 434 438 441 453 488 498 501 661 842 872 903 970 971 1040 1044
+2 12 19 24 31 37 42 44 50 55 111 269 373 484 488 498 525 567 653 710 722 872 925 1006 1022 1040 1044
+10 21 24 32 35 42 44 52 55 99 203 308 314 320 356 509 531 557 567 601 661 707 727 795 844 863 867 903 918 991 1006 1022 1040
+10 21 24 32 35 42 45 51 55 220 320 356 509 531 557 567 601 661 863 867 903 948 1022
+5 10 21 24 32 35 42 44 52 55 99 203 314 412 425 458 501 509 531 601 661 710 727 795 867 872 877 878 884 903 909 918 923 1006 1022 1040 1044 1147
+5 10 21 24 32 35 42 44 52 55 297 412 501 509 531 601 661 710 795 872 877 878 909 918 970 971 1022
+9 10 19 23 31 34 41 45 52 55 227 239 453 454 472 509 531 661 710 745 758 795 823 867 872 903 970 1006 1040 1044
+9 10 20 23 31 34 41 45 52 56 153 409 453 454 531 745 758 797 823 833 856 867 872 903 970 1040 1114
+1 11 21 23 30 37 42 44 49 56 235 379 392 414 445 466 509 575 580 601 710 716 735 770 856 872 877 878 896 903 937 948 971 1040 1044 1159
+4 7 21 25 31 35 40 47 52 57 78 192 350 360 374 445 454 593 601 611 766 813 814 842 857 892 930 1022 1040 1114
+2 11 21 25 32 37 42 45 50 55 77 169 379 414 463 488 498 509 523 531 659 661 672 710 716 770 834 872 895 925 927 948 970 971 1022 1040 1044 1077 1161
+3 16 20 25 32 36 42 45 52 55 73 206 283 412 472 531 542 569 577 813 848 903 915 970 971 1006 1044 1047
+2 10 21 26 32 37 42 47 52 54 111 120 314 320 366 417 450 488 497 498 500 567 672 751 856 863 867 903 925 969 1022
+10 12 21 27 32 37 42 46 52 56 87 117 241 320 373 466 525 567 722 792 842 872 1006 1022 1040 1063 1162
+1 2 21 25 31 37 42 45 52 55 181 222 293 412 464 488 497 498 557 571 575 672 711 867 872 892 925 931 935 970 971 1022 1044 1148
+18 21 24 32 37 42 45 48 57 114 273 379 385 444 466 525 651 707 710 786 834 857 872 895 927 948 1040
+4 21 25 30 35 42 46 52 57 125 232 368 374 454 525 534 561 565 608 611 644 685 745 892 924 969 1010 1022 1040 1114
+8 15 21 26 32 37 41 46 50 57 58 199 200 312 434 441 505 509 548 569 761 770 795 872 877 878 889 890 948 957 971 1040 1044
+3 21 25 32 37 41 45 51 57 173 338 412 441 501 577 903 914 948 970 971 1044
+18 21 25 31 37 42 45 49 57 94 196 379 444 571 575 651 707 710 716 720 770 842 872 927 935 948 971 1040 1148
+7 10 21 25 32 36 42 47 52 55 163 179 292 314 366 392 417 445 463 492 562 689 751 833 842 856 872 882 903 1010 1100 1161
+5 18 21 27 32 37 42 47 52 55 79 195 197 383 414 425 444 458 531 667 674 685 842 845 872 877 878 903 909 944 1006 1024 1085 1121 1130 1163
+13 18 21 25 32 37 38 47 48 57 82 264 360 379 453 544 593 615 649 651 699 707 733 736 813 823 833 896 948 1022 1040 1046 1114
+15 21 23 31 35 42 45 48 57 124 141 232 312 313 403 434 441 443 454 488 498 577 601 727 736 761 795 848 877 878 889 948 1040
+15 17 21 23 32 35 40 45 48 57 124 232 240 312 360 411 434 441 443 454 488 498 501 558 577 601 736 795 848 878 948 1040
+17 18 21 26 32 37 41 47 51 57 169 203 379 414 444 501 515 593 615 685 733 813 825 834 855 884 896 1040 1046
+4 14 21 26 31 35 42 47 52 57 118 132 185 411 418 445 454 465 565 601 611 682 694 707 771 842 843 889 896 925 930 944 979 1130
+4 8 21 26 32 35 42 45 52 57 81 122 466 525 538 601 608 689 704 792 795 807 837 844 856 872 918 1006 1020 1040 1044
+6 21 25 31 35 38 47 52 57 143 193 264 341 342 360 409 411 454 582 583 593 728 731 748 1022 1040 1114
+6 13 21 25 31 34 38 47 52 57 143 263 264 342 360 409 411 454 544 578 582 584 593 647 655 728 731 743 745 823 833 948 979 1022 1040 1047 1114
+10 15 21 25 31 37 42 46 52 55 118 150 279 320 363 412 417 434 441 498 557 567 751 770 855 903 970 971 1022 1044 1148
+13 18 21 23 32 35 38 45 48 57 82 360 379 420 444 453 463 593 651 685 699 813 823 834 872 896 948 1040 1044 1159
+11 14 21 23 32 35 42 43 49 57 169 412 418 466 509 531 574 601 661 710 716 770 878 895 896 948 970 971 1006 1040
+11 16 21 22 32 33 42 43 49 57 169 412 445 466 509 542 573 580 601 661 710 716 878 895 896 937 948 969 970 971 992 1044
+2 3 21 23 32 35 40 44 51 57 298 453 488 498 501 548 672 795 824 867 872 925 948 970 971 1022 1040
+4 14 21 25 32 35 42 45 50 57 166 192 314 366 417 450 525 601 608 609 694 751 770 774 817 843 856 892 903 1006 1022 1040 1049 1135 1159
+4 7 21 25 31 35 42 46 51 57 192 233 366 374 392 417 601 608 751 774 843 856 892 897 903 948 969 970 1022 1040 1044 1122
+1 21 27 31 35 42 47 52 57 58 253 263 308 361 409 454 474 489 492 511 578 580 601 604 707 711 845 875 880 892 903 935 969 1006 1044 1114 1128 1151
+5 12 21 25 32 37 41 44 52 57 159 320 373 425 466 501 828 872 878 884 909 971 1006 1022 1040
+6 7 21 26 31 34 42 47 52 57 62 142 155 357 361 374 392 406 445 454 511 579 580 601 872 882 948 969 1040 1044 1101 1104
+2 10 21 26 32 37 42 46 52 56 96 320 417 567 585 722 738 751 842 863 867 1006 1022 1040
+5 10 21 26 32 37 42 46 52 56 96 320 417 567 722 738 751 1006 1022 1040
+10 14 21 26 32 37 42 46 52 56 96 320 379 417 450 567 585 722 738 751 870 903 1006 1022 1040
+12 18 20 26 32 37 42 46 52 55 136 241 270 373 444 651 710 722 786 828 841 863 872 903 1006
+13 21 26 32 35 42 47 52 55 157 228 257 310 392 409 448 464 594 685 711 743 745 823 833 843 856 867 969 1006 1044 1162
+13 21 26 32 35 42 47 52 55 284 310 368 392 409 448 464 489 594 685 711 823 833 843 856 867 969 1006 1044
+13 21 26 31 35 42 47 52 57 157 187 296 368 374 392 403 409 492 601 670 685 743 745 823 833 843 856 872 892 948 969 970 1006 1044
+3 8 20 26 32 37 38 47 49 57 163 174 220 313 345 385 548 577 590 616 731 795 848 889 890 948 957 1022 1040 1114
+9 21 25 30 34 40 47 51 57 151 193 255 360 361 392 454 558 593 594 707 736 741 745 793 797 823 831 833 948 977 1040 1114
+4 21 26 32 35 41 47 51 57 88 158 417 525 601 608 609 610 680 689 693 846 857 872 918 948 1022 1040 1044
+2 8 21 26 32 37 42 45 52 55 89 188 441 463 464 477 488 498 661 672 707 795 842 867 872 889 890 957 1006 1022 1040
+9 13 21 26 32 35 39 47 52 57 223 264 308 360 429 454 465 471 492 544 561 707 743 744 745 823 833 882 969 979 1040 1159
+5 13 21 26 32 35 39 47 52 57 121 171 264 308 360 361 368 403 411 429 454 465 471 492 558 743 744 745 823 833 872 882 884 909 924 969 979 1006 1040 1044
+4 21 25 32 35 41 47 51 57 158 213 270 314 562 601 618 685 704 728 766 857 872 892 899 903 948 1022 1040
+1 11 21 26 31 37 42 46 50 57 151 273 279 379 385 446 463 466 472 509 515 523 575 601 615 661 707 710 716 733 770 872 878 896 935 975 1040 1046
+7 21 26 30 35 41 47 52 57 99 218 374 392 445 454 542 594 601 745 892 903 969 970 1121 1130
+9 14 21 26 31 37 40 45 52 57 299 322 323 385 411 453 466 501 525 770 782 795 823 948 975 1040 1114
+1 21 26 32 35 42 47 51 57 84 361 374 454 504 542 582 601 685 707 728 843 856 903 927 930 935 948 969 1022 1040 1045
+14 18 21 26 32 36 42 47 50 56 100 411 418 445 610 685 771 774 856 896 925 930 1040 1044 1110
+3 11 21 26 32 35 42 47 52 56 98 263 306 326 409 505 578 616 687 711 856 872 917 969 970 996 1006 1044 1121
+7 15 21 23 32 35 39 45 50 56 78 191 251 338 350 363 389 390 392 437 445 454 498 501 594 762 842 1040 1130 1148
+3 11 21 26 31 37 40 45 52 57 188 193 220 360 379 385 498 523 577 593 710 716 761 789 848 884 896 935 948 1022 1040 1114
+8 11 21 26 31 35 41 45 52 57 193 214 220 350 360 379 445 454 488 498 509 531 569 577 661 710 716 777 789 795 848 937 948 1040 1104
+17 18 19 23 32 36 40 44 50 57 250 338 379 414 444 501 503 577 593 780 813 825 834 878 896 909 948 992 1040 1159
+4 21 27 32 36 42 47 52 57 126 192 314 445 477 533 601 611 618 856 867 903 930 969 995 1147
+4 20 25 30 34 41 47 52 56 126 192 445 449 533 561 601 856 903 930 948 969 1040 1044 1147
+2 20 25 32 35 42 47 52 55 77 160 404 542 562 718 843 903 925 1022
+3 21 25 32 36 42 44 52 55 245 283 319 320 412 505 569 577 657 761 770 802 872 903 904 971 1006 1107 1122
+5 17 21 26 32 37 41 45 52 57 61 171 264 308 397 425 471 501 615 630 707 733 825 872 877 878 884 894 909 970 995
+1 21 26 30 36 41 47 52 57 79 122 308 350 360 361 409 454 474 489 544 561 601 604 711 736 840 845 856 874 944 1008 1043 1130
+10 17 20 26 31 36 40 47 51 57 177 204 293 360 366 374 417 593 594 751 903 1040 1114
+3 13 21 26 31 35 41 47 52 57 240 263 271 409 454 551 578 582 597 616 689 730 743 745 778 833 911 1006 1044 1161
+2 13 21 25 30 37 40 47 51 57 111 113 258 360 453 454 471 488 498 556 672 699 728 745 761 813 823 833 872 925 1022 1040 1114 1159
+4 15 21 26 32 35 42 46 52 57 122 140 221 314 438 442 450 535 611 670 843 872 892 903 969 970 1044 1130 1162
+4 15 21 26 30 36 42 45 52 57 122 221 281 324 360 434 441 443 525 593 611 707 731 732 842 1040 1130
+9 21 25 32 35 39 47 52 57 229 238 360 393 448 454 489 530 594 736 743 762 823 833 1006 1040 1047 1114 1132
+3 10 21 26 32 36 42 46 51 56 129 318 320 366 417 426 465 567 577 751 829 848 863 872 979 1006 1022 1040 1114
+3 21 26 32 35 42 47 52 54 205 271 326 392 409 448 505 578 616 689 711 911 969 1044
+5 8 21 25 32 36 42 45 52 57 176 197 209 278 363 425 445 542 671 780 795 801 878 909 970 971 1148
+14 21 25 32 37 42 44 50 57 93 301 525 770 778 834 837 872 1006 1161
+11 21 27 32 37 42 46 52 57 64 133 167 379 412 414 444 525 553 615 659 667 710 716 733 793 896 995 1006 1046
+11 18 20 25 32 36 41 44 50 57 64 133 167 379 414 444 525 553 659 667 710 716 834 896 991 1006 1010 1040
+16 18 21 25 31 35 42 46 52 57 118 194 203 477 615 675 685 733 816 843 867 884 895 1040 1046
+17 21 27 32 35 40 47 52 57 72 259 284 392 409 411 477 504 544 594 601 685 823 903 948 969 1006 1029 1040 1044
+7 21 26 32 35 40 47 52 57 72 99 360 368 392 494 561 593 594 601 623 635 666 689 745 872 892 937 999 1006 1040 1044 1049 1124
+5 21 27 32 35 41 46 51 57 108 162 425 569 616 638 707 731 761 813 843 878 884 890 938 1040 1147
+6 12 21 26 32 37 42 44 51 57 145 241 357 373 414 417 525 577 722 842 872 1022 1040
+13 21 26 30 34 39 47 52 57 202 308 360 454 474 526 556 558 593 707 736 743 744 745 760 823 833 872 969 970 1040 1114
+6 21 26 32 37 40 47 51 57 144 341 350 505 516 582 583 584 594 616 739 804 842 872 937 1046 1047 1114 1121 1130
+1 11 21 26 32 37 42 45 51 56 151 208 274 379 414 463 466 553 575 710 716 770 872 895 970 1147
+1 11 21 26 32 37 42 46 50 56 193 208 274 379 414 444 553 575 615 710 716 733 770 786 895 896 970 1100 1147
+5 16 21 27 32 36 42 47 52 56 139 339 368 409 477 578 601 675 707 711 728 766 831 845 850 884 909 945 969 1006 1022 1040 1044 1067
+17 21 25 30 34 42 47 52 57 135 239 360 368 411 454 501 556 558 561 593 594 601 685 707 736 745 823 833 846 920 937 948 969 1040 1044
+14 15 20 23 31 35 42 45 52 54 82 93 150 434 438 439 488 498 560 682 770 842 843 872 878 884 903 925 969 971 1006 1022 1040 1044
+18 19 22 31 35 40 47 50 54 154 392 409 594 685 689 711 720 736 754 793 856 872 892 924 969 970 1006 1022 1040 1044
+17 18 19 22 31 33 40 47 50 54 154 392 409 594 685 754 842 856 872 892 924 1119
+7 20 22 31 35 40 47 50 54 97 360 392 409 558 593 594 685 833 842 969 1022 1040
+7 17 19 22 31 35 39 47 49 54 97 318 360 392 409 558 593 594 615 685 711 736 793 842 892 1118
+8 21 25 30 35 42 47 50 57 200 260 261 312 368 411 445 492 542 548 580 601 623 689 707 774 882 889 890 948 957 1040
+8 16 21 25 30 35 42 47 50 57 122 200 201 445 542 580 601 689 707 774 867 948 957 1040
+8 15 19 22 29 36 41 44 51 54 204 318 400 434 443 451 488 498 731 770 795 889 890 957 970 1022 1040 1044
+7 16 19 24 30 34 40 47 52 56 294 374 392 445 580 594 689 843 856 903 921 956 969 970 1006 1040 1044 1101
+3 7 19 24 30 34 40 47 52 56 294 326 374 392 445 582 594 689 849 856 882 892 903 969 970 1040 1044 1072 1101
+4 16 21 23 30 35 40 47 51 55 158 314 374 392 409 445 600 601 704 766 856 857 872 892 903 948 969 1022 1040 1044
+5 19 24 32 35 42 45 52 53 289 323 459 471 473 615 728 733 872 877 878 879 884 909 971 1006 1022 1044 1046 1054
+15 21 24 28 35 42 45 52 57 101 323 434 437 438 440 441 453 454 471 670 762 872 970 971 985 1047
+6 21 24 30 34 39 47 50 57 80 342 360 392 409 558 561 583 593 831 842 856 872 937 948 969 1022 1040 1044
+14 19 24 30 37 42 44 52 54 127 318 379 412 444 560 661 694 710 770 842 867 872 925 970 971 1006 1040 1044
+6 11 19 22 30 33 38 46 49 57 68 318 360 392 409 528 561 766 856 896 937 969 1022 1040 1044 1159
+1 11 21 25 30 35 42 45 52 57 118 153 232 318 361 379 429 453 454 466 623 635 710 715 716 834 872 878 884 892 895 896 948 970 1010 1040 1159
+12 13 21 25 32 34 41 47 52 56 237 239 269 316 392 417 450 623 664 720 832 856 892 903 934 948 969 970 1006 1022
+1 9 21 24 29 34 40 47 52 57 78 130 293 342 374 392 409 445 454 474 492 550 580 685 707 856 892 1002
+1 9 19 24 30 37 40 44 52 57 175 359 379 453 509 575 651 652 707 872 904 948 1040 1044
+3 14 21 25 30 35 42 47 52 57 58 179 271 326 409 429 505 551 578 616 682 711 917 969 1044
+3 14 21 25 30 36 42 45 52 57 58 179 271 318 326 505 569 577 770 842 848 872 917 948 970 971 1040 1044
+7 8 19 25 32 34 42 47 52 55 200 204 292 314 392 422 465 477 542 618 664 739 771 856 872 903 993 1006 1010 1076 1161
+8 16 21 25 31 35 41 47 52 56 153 199 271 326 346 409 418 483 542 616 689 813 856 889 890 957 1040 1044
+10 18 20 24 32 35 42 44 52 55 88 94 379 444 453 553 651 659 685 710 795 842 846 970 971 1022 1040 1044
+10 18 21 24 32 35 40 44 50 57 191 379 444 453 553 593 651 659 710 795 842 948 971 1022 1040 1044 1104
+4 16 21 25 32 35 42 47 52 55 192 206 368 506 601 618 685 813 843 867 882 895 903 969 970 1006 1022 1044
+3 6 21 25 32 36 38 46 52 57 191 240 243 448 569 581 584 616 743 778 872 911 1006 1161
+2 14 20 25 30 37 40 45 52 57 77 291 453 560 770 789 842 872 887 925 1022 1040
+3 7 21 25 31 35 42 46 52 56 181 283 326 328 366 368 374 392 505 582 601 728 751 856 903 948 969 1006 1022 1040 1044
+1 21 26 30 35 42 47 52 57 122 164 281 360 361 429 464 561 594 603 685 831 840 842 845 874 892 935 937 1008 1040 1043 1114 1121
+1 21 26 30 36 42 47 51 57 67 122 281 360 361 377 453 464 465 474 561 594 685 736 766 829 840 845 851 872 874 892 935 948 1022 1040 1043 1085 1121
+12 21 27 32 37 41 47 51 57 152 253 388 494 601 610 638 783 813 828 843 867 890 903 1006 1022 1040 1114 1162
+12 16 21 26 32 35 42 47 52 56 269 282 343 494 601 610 618 843 856 876 903 969 1006 1022 1044
+5 7 21 26 32 35 42 47 52 55 155 185 297 392 432 463 477 492 580 601 624 667 740 882 909 927 970 1006 1041 1044 1101
+1 21 26 32 37 42 47 52 55 79 117 278 352 377 409 463 618 695 771 886 903 1047 1162
+18 21 26 32 37 40 47 52 56 67 302 360 399 409 489 578 685 707 711 741 831 927 935 1022 1040 1114
+8 14 21 27 32 37 42 45 52 56 159 391 411 412 414 418 463 466 509 525 560 661 770 786 795 877 878 889 890 895 905 925 970 971 995 1006 1104
+1 4 21 25 32 37 41 44 50 57 132 234 414 453 466 525 575 609 611 707 837 842 872 918 944 948 1040 1130
+1 10 21 27 32 36 42 47 52 56 130 140 153 239 308 366 429 450 474 487 515 603 675 707 720 751 863 867 903 969 970 1002 1040
+13 21 27 32 37 40 47 52 57 82 211 264 360 411 454 593 707 731 756 823 995
+13 20 25 30 35 39 47 51 57 82 211 264 360 411 454 593 707 731 756 823 1040
+2 11 21 25 31 37 40 44 52 57 113 301 330 338 379 418 465 466 470 498 593 710 716 834 1006 1010 1022 1040 1159
+2 14 20 25 32 34 42 47 50 56 113 301 353 374 392 418 694 771 774 856 867 1006 1022 1040 1044 1159
+5 21 26 30 37 41 45 52 57 95 109 256 313 383 385 425 615 656 674 733 789 805 842 872 877 878 884 889 909 948 1022 1040 1114
+8 14 21 25 32 37 42 44 52 55 93 391 412 414 418 463 466 509 525 560 661 710 770 795 842 867 878 889 895 925 957 970 971 1006 1040 1044
+5 10 21 26 32 37 42 45 52 54 86 297 304 320 425 464 567 751 863 872 877 878 884 903 909 918 970 971 1006 1022 1044
+16 21 25 32 35 41 47 52 56 128 153 253 361 395 409 418 489 578 597 603 670 685 711 737 741 867 892 924 948 969 970 1040
+1 8 21 26 32 36 42 47 52 55 200 203 292 314 399 421 463 515 542 601 618 675 689 845 850 855 856 867 889 903 957 1006 1010 1022 1037 1040 1067
+4 14 21 26 32 35 42 47 52 56 150 305 411 611 682 694 704 728 766 774 813 837 842 872 969 1006 1022 1040 1044
+4 9 21 25 32 37 42 47 50 55 184 453 466 525 601 609 611 728 795 813 821 889 890 1006 1022 1040
+13 21 26 32 35 40 47 52 57 63 220 240 368 406 465 496 561 601 739 743 745 823 833 856 872 874 892 934 948 1006 1022 1047 1114
+2 4 21 26 32 35 42 45 52 57 81 152 409 466 488 498 525 538 609 611 672 707 766 807 831 842 844 872 925 971 1006 1040 1044
+11 12 21 26 32 37 41 45 50 57 274 279 373 379 414 453 472 615 638 710 716 731 733 740 811 834 896 975 1006 1022 1040 1041
+11 19 26 31 37 42 45 52 55 118 189 252 379 414 501 620 707 751 770 834 842 872 993 1006 1040
+17 18 21 25 31 37 42 47 50 56 179 193 194 463 477 527 579 601 685 823 856 884 945 1040
+3 21 27 32 35 42 47 52 55 124 217 308 326 465 487 515 616 638 707 831 843 872 876 898 969 970 1006 1043 1044
+10 16 21 26 32 35 41 47 51 57 76 157 224 366 448 450 563 601 638 675 743 745 751 823 833 843 863 867 903 970 1006 1022 1047 1157
+3 19 26 30 37 42 47 52 55 307 314 374 392 445 505 580 594 598 616 917 937 969 970 1040 1044 1072
+8 17 21 25 32 35 41 47 52 56 110 191 542 561 594 630 675 689 780 815 872 889 937 945 957 1006 1040 1044 1159
+1 15 21 25 32 36 42 46 52 55 220 238 361 429 434 437 443 582 601 672 707 728 780 867 903 948 1022 1044
+17 21 26 32 36 39 47 52 57 106 360 393 454 558 593 594 595 639 707 736 745 813 823 842 872 1040 1114 1130
+11 21 26 31 37 42 47 50 57 116 151 152 379 397 414 444 445 463 509 523 576 615 661 710 716 733 842 884 889 895 896 958 1040
+8 13 20 25 32 37 41 44 52 56 89 287 414 453 466 654 699 795 796 813 814 823 889 1006
+14 21 26 32 35 40 47 51 57 115 228 360 409 418 578 663 685 694 707 711 736 741 774 831 895 925 969 1040 1044 1114 1162
+7 10 21 25 32 35 42 47 52 56 90 233 276 314 366 392 399 450 474 616 751 856 863 872 876 903 969 970 1022 1044
+6 21 25 28 35 42 47 52 57 239 244 281 350 454 558 581 582 583 601 616 685 846 872 948 969 1040 1044 1130
+3 11 21 26 31 35 42 47 52 57 179 237 308 325 326 409 448 486 487 505 664 711 713 731 834 842 872 970 1130
+3 20 25 28 35 40 47 52 57 188 291 300 342 360 411 454 616 707 736 793 911 917 935 1022 1040 1114
+3 15 21 26 32 37 42 45 51 57 85 262 434 441 569 585 638 661 728 848 867 872 944 948 970 1022 1040 1161
+7 14 19 25 30 35 42 47 51 56 99 151 296 374 392 445 454 487 580 723 736 823 867 903 966 970 1006 1040
+8 9 21 27 29 37 42 47 50 57 199 291 298 411 454 542 548 689 707 731 813 823 889 890 935 957 1022 1040
+1 11 21 25 30 36 42 45 52 57 66 91 232 318 379 414 466 523 575 661 707 710 716 770 834 872 878 884 896 900 927 944 1040 1130 1159
+1 21 25 29 35 42 46 52 57 217 226 235 320 323 361 363 379 393 453 454 498 530 549 572 577 745 751 770 823 877 937 1006 1040 1114
+16 17 20 24 30 34 40 47 51 57 99 204 267 594 602 618 843 856 872 956 1040 1049
+7 9 20 24 30 34 39 47 52 56 207 360 374 392 454 550 582 601 728 823 948 959 1022 1040 1114
+11 18 21 24 30 37 41 47 50 55 207 379 414 463 615 679 685 707 710 733 823 834 884 895 896 927 959 1022 1040 1046
+4 16 21 24 30 34 41 47 51 57 207 377 392 409 538 766 821 843 857 872 948 959 1040 1044 1047
+14 18 19 24 32 37 42 44 49 54 207 379 412 414 444 466 651 659 699 716 770 867 878 959 971 1006 1044
+7 12 21 24 31 34 42 46 50 57 207 314 374 392 454 494 497 500 610 653 903 924 925 948 959 969 1022 1040 1044
+5 9 21 24 31 37 41 45 51 55 207 425 453 501 699 813 823 842 872 878 909 948 959 970 1022
+9 17 21 24 31 35 40 47 52 55 212 453 454 582 594 601 728 823 825 877 909 948 959 1022 1040
+3 6 19 24 32 37 40 45 52 54 212 357 385 463 505 516 569 577 867 872 903 959 971 1022 1044
+5 7 21 24 28 34 40 47 52 57 212 392 445 454 477 558 580 685 856 882 909 924 948 959 1040
+10 16 21 24 31 37 41 45 52 55 212 320 412 453 498 501 567 601 867 959
+2 8 20 24 32 37 42 44 50 55 212 318 414 425 466 484 710 796 842 872 959
+5 13 21 24 30 34 40 47 52 57 212 438 454 492 580 683 743 745 823 833 872 882 924 945 959 1040 1047
+6 15 19 23 30 34 41 47 51 56 143 280 437 438 454 529 581 583 584 594 762 856 1022 1047

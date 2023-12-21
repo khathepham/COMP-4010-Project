@@ -42,19 +42,7 @@ def category_dictionary():
         global all_types
         all_types=json.load(f)
         
-def category_of(tokens):
-    tokens=tokens.split(":")
-    token=tokens[1]
-    if token in all_moves:
-        return "move:"
-    if token in all_abilities:
-        return "abilities:"
-    if token in all_tiers:
-        return "tier:"
-    if token in all_types:
-        return "type:"
-    else:
-        return "something_else:"
+
 
 def convert_ids_to_strings(output,input):
     category_dictionary()
@@ -62,6 +50,7 @@ def convert_ids_to_strings(output,input):
     with open(output, "w") as f:
         input =open(input, "r")
         for line in input:
+            line=line.rstrip('\n')
             tokens=line.split(" ")
             #print(tokens)
             i=0
@@ -76,6 +65,7 @@ def convert_ids_to_strings(output,input):
                       notId=True
                 else:
                     f.write(' '+tokens[i])
+            f.write("\n")
 
 
 def extract_rules(set):
@@ -211,11 +201,7 @@ def find_special_rules_only_in_ou(ou_set, union):
     print(f"There are {len(ou_complement)} different rules in ou_complment.")  
     return ou_complement
     
-                
-ALL_POKES="pokeparse.txt"
-OU_POKES="pokeparse_ou.txt"
-ABOVE_OU_POKES="pokeparse_aboveou.txt"  
-BELOW_OU_POKES="pokeparse_belowou.txt"
+
 
 
 if __name__ == '__main__':
@@ -225,6 +211,7 @@ if __name__ == '__main__':
     #if finput==ALL_POKES:
         #pass
     #elif finput==OU_POKES:
+    convert_ids_to_strings("output_patterns_string.txt", "output_patterns_id.txt")
     convert_ids_to_strings("output_intermediate.txt", "output_1.txt")
     all_rules=filter_rules_in_tier("output_intermediate.txt", "ouput_final", "OU")
 

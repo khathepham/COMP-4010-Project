@@ -40,6 +40,7 @@ public class MainTestAllAssociationRules_AprioriInverse_saveToFile_withLift {
 		AlgoAprioriInverse apriori2 = new AlgoAprioriInverse();
 		// apply the algorithm
 		Itemsets patterns = apriori2.runAlgorithm(minsup, maxsup, input, null);
+		apriori2.runAlgorithm(minsup, maxsup, input, "output_patterns_id.txt");
 		int databaseSize = apriori2.getDatabaseSize();
 		apriori2.printStats();
 
