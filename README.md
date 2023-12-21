@@ -27,7 +27,7 @@ To perform Association closed rules with Apriori Inverse:
 ```
 java MainTestAllAssociationRules_AprioriInverse_saveToFile_withLift pokeparse_all.txt 0.004 0.1 0.5 1 output_1.txt
 ```
-+ Since output is saved in output file is in ID, run ```python3 convert_id_to_string.py``` to see the results in strings. The output is saved in output_final (for the entire output), output_final_ou.txt (for the rules in OU), similarly for output_final_aboveou.txt and output_final_belowou.txt. Note: output_patterns_string.txt is the output of the apriori inverse frequent items in string. 
++ Since output is saved in output file is in ID, run ```python3 convert_id_to_string_simple.py``` to see the results in strings. The output is saved in output_final (for the entire output), output_final_ou.txt (for the rules in OU), similarly for output_final_aboveou.txt and output_final_belowou.txt. Note: output_patterns_string.txt is the output of the apriori inverse frequent items in string. 
 
 
 
